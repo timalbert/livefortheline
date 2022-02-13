@@ -4,7 +4,22 @@
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>2/8/21  &bull; One Year - Live for the Line</title>
-    <script src="https://cdn.tailwindcss.com"></script>
+
+    <link rel="preconnect" href="https://fonts.googleapis.com"> 
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin> 
+    <link href="https://fonts.googleapis.com/css2?family=Courier+Prime:wght@400;700&family=Montserrat:ital,wght@0,200;0,300;0,400;0,600;0,700;1,400&display=swap" rel="stylesheet">
+    <script src="https://cdn.tailwindcss.com?plugins=typography,line-clamp""></script>
+    <script>
+      // const defaultTheme = require('tailwindcss/defaultTheme')
+      tailwind.config = {
+        theme: {
+          fontFamily: {
+            mono: '"Courier Prime"',
+            sans: 'Montserrat',
+          },
+        }
+      }
+    </script>
   </head>
   <body>
     <div class="min-h-screen bg-slate-900 text-slate-300 flex flex-col justify-center relative overflow-hidden sm:py-12 pb-12">
@@ -18,11 +33,13 @@
         </a>
       </div>
       <div class="max-w-lg mx-auto px-6">
-        <div class="text-xl font-light leading-relaxed antialiased">
-          <h1 class="text-2xl font-mono font-semibold uppercase">2/8/21  &bull; One Year Later</h1>
-          <p class="mt-7">2 PM. Little did I know it, but in a few moments my my whole life would change. I walked into the ER at Mass Eye & Ear and never walked out.</p>
+        <div class="text-xl font-light leading-relaxed">
+          <h1 class="text-2xl font-sans font-bold uppercase text-yellow-500">2/8/21  &bull; One Year Later</h1>
+          <p class="mt-7">Little did I know it, but in a few moments my my whole life was about to change. I walked into the emergency room at Mass Eye & Ear and never walked out.</p> 
           
-          <p class="mt-7">“Is it terminal?“ is what stumbled out of my mouth as the doctor explained “we found the cause of the papilledema.“ He told me it was a tumor causing the cranium pressure my optometrist noticed on Friday. He showed me the MRI scans and the chill of that moment is still palpable for me. I sat with him in shock. Exactly how long this all took escapes me, but next thing I remember was the doctor explaining that they would immediately admit me to the adjacent hospital, MGH, and get me to all the right people and places.
+          <p class="mt-7"></p>A day earlier, my optometrist called, while I was playing with the boys in the snow (I thought it strange for a Sunday afternoon). It was Dr. Chang and he insisted that I go to the ER at MEEI the next morning. He told me he would call over with the details and explained that they would be able to workup the issue the fastest. All I saw him for was an eye exam two days earlier, turns out I am far sighted. He wrote something on my discharge paper that I did not think much of "papilledema."</p>
+          
+          <p class="mt-7">“Is it terminal?“ is what stumbled out of my mouth as the doctor in the ER explained, “we found the cause of the papilledema.“ He told me it was a tumor causing the cranium pressure my optometrist noticed on Friday. He showed me the MRI scans and the chill of that moment is still palpable for me. I sat with him in shock. Exactly how long this all took escapes me, but next thing I remember was the doctor explaining that they would immediately admit me to the adjacent hospital, MGH, and get me to all the right people and places.
           </p>
 
           <p class="mt-7">

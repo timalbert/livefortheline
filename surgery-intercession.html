@@ -4,7 +4,23 @@
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>2/10/21  &bull; Surgery and Intercession - Live for the Line</title>
-    <script src="https://cdn.tailwindcss.com"></script>
+
+
+    <link rel="preconnect" href="https://fonts.googleapis.com"> 
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin> 
+    <link href="https://fonts.googleapis.com/css2?family=Courier+Prime:wght@400;700&family=Montserrat:ital,wght@0,200;0,300;0,400;0,600;0,700;1,400&display=swap" rel="stylesheet">
+    <script src="https://cdn.tailwindcss.com?plugins=typography,line-clamp""></script>
+    <script>
+      // const defaultTheme = require('tailwindcss/defaultTheme')
+      tailwind.config = {
+        theme: {
+          fontFamily: {
+            mono: '"Courier Prime"',
+            sans: 'Montserrat',
+          },
+        }
+      }
+    </script>
   </head>
   <body>
     <div class="min-h-screen bg-slate-900 text-slate-300 flex flex-col justify-center relative overflow-hidden sm:py-12 pb-12">
@@ -18,8 +34,8 @@
         </a>
       </div>
       <div class="max-w-lg mx-auto px-6">
-        <div class="text-xl font-light leading-relaxed antialiased">
-          <h1 class="text-2xl font-mono font-semibold uppercase">2/10/21  &bull; Surgery & Intercession</h1>
+        <div class="text-xl font-light leading-relaxed">
+          <h1 class="text-2xl font-sans font-bold uppercase text-yellow-500">2/10/21  &bull; Surgery & Intercession</h1>
 
           <p class="mt-7">The anesthesiologist rolled his cart into my room around 4:30 AM to start prepping. I’d be under shortly and out for the whole operation. There are craniotomy procedures where the patient is awake during the surgery. I am grateful to be unconscious this time.</p>
 
