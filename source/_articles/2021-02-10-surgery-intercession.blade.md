@@ -3,7 +3,7 @@ extends: _layouts.article
 section: content
 title: Surgery & Intercession
 date: 2/10/21
-icon: calendar
+icon: cake
 ---
 
 The anesthesiologist rolled his cart into my room around 4:30 AM to start preparations. I’d be under shortly and out for the whole operation. There are craniotomy procedures where the patient is awake during the surgery. I am grateful to be unconscious this time.

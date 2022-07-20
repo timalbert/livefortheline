@@ -5,7 +5,7 @@
             <div class="text-xl font-light leading-relaxed">
                 <h1 class="text-2xl font-semibold uppercase">{{ $page->date }} <span class="text-yellow-500">&bull;</span> {{ $page->title }}</h1>
 
-                <div class="mt-8 prose prose-xl prose-white text-slate-300">
+                <div class="mt-8 prose:dark prose-xl prose-white text-slate-300">
                     @yield('content')
                 </div>
 

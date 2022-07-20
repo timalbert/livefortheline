@@ -12,9 +12,9 @@
         <link rel="stylesheet" href="{{ mix('css/main.css', 'assets/build') }}">
     </head>
     <body class="min-h-screen bg-slate-900 text-slate-300 font-sans antialiased">
-        <div class="flex flex-col relative overflow-hidden pb-12 sm:pt-8">
-            <div class="flex justify-end px-6 sm:px-12">
-                <a href="https://www.gofundme.com/f/Help-Tim-Fund-Vital-Brain-Cancer-Treatment" class="px-5 py-2.5 rounded-lg bg-yellow-400 text-slate-900 text-sm font-semibold hover:bg-yellow-500" target="_blank">Donate</a>
+        <div class="flex flex-col relative overflow-hidden pb-12">
+            <div class="flex justify-end">
+                <a href="https://www.gofundme.com/f/Help-Tim-Fund-Vital-Brain-Cancer-Treatment" class="px-5 py-2.5 bg-yellow-400 text-slate-900 text-sm font-semibold hover:bg-yellow-500" target="_blank">Go Fund Me</a>
             </div>
             <div class="mt-8 mb-10 -mx-20 sm:mx-0 flex flex-col justify-center">
                 <a href="/" rel="home">
