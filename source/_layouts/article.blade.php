@@ -9,14 +9,16 @@
                     @yield('content')
                 </div>
 
-                <div class="mt-12 pt-3 border-t border-yellow-500">
-                    <a class="font-mono hover:text-yellow-500 flex items-center" href="{{ $page->getUrl() }}">
-                        <svg class="w-6 h-6 stroke-yellow-500" stroke-linecap="round" stroke-linejoin="round">
-                            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 8v4l3 3m6-3a9 9 0 11-18 0 9 9 0 0118 0z" />
-                        </svg>
-                        <p class="ml-4">2/9/21  &bull; Waiting</p>
-                    </a>
-                </div>
+                @if ($page->getNext())
+                    <div class="mt-12 pt-3 border-t border-yellow-500">
+                        <a class="font-mono hover:text-yellow-500 flex items-center" href="{{ $page->getNext()->getPath() }}">
+                            <svg class="w-6 h-6 stroke-yellow-500" stroke-linecap="round" stroke-linejoin="round">
+                                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 8v4l3 3m6-3a9 9 0 11-18 0 9 9 0 0118 0z" />
+                            </svg>
+                            <p class="ml-4">{{ $page->getNext()->title }}</p>
+                        </a>
+                    </div>
+                @endif
             </div>
       </div>
 @endsection
