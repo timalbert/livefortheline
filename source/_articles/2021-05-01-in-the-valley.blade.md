@@ -55,7 +55,7 @@ I’ve needed all the help I can get to worship God in this season. I’ve been 
 <x-blockquote>
     <div>Lord, High and Holy, Meek and Lowly,</div>
 
-    <div class="mt-4">Thou hast brought me to the valley of vision,
+    <div>Thou hast brought me to the valley of vision,
     where I live in the depths but see thee in the heights;
     hemmed in by mountains of sin I behold thy glory.</div>
 

@@ -1,0 +1,30 @@
+---
+extends: _layouts.update
+section: content
+title: Trip 2
+date: 7/4/21
+image: wimby.gif
+---
+
+Back in Germany for trip #2 and dose #5. This time, my travel companion is my cousin and best friend, Jim. We came through London and stumbled upon a small tennis tournament down the street from Heathrow airport. 
+
+Psalm 90 has been an anchor for this trip, and for my soul this year. Faced with the brevity of life through this cancer and just recently losing a dear aunt and uncle, I've longed for something that doesn't fade away in life. 
+
+The Lord who is eternal and unchanging — "from everlasting to everlasting" (v. 2) — has been that comfort for me and I know whatever's facing you, he can be that too.
+
+"Satisfy us in the morning with your steadfast love, that we may rejoice and be glad all our days" (v. 14). 
+
+
+<iframe class="w-full aspect-video" src="https://www.youtube.com/embed/ara0P_pUMO4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+## Some things I’ve been reading and listening to this trip:
+
+<ul class="list-disc">
+    <li><a class="hover:text-yellow-500" href="https://www.thegoodbook.com/born-again-this-way"><b>Book</b> - "Born Again This Way" by Rachel Gilson</a>
+    </li><li>
+        <a class="hover:text-yellow-500" href="https://redeemingproductivity.com/podcast/retirement-stewardship"><b>Podcast</b> - Redeeming Productivity "Retirement Stewardship"</a>
+    </li>
+    <li>
+        <a class="hover:text-yellow-500" href="https://podcasts.apple.com/us/podcast/the-macarthur-center-podcast/id1568514256?i=1000564789906"><b>Podcast</b> - The MacArthur Center "MacArthur and the Russians"</a>
+    </li>
+</ul>

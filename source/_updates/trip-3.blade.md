@@ -1,0 +1,34 @@
+---
+extends: _layouts.update
+section: content
+title: Trip 3
+date: 8/2/21
+image: bryan-tubingen-river.jpg
+---
+
+On my way home from trip 3 and dose 6. I’m starting to get used to the rhythms of traveling overseas every 3 to 5 weeks - it feels like I was just here 🇩🇪.  This time my good friend, Bryan, joined me. We had a lot of fun touring around London and Tubingen.
+
+Sometime in the next few weeks I should find out my initial immune response to the vaccine and keytruda treatments. These results won’t tell the whole story, but it will be a significant milestone in this journey. 
+
+If you pray, please pray for me, that the results would show my immune system responding as expected, but even more so that I “wouldn’t fear bad news” (<a  class="text-yellow-500 hover:underline underline-offset-4" href="https://www.esv.org/Psalm+112:1;Psalm+112:7/">Psalm 112:1, 7</a>). 
+
+## Some things I’ve been reading and listening to this trip:
+
+<ul class="list-disc">
+    <li><a class="hover:text-yellow-500" href="https://www.crossway.org/books/r-c-sproul-hcj/"><b>Book</b> - R.C. Sproul: A Life</a>
+    </li><li>
+        <a class="hover:text-yellow-500" href="https://podcasts.apple.com/us/podcast/the-connecting-podcast/id1588398155?i=1000569246418"><b>Podcast</b> - Paul Tripp interview with Elyse Fitzpatrick</a>
+    </li>
+    <li>
+        <a class="hover:text-yellow-500" href="https://podcasts.apple.com/us/podcast/timothy-keller-sermons-podcast-by-gospel-in-life/id352660924?i=1000571556677"><b>Podcast</b> - Tim Keller sermon “Temptation” from the story of Joseph</a>
+    </li>
+    <li>
+        <a class="hover:text-yellow-500" href="https://podcasts.apple.com/us/podcast/truth-for-life-daily-program/id91473880?i=1000571545686"><b>Podcast</b> - Alistair Begg sermon “A surprising punchline”  the end of Ecclesiastes “fear God”</a>
+    </li>
+    <li>
+        <a class="hover:text-yellow-500" href="https://podcasts.apple.com/us/podcast/redeeming-productivity/id1476403107?i=1000574654789"><b>Podcast</b> - Regan Rose interview about the Christian productivity movement</a> 
+    </li>
+    <li>
+        <a class="hover:text-yellow-500" href="https://podcasts.apple.com/us/podcast/renewing-your-mind-with-r-c-sproul/id110916650?i=1000574729706"><b>Podcast</b> - R.C. Sproul series “What is beyond the physical?” Why is there something rather than nothing?</a>
+    </li>
+</ul>
