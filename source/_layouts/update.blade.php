@@ -3,7 +3,7 @@
 @section('body')
       <div class="max-w-2xl mx-auto px-6 pt-4">
             <div class="text-xl font-light leading-relaxed">
-                <h1 class="text-2xl sm:text-3xl text-center lg:text-left font-bold uppercase">
+                <h1 class="text-2xl sm:text-3xl text-center font-bold uppercase">
                     {{ $page->title }}  <span class="text-yellow-500">&bull;</span>  {{ $page->date }}
                 </h1>
 

@@ -12,7 +12,8 @@
         <link rel="stylesheet" href="{{ mix('css/main.css', 'assets/build') }}">
     </head>
     <body class="min-h-screen bg-slate-900 text-slate-300 font-sans antialiased">
-        <div class="flex flex-col relative overflow-hidden pb-12">
+        <div class="flex flex-col relative overflow-hidden">
+
             <div class="flex justify-end">
                 <a href="https://www.gofundme.com/f/Help-Tim-Fund-Vital-Brain-Cancer-Treatment" class="px-4 py-2 lg:px-5 lg:py-2.5 bg-yellow-400 text-slate-900 text-sm font-semibold hover:bg-yellow-500" target="_blank">
                     <svg fill="none" height="25" viewBox="0 0 105 36" class="h-100" xmlns="http://www.w3.org/2000/svg">
