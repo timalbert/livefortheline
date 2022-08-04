@@ -41,7 +41,7 @@
     <div class="py-6 px-6 bg-slate-800 text-base borde border-slate-700">
         <div class="max-w-screen-md mx-auto">
             <p>“Live for the line” was a mantra my late Uncle Mike often used to illustrate the brevity of life.</p>
-            <p class="mt-3">He would explain that this life is like a mere dot on a line representing eternity. Therefore, we should <b class="text-yellow-500 inline-block">live for the line</b>. Life is about living for what is eternally valuable: the glory of God in Jesus Christ (<a class="text-yellow-500"href="https://www.biblegateway.com/passage/?search=John+17%3A3&version=ESV">John 17:3</a>).</p>
+            <p class="mt-3">He would compare our lives to a mere dot on a line representing eternity. Our lives are just a "vapors breath" in comparison to eternity. Therefore we should <b class="text-yellow-500 inline-block">live for the line</b>, spending our lives on what is eternally valuable: the glory of God in Jesus Christ (<a class="text-yellow-500"href="https://www.biblegateway.com/passage/?search=John+17%3A3&version=ESV">John 17:3</a>).</p>
         </div>
         <div class="mt-3 text-sm">
             <a class="flex justify-center hover:text-yellow-500" href="https://vimeo.com/112192201">
