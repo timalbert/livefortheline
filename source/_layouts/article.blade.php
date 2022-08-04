@@ -12,7 +12,7 @@
                 </div>
 
                 @if ($page->getNext())
-                    <div class="mt-12 pt-6 border-t border-yellow-500">
+                    <div class="mt-12 pt-4 pb-8 border-t border-yellow-500">
                         <a class="font-mono hover:text-yellow-500 flex justify-center" href="{{ $page->getNext()->getPath() }}">
                             @include('_icons.'.$page->getNext()->icon)
                             <p class="ml-4">{{ $page->getNext()->title }}</p>

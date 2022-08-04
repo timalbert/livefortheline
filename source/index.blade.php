@@ -15,7 +15,7 @@
     </div>
     
     <div class="max-w-2xl mx-auto py-8 px-4 sm:py-24 sm:px-6 lg:max-w-7xl lg:px-8">
-        <h2 class="text-center text-2xl font-extrabold tracking-tight">Updates</h2>
+        <h2 class="text-center text-3xl font-bold tracking-tight">Updates</h2>
         <div class="mt-6 grid grid-cols-1 gap-y-10 gap-x-6 sm:grid-cols-2 lg:grid-cols-3 xl:gap-x-8">
             @foreach($updates->reverse() as $update)
                 <div class="group relative">
@@ -27,11 +27,11 @@
                             <h3 class="text-sm text-gray-300">
                                 <a href="{{ $update->getUrl() }}">
                                     <span aria-hidden="true" class="absolute inset-0"></span>
-                                    <b>{{ $update->title }}</b>
+                                    <b class="font-bold">{{ $update->title }}</b>
                                 </a>
                             </h3>
                         </div>
-                        <p class="text-sm font-medium text-gray-100">{{ $update->date }}</p>
+                        <p class="text-sm font-mono text-gray-100">{{ $update->date }}</p>
                     </div>
                 </div>
             @endforeach

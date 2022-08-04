@@ -26,7 +26,7 @@ God met me in the valley that night as I sat utterly alone. Dozens of questions 
 
 But, I was never alone.
 
-<x-blockquote>
+<x-blockquote class="font-mono">
     <div><span class="text-sm font-semibold">5.</span> For God alone, O my soul, wait in silence,</div>
     <div class="ml-6">for my hope is from him.</div>
     <div class="mt-4"><span class="text-sm font-semibold">6.</span> He only is my rock and my salvation,</div>
