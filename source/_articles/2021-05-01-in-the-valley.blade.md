@@ -6,17 +6,19 @@ date: 3/21 - 5/22
 icon: help
 ---
 
-Dr. Jones resected around 95% of the tumor during surgery. Originally, her goal was 80%. While this was not everything, it felt like a real victory. Only later would I find out how complex the surgery was and how masterful a job Dr. Jones was able to do. So many things could have gone wrong during my procedure. Even the slightest misstep could have caused irreversible damage to my brain affecting everything from speech, balance, eyesight and cognition. I’m grateful to walk away seemingly unscathed. 
-Immediately I was put on some heavy medication including morphine for pain management and decadron for potential seizure activity, in addition to a cocktail of drugs to counteract nausea. 
-After a few days of recovering at MGH it was clear that I’d need rehab. It was really hard to walk in the days following surgery. I hardly moved from the bed. My routine was to get up every so often to sit in the chair 3 feet beside me. 
+Dr. Jones resected around 95% of the tumor during surgery. Originally, her goal was 80%. While this was not everything, it felt like a real victory. Only later would I find out just how complex the surgery was and how masterful a job Dr. Jones was able to do. So many things could have gone wrong during my procedure. Even the slightest misstep could have resulted in irreversible damage to my brain affecting speech, vision, balance and cognition. I’m grateful to walk away seemingly unscathed. 
+
+Immediately I was put on heavy medication for pain management, nausea, and seizure activity. 
+
+After a few days of recovering at MGH it was clear that I needed rehab. It was really hard to walk in the days following surgery. I hardly moved from the bed. My routine was to get up every so often to sit in the chair 3 feet beside me. 
 
 This was a lonely time. I can’t fully express how painful it was to be alone, without the prospect of a visitor. Not even my wife Kate or pastor Bryan could visit. I’m grateful for the grace of FaceTime and Zoom, but they fell far short from the comfort I needed at a time like this. You can’t embrace a screen with a hug and my young boys did not understand why they couldn’t see their dad. I’m afraid of the ripple effect from treating everyone like they have a disease, even under the circumstances of a pandemic. 
 
-On the third day recovering at MGH a woman from our church dropped in to visit me, she happened to work at the hospital and heard I was admitted.. I was thankful for some company. She brought Valentine’s Day cards so I could write something to the boys and Kate and offered to drive them over to our house! What an incredible gift this was to me!
+During my recovery at MGH, a woman from our church dropped in to visit me. She happened to work at the hospital and heard I was admitted. I was thankful for the company and a familiar face. She brought Valentine’s Day cards so I could write something to the boys and Kate. She even offered to deliver them to our house! What an incredible gift this was to me.
 
 ## At last!
 
-After 10 days, I was leaving this all behind. Kate picked me up at Spaulding Rehab in Charlestown and we drove to my appointment at MGH with Dr. Miller, the oncologist who would let us know the results from pathology. Up until a few days before my appointment, I wasn't even sure what an oncologist’s role was in the process. Eric, who is a pathologist himself, informed me of the weight of what I was about to step into. 
+After 10 days between the two hospitals, I was ready to leave this all behind. Kate picked me up at Spaulding Rehab in Charlestown and we drove to my appointment at MGH with Dr. Miller, the oncologist who would let us know the results from pathology. Up until a few days before my appointment, I wasn't even sure what an oncologist’s role was in the process. Eric, who is a pathologist himself, informed me of the weight of what I was about to step into. 
 
 ## “Don’t Google it”
 
@@ -30,7 +32,7 @@ A pastor friend of ours offered to come to the house for a short visit and to pr
 
 ## In The Mud
 
-I’ve been held up by so many this past year. In prayer, through practical and financial help. A few men from my church even organized rides for the duration of my 6 weeks of daily radiation. I’ve been taught a lesson in generosity through it all and have been humbled by those willing to walk through this mud with me. At times it felt more like an army crawl. My family, Kate and Pastor Bryan have been the most constant, daily encouragement. To have a wife who is not running, a pastor ready and willing to struggle and work through the hardest questions, and the unyielding support of family and friends has brought me to my knees in thankfulness. “I thank my God in all my remembrance of you” (Philippians 1:3). 
+I’ve been held up by so many this past year. In prayer, through practical and financial help. A few men from my church organized rides for the duration of my 6 weeks of daily radiation. I’ve been taught a lesson in generosity through it all and have been humbled by those willing to walk through this mud with me. At times it felt more like an army crawl. My family, Kate and Pastor Bryan have been a constant, daily encouragement. To have a wife who is not running, a pastor ready and willing to struggle and work through the hardest questions, and the unyielding support of family and friends has brought me to my knees in thankfulness. “I thank my God in all my remembrance of you” (Philippians 1:3). 
 
 ## Providence
 
