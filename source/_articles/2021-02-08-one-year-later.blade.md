@@ -2,7 +2,7 @@
 extends: _layouts.article
 section: content
 title: One Year Later
-date: 2/8/21
+date: 2/08/21
 icon: calendar
 ---
 
@@ -16,7 +16,7 @@ A day earlier, my optometrist called while I was outside playing with the boys i
 
 <small class="p-0.5 px-1 bg-yellow-500 text-slate-800 uppercase font-semibold inline-block text-base">No visitors, no exceptions.</small> COVID-19 has the hospital on lockdown. Not even my wife? I’m ushered to MGH on a stretcher, given the deep nasal COVID test and wait alone. Texts and calls start to come in. Kate quickly mobilized an army of believers. There were hundreds I’d find out later, all ready to go to prayer war on my behalf.
 
-As the heat of the moment cooled and I spoke with my family and a few friends, a surgeon came in. She introduced herself, Dr. Jones. She walked me through what was happening. I’m not sure exactly when, but Eric called. He was on the phone with me when Dr. Jones was showing me the scans. I sent him pictures asking what he thought. My confidence always grows around Eric. He probably thought I was a fool asking his opinion with a world-class neurosurgeon in the room 😉.
+As the heat of the moment cooled and I spoke with my family and a few friends, a surgeon came in. She introduced herself, Dr. Jones. She walked me through what was happening. I’m not sure exactly when, but Eric called. He was on the phone while Dr. Jones walked me through the scans. I sent him pictures asking what he thought. My confidence always grows around Eric. He probably thought I was a fool asking his opinion with a world-class neurosurgeon in the room 😉.
 
 Dr. Jones had a special presence about her. It was like she commanded the room and everyone else paused. She would lead the surgery to remove the bulk of the tumor as soon as possible. Before leaving, probably realizing fear was settling in, she squeezed my arm. It felt like no one else would come within 6-feet of me without a swab or a needle. With compassion Dr. Jones told me, “Don’t worry. I do this hundreds of times each year. It’s going to be OK.” It was like God sent an angel to comfort me right when I needed it most.
 
