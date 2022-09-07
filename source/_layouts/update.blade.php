@@ -18,7 +18,7 @@
                 </div>
 
                 @if($page->readings)
-                <h2 class="font-semibold text-2xl mt-8">Some things I've enjoyed this trip</h2>
+                <h2 class="font-semibold text-2xl mt-10">Some things I've enjoyed this trip</h2>
                 <ul class="mt-8">
                     @foreach($page->readings as $reading)
                         <li class="block w-full mt-3">

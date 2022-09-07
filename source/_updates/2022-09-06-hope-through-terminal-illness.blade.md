@@ -8,7 +8,7 @@ image: boys-at-beach.jpg
 
 Tragedy has always been at a comfortable distance away in my life. Amidst the pandemic in 2020, my eyes were opened when a friend my age was diagnosed with ALS and a hero of mine  <a class="text-yellow-500" href="https://www.challies.com/articles/my-son-my-dear-son-has-gone-to-be-with-the-lord/">lost his 20 year old son</a> . Suddenly, I found myself able to envision how suffering might come for me too.
 
-Theologically, I saw the trials and afflictions others faced as a shadow of what will come sooner or later, but only from the perspective as a comfortable onlooker. I knew I wasn’t immune to the realities of a fallen world. Jesus said so in John 16:33, “I have said these things to you, that in me you may have peace. In the world you will have tribulation. But take heart; I have overcome the world.”
+Theologically, I saw the trials and afflictions others faced as a shadow of what will come sooner or later, but only from the perspective as a comfortable onlooker. I knew I wasn’t immune to the realities of a fallen world. Jesus said so in John 16:33, “I have said these things to you, that in me you may have peace. <b b class="font-semibold">In the world you will have tribulation</b>. But take heart; I have overcome the world.”
 
 Would the low grade, everyday hardships be my only irritations in life? At 35, I was not afflicted by suffering in a personal way. I was busy being a 35 year old with a wife, 3 young boys , and a new promotion. I have a full life to live, a family to raise, a God to serve!
 
