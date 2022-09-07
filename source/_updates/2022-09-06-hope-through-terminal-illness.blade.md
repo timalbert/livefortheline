@@ -14,7 +14,7 @@ Would the low grade, everyday hardships be my only irritations in life? At 35, I
 
 ## My own tragedy struck
 
-Then, a tidal wave of suffering came straight at me. After an abrupt, traumatic surgery, I was told unimaginable news. I had brain cancer and there is no known cure. My life would likely be painful and shortened by this terrible disease. There isn't even a category of “remission” for this diagnosis. 
+Then, a tidal wave of suffering came straight at me. After an abrupt, traumatic surgery, I was told unimaginable news. I had brain cancer and there is no known cure. My life would likely be painful and shortened by this terrible disease. There isn't even a category of remission for this diagnosis. 
 
 Will anything ever be the same again? What will happen to my family? Where can I turn? Questions only mounted and fears of the future quickly set in. The perception others had of a man with “strong faith” started to look a lot more like flimsy self-reliance.
 
@@ -26,14 +26,14 @@ In the early months after my diagnosis, I spent a long while reading through the
 
 Living with a terminal diagnosis has felt, at times, like I've been given a death sentence. I’m not headed to the gallows, but the end has been pronounced, my outcome as sure as the best doctors can determine. 
 
-Comforts are hard to come by and when they do, they sift through my fingers like sand. I look at my boys and long to be present throughout their lives. This season truly revealed just how much I “rely on myself.” Can all my dreams and desires be swept away by this storm?
+Comforts are hard to come by and when they do, they sift through my fingers like sand. I look at my boys and long to be present throughout their lives. This season truly revealed just how much I “rely on myself.” Can all my dreams and desires be swept away through this storm?
 
 ## What is your hope?
 
 despondency presses in during moments like this asking, what hope is there to escape inevitable death? 
 
-The cure I longed to hear of through my doctors, I heard afresh in the scriptures. Sitting on my in-laws' guest bed, I silently raised my hands. It was the word I needed, a hope from the one who draws near when the storm is at its worst and all seems lost. Jesus is the sure treatment plan.
+The cure I longed to hear about from my doctors, I heard afresh through the scriptures. Sitting on my in-laws' guest bed, I silently raised my hands in praise. It was the word I needed to hear. A reminder of the hope I cling to even when all else is lost. Jesus is the one who, by his wounds, heals our sentence of death (Isaiah 53:5). 
 
 <a href="https://www.crossway.org/books/gods-grace-in-your-suffering-tpb/" class="text-yellow-500">David Powilson writes</a>, “Whatever you must face changes in the light of the resurrection of Jesus Christ and the promise that you, too, will live.”
 
-Be still my soul and trust in the “eternal rock” (Isaiah 26:4). A life built on Jesus (Matthew 7:24-27) can withstand the raging floods of life that will come. Take it to heart, God will do nothing less than raise you from the dead unto life everlasting!
+Be still my soul and trust in the “eternal rock” (Isaiah 26:4). A life built on Jesus (Matthew 7:24-27) can withstand the raging floods that will come in this life. Take it to heart, God will do nothing less than raise you from the dead!
