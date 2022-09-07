@@ -18,13 +18,15 @@
                 </div>
 
                 @if($page->readings)
-                <h2 class="font-semibold text-2xl">Some things I've enjoyed this trip</h2>
+                <h2 class="font-semibold text-2xl mt-8">Some things I've enjoyed this trip</h2>
                 <ul class="mt-8">
                     @foreach($page->readings as $reading)
-                        <li class="block w-full mt-2">
+                        <li class="block w-full mt-3">
                             <a class="flex hover:text-yellow-500" href="{{ $reading[3] }}">
-                                @include('_icons.'.$reading[0])
-                                <p class="ml-4 font-mono text-base">{{ $reading[1] }} - {{ $reading[2] }}</p>
+                                <span class="text-yellow-500">
+                                    @include('_icons.'.$reading[0])
+                                </span>
+                                <p class="ml-4 font-mono text-lg">{{ $reading[1] }} - {{ $reading[2] }}</p>
                             </a>
                         </li>
                     @endforeach

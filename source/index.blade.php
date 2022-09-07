@@ -10,7 +10,7 @@
             @foreach($articles as $article)
                 <li class="block w-full">
                     <a class="flex hover:text-yellow-500" href="{{ $article->getUrl() }}">
-                        @include('_icons.'.$article->icon)
+                        <span class="text-yellow-500">@include('_icons.'.$article->icon)</span>
                         <p class="ml-4 font-mono text-base">{{ $article->date }} <span class="text-yellow-500">&bull;</span> {{ $article->title }}</p>
                     </a>
                 </li>
