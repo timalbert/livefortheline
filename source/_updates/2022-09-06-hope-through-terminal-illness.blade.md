@@ -14,17 +14,17 @@ Would the low grade, everyday hardships be my only irritations in life? At 35, I
 
 ## My own tragedy struck
 
-Then, a tidal wave of suffering came straight at me. After an abrupt, traumatic surgery, I was told unimaginable news. I had brain cancer and there is no known cure. My life would likely be painful and shortened by this terrible disease. There isn't even a category like “remission” for this diagnosis. 
+Then, a tidal wave of suffering came straight at me. After an abrupt, traumatic surgery, I was told unimaginable news. I had brain cancer and there is no known cure. My life would likely be painful and shortened by this terrible disease. There isn't even a category of “remission” for this diagnosis. 
 
 Will anything ever be the same again? What will happen to my family? Where can I turn? Questions only mounted and fears of the future quickly set in. The perception others had of a man with “strong faith” started to look a lot more like flimsy self-reliance.
 
-In the early months after my diagnosis, I spent a good while reading through the Christian hope in The Lord Jesus Christ’s resurrection. The final chapters of 1 Corinthians and the beginning of 2 Corinthians were worn, tear-covered pages in my bible. A familiar verse I’ve tended to gloss over shined bright in the darkest moment of my life. 
+In the early months after my diagnosis, I spent a long while reading through the Christian hope in the resurrection of The Lord Jesus Christ. The final chapters of 1 Corinthians and the beginning of 2 Corinthians were worn, tear-covered pages in my bible. A familiar verse I’ve tended to gloss over shined bright in the darkest moment of my life. 
 
 <x-blockquote class="font-mono">
     <div>Indeed, we felt that we had received the sentence of death. But that was to make us rely not on ourselves but on God who raises the dead. (2 Corinthians 1:9)</div>
 </x-blockquote>
 
-Living with a terminal diagnosis has felt eerily like a death sentence. I’m not headed to the gallows, but the end has been pronounced, my outcome as sure as the best doctors can determine. 
+Living with a terminal diagnosis has felt at times like I was given a death sentence. I’m not headed to the gallows, but the end has been pronounced, my outcome as sure as the best doctors can determine. 
 
 Comforts are hard to come by and when they do, they sift through my fingers like sand. I look at my boys and long to be present throughout their lives. This season truly revealed just how much I “rely on myself.” Can all my dreams and desires be swept away by this storm?
 
