@@ -24,7 +24,7 @@ In the early months after my diagnosis, I spent a long while reading through the
     <div>Indeed, we felt that we had received the sentence of death. But that was to make us rely not on ourselves but on God who raises the dead. (2 Corinthians 1:9)</div>
 </x-blockquote>
 
-Living with a terminal diagnosis has felt at times like I was given a death sentence. I’m not headed to the gallows, but the end has been pronounced, my outcome as sure as the best doctors can determine. 
+Living with a terminal diagnosis has felt, at times, like I've been given a death sentence. I’m not headed to the gallows, but the end has been pronounced, my outcome as sure as the best doctors can determine. 
 
 Comforts are hard to come by and when they do, they sift through my fingers like sand. I look at my boys and long to be present throughout their lives. This season truly revealed just how much I “rely on myself.” Can all my dreams and desires be swept away by this storm?
 
