@@ -37,3 +37,5 @@ The cure I longed to hear about from my doctors, I heard afresh through the scri
 <a href="https://www.crossway.org/books/gods-grace-in-your-suffering-tpb/" class="text-yellow-500">David Powilson writes</a>, “Whatever you must face changes in the light of the resurrection of Jesus Christ and the promise that you, too, will live.”
 
 Be still my soul and trust in the “eternal rock” (Isaiah 26:4). A life built on Jesus (Matthew 7:24-27) can withstand the raging floods that will come in this life. Take it to heart, God will do nothing less than raise you from the dead!
+
+<iframe class="w-full aspect-video" src="https://www.youtube.com/embed/ZgIBb-pwyrg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
