@@ -22,19 +22,17 @@
         <h2 class="text-center text-3xl uppercase font-semibold">Updates</h2>
         <div class="mt-8 grid grid-cols-1 gap-y-10 gap-x-6 sm:grid-cols-2 lg:grid-cols-3 xl:gap-x-8">
             @foreach($updates->reverse() as $update)
-                <div class="group relative">
+                <div class="group relative bg-slate-800 hover:bg-slate-700 rounded-md">
                     <div class="w-full min-h-80 bg-gray-100 aspect-w-1 aspect-h-1 rounded-md overflow-hidden group-hover:opacity-75 lg:h-80 lg:aspect-none">
                         <img src="/assets/images/{{ $update->image }}" alt="" class="w-full h-full object-center object-cover lg:w-full lg:h-full">
                     </div>
-                    <div class="mt-4 flex justify-between">
-                        <div>
-                            <h3 class="text-sm text-gray-300">
-                                <a href="{{ $update->getUrl() }}">
-                                    <span aria-hidden="true" class="absolute inset-0"></span>
-                                    <b class="font-bold">{{ $update->title }}</b>
-                                </a>
-                            </h3>
-                        </div>
+                    <div class="p-4 flex justify-between">
+                        <h3 class="text-sm text-gray-300">
+                            <a href="{{ $update->getUrl() }}">
+                                <span aria-hidden="true" class="absolute inset-0"></span>
+                                <b class="font-bold">{{ $update->title }}</b>
+                            </a>
+                        </h3>
                         <p class="text-sm font-mono text-gray-100">{{ $update->date }}</p>
                     </div>
                 </div>
@@ -42,7 +40,7 @@
         </div>
     </div>
 
-    <div class="p-6 mt-12 bg-slate-800 text-base borde border-slate-700">
+    <div class="p-12 mt-24 bg-slate-800 text-base">
         <div class="max-w-screen-md mx-auto">
             <p>“Live for the line” was a phrase that my late Uncle Mike would use to illustrate the brevity of life.</p>
             <p class="mt-3">He would compare our lives to a mere dot on a line representing eternity. Life is a "vapors breath" in comparison to eternity. Therefore we should <b class="text-yellow-500 inline-block">live for the line</b>, spending our lives on what is eternally valuable: the glory of God in Jesus Christ (<a class="text-yellow-500"href="https://www.biblegateway.com/passage/?search=John+17%3A3&version=ESV">John 17:3</a>).</p>

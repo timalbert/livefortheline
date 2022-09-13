@@ -1,11 +1,12 @@
 @extends('_layouts.main')
 
 @section('body')
-      <div class="max-w-2xl mx-auto px-6 py-4">
+      <div class="max-w-2xl mx-auto pb-12 px-6 mt-10">
             <div class="text-xl font-light leading-relaxed">
-                <h1 class="text-2xl sm:text-3xl text-center font-bold uppercase">
-                    {{ $page->title }}  <span class="text-yellow-500">&bull;</span>  {{ $page->date }}
-                </h1>
+                <div class="text-center">
+                    <div class="text-yellow-500 font-mono">{{ $page->date }}</div>
+                    <h1 class="text-3xl sm:text-4xl">{{ $page->title }}</h1>
+                </div>
 
                 <div class="mt-8 prose:dark prose-xl prose-white text-slate-300">
 

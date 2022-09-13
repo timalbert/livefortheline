@@ -2,7 +2,7 @@
 extends: _layouts.article
 section: content
 title: In The Valley
-date: 3/21 - 5/22
+date: 3/21 to 5/22
 icon: help
 ---
 
@@ -14,7 +14,7 @@ Following surgery, I was put on heavy medication for pain, nausea, and seizure a
 
 After a few days of recovering at MGH it was clear that I needed rehab. It was really hard to walk in the days following surgery. I hardly moved from the bed. My routine was to get up every so often to sit in a chair 3 feet beside me. 
 
-This was a lonely time. I can’t fully express how painful it was to be alone, without the prospect of a visitor. Not even my wife, Kate or my pastor, Bryan, could visit. I’m grateful for the grace of FaceTime and Zoom, but they fell far short from the comfort I needed at a time like this. You can’t embrace a screen with a hug and my young boys did not understand why they couldn’t be with their dad. I’m afraid of the ripple effect from treating everyone like they have a disease, even under the circumstances of a pandemic. 
+This was a lonely time. I can’t fully express how painful it was to be alone, without the prospect of a visitor. Not even my wife or pastor could visit. I’m grateful for the grace of FaceTime and Zoom, but they fell far short from the comfort I needed at a time like this. You can’t embrace a screen with a hug and my young boys did not understand why they couldn’t be with their dad. I’m afraid of the ripple effect from treating everyone like they have a disease, even under the circumstances of a pandemic. 
 
 During my recovery at MGH, a woman from our church dropped in to visit me. She happened to work at the hospital and heard I was admitted. I was thankful for the company and a familiar face. She brought Valentine’s Day cards so I could write something to the boys and Kate. She even offered to deliver them to our house! What an incredible gift this was to me.
 
@@ -34,11 +34,11 @@ A pastor friend of ours offered to come to the house for a short visit and to pr
 
 ## In The Mud
 
-I've felt a lot like that guy from the movie "It's a Wonderful Life," where suddenly, an outpouring of support floods in when he needs it most. Likewise, so many have come alongside me in my journey through cancer. I’ve been taught a lesson in generosity through it all and have been humbled by those willing to walk through this mud with me. At times it felt more like an army crawl. 
+I've felt a lot like that guy from the movie "It's a Wonderful Life," where suddenly, an outpouring of support floods in when he needs it most. Likewise, so many have come alongside me in this journey through cancer. I’ve been taught a lesson in generosity through it all and have been humbled by those willing to walk through this mud with me. At times it felt more like an army crawl. 
 
-Kate, my family, and Pastor Bryan have been a constant, daily encouragement. It has been a great blessing to me how, in this season, the Lord has brought new friends into my life and also, reconnected me many from the past. 
+My wife Kate, my family, and Pastor Bryan have been a constant, daily encouragement. It has been a great blessing to me how, in this season, the Lord has brought new friends into my life and also, reconnected me many from the past. 
 
-To have a wife who is not running, a pastor ready and willing to struggle and work through the hardest questions, and the unyielding support of family and friends has brought me to my knees in thankfulness. “I thank my God in all my remembrance of you” <a class="text-yellow-500" href="https://www.biblegateway.com/passage/?search=Philippians+1%3A3&version=ESV">(Philippians 1:3</a>). 
+To have a wife who is not running, a pastor ready and willing to struggle alongside through the hardest questions, and the unyielding support of family and friends has brought me to my knees in thankfulness. “I thank my God in all my remembrance of you” <a class="text-yellow-500" href="https://www.biblegateway.com/passage/?search=Philippians+1%3A3&version=ESV">(Philippians 1:3</a>). 
 
 ## Providence
 
@@ -50,7 +50,7 @@ In many ways our life has been inverted: I’m at home full-time, leaving my job
 
 ## Fighting Back
 
-I remember talking to my Father-in-law from the hospital. I was worried about Kate, what she would do if I didn't make it. He encouraged me, “you don’t worry about that, you just need to fight.” Kate got to work quickly joining support groups and researching additional treatment options.. She had found an article published in Nature, a prestigious medical journal, about a vaccine trial for patients with my diagnosis showing very promising results. I didn’t know what I was looking at and wasn’t ready to dive in reading about what patients have done to throw the kitchen sink at this. 
+I remember talking to my Father-in-law from the hospital. I was worried about Kate, what she would do if I didn't make it. He encouraged me, “you don’t worry about that, you just focus on the fight before you.” Kate got to work quickly joining support groups and researching additional treatment options.. She had found an article <a href="https://www.nature.com/articles/d41573-021-00058-y" class="text-yellow-500">published in Nature</a>, a prestigious medical journal, about a vaccine trial for patients with my diagnosis showing very promising results. I didn’t know what I was looking at and wasn’t ready to dive in reading about what patients have done to throw the kitchen sink at this. 
 
 Sometime in the early spring of 2021 we connected with a dietitian who specializes in gliomas. She armed us with a nutrition plan and more research than we knew what to do with. She was adamant about looking into a clinic in Germany producing the type of vaccine Kate had found, a neoantigen peptide vaccine, personalized to the genetics of your tumor. “I think you’re an ideal candidate for this type of  treatment.” She warned us that it was expensive, not covered by insurance, and would require a year of travel once per month for the administration of the vaccine in Tubingen, Germany. 
 
@@ -60,11 +60,11 @@ Although I never wanted to be the face of a Gofundme campaign, God taught me a l
 
 ## The valley is the place of vision
 
-I’ve needed all the help I can get to worship God in this season. I’ve been learning to love the Psalms – especially Psalms 23, 34, 62, 84, 90, 145 and 147 (I've been helped a lot by <a class="text-yellow-500" href="https://www.crossway.org/books/in-the-lord-i-take-refuge-hcj/">this devotional</a>). The Psalms have given me a language to speak when often, I couldn't mutter a word on my own. 
+I’ve needed all the help I can get to worship God in this season. I’ve been learning to love the Psalms – especially Psalms 23, 34, 62, 84, 90, 145 and 147 – I've been helped a lot by Dane Ortlund's devotional <a class="text-yellow-500" href="https://www.crossway.org/books/in-the-lord-i-take-refuge-hcj/">In The Lord I Take Refuge</a>. The Psalms have given me a language to speak when often, I couldn't mutter a word on my own. 
 
-A familiar puritan-type prayer has also resonated. It's called The "Valley of Vision":
+A familiar puritan-type prayer has also resonated. It's called <a href="https://banneroftruth.org/us/store/devotional-books/the-valley-of-vision/" class="text-yellow-500">The Valley of Vision</a>.
 
-<x-blockquote>
+<x-blockquote class="font-mono">
     <div>Lord, High and Holy, Meek and Lowly,</div>
 
     <div>Thou hast brought me to the valley of vision,
