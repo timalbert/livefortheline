@@ -54,4 +54,30 @@
             </a>
         </div>
     </div>
+
+    <section id="contact" x-ref="contact" class="py-16 lg:py-24">
+        <div class="max-w-screen-xl mx-auto px-8">
+            <h2 class="text-center text-4xl font-semibold">Connect</h2>
+            <p class="mt-4 text-xl text-center max-w-3xl mx-auto text-gray-500">I would love to hear from you!</p>
+            <form action="/success" class="mt-12 max-w-4xl mx-auto" method="POST" name="Contact Form"><input type="hidden" name="form-name" value="Contact Form">
+                <div class="flex flex-col lg:flex-row -mx-6">
+                    <div class="flex-1 px-6 mb-6">
+                        <label for="name" class="block uppercase tracking-wide font-semibold mb-2">Name</label>
+                        <input id="name" name="name" placeholder="Name" type="text" class="bg-white w-full py-3 px-4 leading-6 focus:shadow-outline rounded-md border" required="">
+                    </div>
+                    <div class="flex-1 px-6 mb-6">
+                        <label for="email" class="block uppercase tracking-wide font-semibold mb-2">Email</label>
+                        <input id="email" name="email" placeholder="Email" type="email" class="bg-white w-full py-3 px-4 leading-6 focus:shadow-outline rounded-md border" required="">
+                    </div>
+                </div>
+                <div>
+                    <label for="message" class="block uppercase tracking-wide font-semibold mb-2">Message</label>
+                    <textarea id="message" name="message" placeholder="Your message" rows="6" class="bg-white w-full py-3 px-4 leading-6 focus:shadow-outline rounded-md border mb-6" required=""></textarea>
+                </div>
+                <div>
+                    <button type="submit" class="bg-slate-300 hover:bg-slate-400 text-slate-900 font-semibold uppercase leading-6 tracking-wide py-4 px-4 block w-full focus:shadow-outline rounded-md transition-colors duration-200">Submit</button>
+                </div>
+            </form>
+        </div>
+    </section>
 @endsection

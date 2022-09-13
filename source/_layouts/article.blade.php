@@ -4,7 +4,7 @@
       <div class="max-w-2xl mx-auto px-6 mt-10">
             <div class="text-xl font-light leading-relaxed">
             <div class="text-center">
-                    <h1 class="text-4xl lg:text-4xl">{{ $page->title }}</h1>
+                    <h1 class="text-4xl">{{ $page->title }}</h1>
                     <div class="font-mono text-xl mt-3"> <span class="text-slate-400">Reliving</span> <span class="text-yellow-500">{{ $page->date }}</span></div>
                 </div>
 
