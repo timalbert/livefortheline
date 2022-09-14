@@ -19,7 +19,7 @@
     </div>
     
     <div class="max-w-2xl mx-auto mt-12 px-6 sm:mt-16 lg:max-w-7xl lg:px-8">
-        <h2 class="text-center text-3xl uppercase font-semibold">Updates</h2>
+        <h2 class="text-center text-4xl font-semibold">Updates</h2>
         <div class="mt-8 grid grid-cols-1 gap-y-10 gap-x-6 sm:grid-cols-2 lg:grid-cols-3 xl:gap-x-8">
             @foreach($updates->reverse() as $update)
                 <div class="group relative bg-slate-800 hover:bg-slate-700 rounded-md">
@@ -58,8 +58,8 @@
     <section id="contact" x-ref="contact" class="py-16 lg:py-24">
         <div class="max-w-screen-xl mx-auto px-8">
             <h2 class="text-center text-4xl font-semibold">Connect</h2>
-            <p class="mt-4 text-xl text-center max-w-3xl mx-auto text-gray-500">I would love to hear from you!</p>
-            <form class="mt-12 max-w-4xl mx-auto" method="POST" name="Contact Form">
+            <p class="mt-4 text-xl text-center max-w-3xl mx-auto text-gray-400">I would love to hear from you!</p>
+            <form class="mt-12 max-w-4xl mx-auto" name="contact" method="POST" action="/success" data-netlify="true">
                 <div class="flex flex-col lg:flex-row -mx-6">
                     <div class="flex-1 px-6 mb-6">
                         <label for="name" class="block uppercase tracking-wide font-semibold mb-2">Name</label>
