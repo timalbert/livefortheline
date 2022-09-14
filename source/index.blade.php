@@ -5,13 +5,13 @@
         <h1 class="text-center text-3xl sm:text-4xl font-">Tim's journey <span class="inline-block"><span class="text-yellow-">through</span> brain cancer</span></h1>
     </div>
 
-    <div class="max-w-lg mx-auto px-6 mt-8 font-light">
+    <div class="max-w-lg mx-auto px-6 mt-8">
         <ul class="space-y-8">
             @foreach($articles as $article)
                 <li class="block w-full">
                     <a class="flex hover:text-yellow-500" href="{{ $article->getUrl() }}">
                         <span class="text-yellow-500">@include('_icons.'.$article->icon)</span>
-                        <p class="ml-4 font-mono text-base">{{ $article->date }} <span class="text-yellow-500">&bull;</span> {{ $article->title }}</p>
+                        <p class="ml-4 font-semibold">{{ $article->title }} <span class="font-mono font-normal">&nbsp;({{ $article->date }})</span></p>
                     </a>
                 </li>
             @endforeach
