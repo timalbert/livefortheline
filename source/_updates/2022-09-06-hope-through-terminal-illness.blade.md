@@ -6,7 +6,7 @@ date: 9/6/22
 image: boys-at-beach.jpg
 ---
 
-Tragedy has always been a comfortable distance away in my life. Amidst the pandemic in 2020, however, my eyes were opened when a friend my age was diagnosed with ALS and a hero of mine  <a class="text-yellow-500" href="https://www.challies.com/articles/my-son-my-dear-son-has-gone-to-be-with-the-lord/">lost his 20 year old son</a> . Suddenly, I found it easy to envision how suffering might come for me too.
+Tragedy has always been a comfortable distance away in my life. Amidst the pandemic in 2020, however, my eyes were opened when a friend my age was diagnosed with ALS and a hero of mine  <a class="text-yellow-500" href="https://www.challies.com/articles/my-son-my-dear-son-has-gone-to-be-with-the-lord/">lost his 20 year old son</a>. Suddenly, I found it easy to envision how suffering might come for me too.
 
 Theologically, I saw the trials and afflictions others faced as a shadow of what will come sooner or later, but only from the perspective as a comfortable onlooker. I knew I wasn’t immune to the realities of a fallen world. Jesus said so in John 16:33, “I have said these things to you, that in me you may have peace. <b b class="font-semibold">In the world you will have tribulation</b>. But take heart; I have overcome the world.”
 
