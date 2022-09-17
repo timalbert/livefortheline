@@ -61,17 +61,17 @@
             <form class="mt-12 max-w-4xl mx-auto" name="contact" method="POST" action="/success" data-netlify="true">
                 <div class="flex flex-col lg:flex-row -mx-6">
                     <div class="flex-1 px-6 mb-6">
-                        <label for="name" class="block uppercase tracking-wide font-semibold">Name</label>
+                        <label for="name" class="block uppercase mb-2 tracking-wide font-semibold">Name</label>
                         <input id="name" name="name" placeholder="Name" type="text" class="bg-white text-slate-900 w-full py-3 px-4 leading-6 focus:shadow-outline rounded-md border" required="">
                     </div>
                     <div class="flex-1 px-6">
-                        <label for="email" class="block uppercase tracking-wide font-semibold">Email</label>
+                        <label for="email" class="block uppercase mb-2 tracking-wide font-semibold">Email</label>
                         <input id="email" name="email" placeholder="Email" type="email" class="bg-white text-slate-900 w-full py-3 px-4 leading-6 focus:shadow-outline rounded-md border" required="">
                     </div>
                 </div>
 
                 <div class="mt-2">
-                    <label for="message" class="block uppercase tracking-wide font-semibold">Message</label>
+                    <label for="message" class="block uppercase mb-2 tracking-wide font-semibold">Message</label>
                     <textarea id="message" name="message" placeholder="Your message (optional)" rows="6" class="bg-white text-slate-900 w-full py-3 px-4 leading-6 focus:shadow-outline rounded-md border"></textarea>
                 </div>
 
