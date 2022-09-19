@@ -36,7 +36,7 @@ She would help take her husband's daily bike ride and turn it into a non-profit 
 
 <img alt="Beach Bike Ride" src="/assets/images/bbr.jpg" />
 
-She would take a downcast soul like mine with a rejected resume and with a walk to the jetty and back, be an encouragement, all the while inspiring a new career path (I’m sure many know that walk too). 
+She would take my downcast soul with a rejected resume, and through a walk to the jetty and back, be an encouragement, all the while inspiring a new career path (I’m sure many know that walk too). 
 
 Through her son, she would humbly receive the faith once delivered to all the saints. 
 
