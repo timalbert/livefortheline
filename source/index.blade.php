@@ -79,7 +79,7 @@
                 <div class="flex mt-2">
                     <input id="subscribe" name="subscribe" type="checkbox" value="yes" class="form-check-input h-4 w-4 border border-gray-300 rounded-sm bg-white checked:bg-rellow-500 checked:border-blue-600 focus:outline-none transition duration-200 mt-1 align-top bg-no-repeat bg-center bg-contain float-left mr-2 cursor-pointer">
                     <label class="form-check-label inline-block tracking-wide font-semibold" for="subscribe">
-                        Subcribe to the latest updates
+                        subscribe to the latest updates
                     </label>
                 </div>
 

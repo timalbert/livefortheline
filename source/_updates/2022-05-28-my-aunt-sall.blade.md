@@ -62,7 +62,7 @@ My Aunt Sall told me I needed a quarterback in this fight and the Lord has provi
 
 My Aunt Sall would encourage us all that God has a plan in this and it is a good one. 
 
-I’m confident that my Aunt Sall would take our hand through this valley of grief and trials, and she’d put it in the Good Shepherd’s, trusting in his plan over our own. 
+I’m confident that my Aunt Sall would take our hand through this valley of grief and mourning, and she’d put it in the Good Shepherd’s, trusting in his plan over our own. 
 
 When this God is your deepest treasure, he can make even the most dry valley a place with streams of joy (Psalm 84). 
 
