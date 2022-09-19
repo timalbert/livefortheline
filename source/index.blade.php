@@ -29,6 +29,7 @@
                     <div class="p-4 flex justify-between">
                         <h3 class="text-sm text-gray-300">
                             <a href="{{ $update->getUrl() }}">
+                                <span aria-hidden="true" class="absolute inset-0"></span>
                                 <b class="font-bold">{{ $update->title }}</b>
                             </a>
                         </h3>
