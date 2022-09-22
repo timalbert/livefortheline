@@ -34,10 +34,10 @@ Despondency presses in during moments like this asking, what hope is there to es
 
 The cure I longed to hear about from my doctors, I heard afresh through the scriptures. Sitting on my in-laws' guest bed, I silently raised my hands in praise. It was the word I needed to hear. A reminder of the hope I cling to even when all else is lost. Jesus is the one who, by his wounds, heals our sentence of death (Isaiah 53:5). 
 
-David Powilson crystalized <a href="https://www.crossway.org/books/gods-grace-in-your-suffering-tpb/" class="text-yellow-500">God's grace in my suffering</a> writing:
+David Powilson helps me see <a href="https://www.crossway.org/books/gods-grace-in-your-suffering-tpb/" class="text-yellow-500">God's grace through suffering</a> writing:
 
 <x-blockquote class="font-mono">
-    <div>When God has written his name on you, suffering qualitatively changes. Pain, loss, and weakness are no longer the end of the world and the death of your hopes... Whatever you must face changes in the light of the resurrection of Jesus Christ and the promise that you, too, will live.</div>
+    <div>When God has written his name on you, suffering qualitatively changes. Pain, loss, and weakness are no longer the end of the world and the death of your hopes. Whatever you must face changes in the light of the resurrection of Jesus Christ and the promise that you, too, will live.</div>
 </x-blockquote>
 
 Be still my soul and trust in the “eternal rock” (Isaiah 26:4). A life built on Jesus can withstand the raging floods that will come in this life (Matthew 7:24-27). 
