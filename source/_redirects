@@ -1,2 +1,2 @@
 /updates/hope-through-terminal-illness  /updates/my-hope-through-terminal-illness
-/articles/*  /tim/*
+/articles/*  /tim/:slug
