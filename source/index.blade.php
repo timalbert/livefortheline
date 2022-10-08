@@ -7,7 +7,7 @@
 
     <div class="max-w-lg mx-auto px-6 mt-8">
         <ul class="space-y-8">
-            @foreach($articles as $article)
+            @foreach($tim as $article)
                 <li class="block w-full">
                     <a class="flex hover:text-yellow-500" href="{{ $article->getUrl() }}">
                         <span class="text-yellow-500">@include('_icons.'.$article->icon)</span>
@@ -50,7 +50,7 @@
                 <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6 fill-yellow-400 stroke-yellow-400" viewBox="0 0 24 24">
                     <path d="M2 6a2 2 0 012-2h6a2 2 0 012 2v8a2 2 0 01-2 2H4a2 2 0 01-2-2V6zM14.553 7.106A1 1 0 0014 8v4a1 1 0 00.553.894l2 1A1 1 0 0018 13V7a1 1 0 00-1.447-.894l-2 1z" />
                 </svg>
-                <p class="ml-1 text-slate-400">Live for the line by Randy Alcorn.</p>
+                <p class="ml-1 text-slate-400 hover:text-yellow-500">Live for the line by Randy Alcorn.</p>
             </a>
         </div>
     </div>

@@ -32,7 +32,7 @@ Living with a terminal diagnosis has felt, at times, like I've been given a deat
 
 Despondency presses in during moments like this asking, what hope is there to escape your inevitable death? 
 
-The cure I longed to hear about from my doctors, I heard afresh through the scriptures. Sitting on my in-laws' guest bed, I silently raised my hands in praise. It was the word I needed to hear. A reminder of the hope I cling to even when all else is lost. Jesus is the one who, by his wounds, heals our sentence of death (Isaiah 53:5). 
+The cure I longed to hear about from my doctors, I heard afresh through God's word. Sitting on my in-laws' guest bed, I silently raised my hands in praise. It was the word I needed to hear. A reminder of the hope I cling to even when all else is lost. Jesus is the one who, by his wounds, heals our sentence of death (Isaiah 53:5). 
 
 David Powilson helps me see <a href="https://www.crossway.org/books/gods-grace-in-your-suffering-tpb/" class="text-yellow-500">God's grace through suffering</a> writing:
 

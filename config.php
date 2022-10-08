@@ -8,9 +8,9 @@ return [
     'title' => 'Live for the Line',
     'description' => '',
     'collections' => [
-        'articles' => [
+        'tim' => [
             'path' => function ($page) {
-                return 'articles/' . Str::slug($page->title);
+                return 'tim/' . Str::slug($page->title);
             },
         ],
         'updates' => [
