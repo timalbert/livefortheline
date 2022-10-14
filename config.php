@@ -17,6 +17,11 @@ return [
             'path' => function ($page) {
                 return 'updates/' . Str::slug($page->title);
             },
+        ],
+        'devos' => [
+            'path' => function ($page) {
+                return 'devos/' . $page->count . '/' . Str::slug($page->title);
+            },
         ]
     ],
 ];
