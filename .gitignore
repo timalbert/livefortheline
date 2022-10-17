@@ -8,4 +8,4 @@ npm-debug.log
 /build_staging/
 /build_production/
 /source/assets/build/
-source/.DS_Store
+.DS_Store
