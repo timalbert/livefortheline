@@ -12,6 +12,7 @@ module.exports = {
     extend: {
       fontFamily: {
         sans: ['Montserrat', ...defaultTheme.fontFamily.sans],
+        serif: ['Merriweather', ...defaultTheme.fontFamily.serif],
         mono: ['"Courier Prime"', ...defaultTheme.fontFamily.mono],
       },
       fontWeight: {
