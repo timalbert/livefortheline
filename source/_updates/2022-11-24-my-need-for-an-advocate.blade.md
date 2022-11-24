@@ -16,9 +16,10 @@ If the trauma I’m experiencing and cognitive deficits caused by my tumor weren
 
 Graciously, though, many helpers have come alongside me. A dietician specializing in gliomas empowered me with the latest research and a nutrition plan. A new friend from our children’s school, who previously managed a brain tumor foundation, offered wise counsel and a large network of connections. A community we could depend on steadied our resolve to press forward and endure whatever was to come.
 
-When the weight of medical and family decisions were piling up, the Lord graciously provided advocates to encourage and guide at just the right time and, seemingly, in every area of my life. They helped lift my burdens when I was about to collapse. They provided an abundance of wisdom and practical support. I was diverted from the dark roads of despair and conspiracy many patients have walked.
+When the weight of medical and family decisions were piling up, the Lord graciously provided advocates to encourage and guide at just the right time, seemingly, in every area of my life. They helped lift my burdens when I was about to collapse. They provided an abundance of wisdom and practical support. I was diverted from the dark roads of despair and conspiracy many patients have walked.
 
 Even still, cancer, like nothing else, has showcased my limitations, pronounced my nagging sinful tendencies, and brought me face-to-face with my own mortality. I can’t avoid asking the existential questions of life. What happens when I die? Why am I here and what is my purpose?
+
 Uncertainties still abound and it feels like my needs grow by the day. My life is reflecting the spiritual dependency I’ve come to acknowledge and embrace. I need another helper who can deal with my deepest problem, who has walked in my shoes, and has a solution to the universal end of the human experience. 
 
 ## My Greater Advocate
