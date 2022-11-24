@@ -6,7 +6,7 @@ date: 11/24/22
 image: boyheros.jpg
 ---
 
-“I know you have brain cancer, but what is really preventing you from returning to work?” I’ve come to expect this type of compassion from insurance companies as I’ve navigated various disability claims over the last 18 months. It has been daunting to wade through wordy policies and wait for phone calls to be returned. I’ve had to justify myself in order to receive what I’ve paid for and am entitled to. 
+“I know you have brain cancer, but what is <i>really</i> preventing you from returning to work?” I’ve come to expect this type of compassion from insurance companies as I’ve navigated various disability claims over the last 18 months. It has been daunting to wade through wordy policies and wait for phone calls to be returned. I’ve had to justify myself in order to receive what I’ve paid for and am entitled to. 
 
 The more complex challenge, however, has been the puzzle of medical advice scattered before me. One doctor insists I stick with the proven standard of care and nothing more aggressive, which felt a lot like sitting on my hands. Another promotes an integrative approach, but it’s complicated to maintain. While yet another describes a promising experimental treatment as a “no brainer” for me. 
 
