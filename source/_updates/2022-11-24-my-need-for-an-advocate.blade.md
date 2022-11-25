@@ -22,7 +22,7 @@ Even still, cancer, like nothing else, has showcased my limitations, pronounced 
 
 Uncertainties still abound and it feels like my needs grow by the day. My life is reflecting the spiritual dependency I’ve come to acknowledge and embrace. I need another helper who can deal with my deepest problem, who has walked in my shoes, and has a solution to the universal end of the human experience. 
 
-## My Greater Advocate
+## My Great Advocate
 
 Death is the final enemy and has been brought about because of sin. The weight of sin and the sting of our shared, fatal condition, is my greatest problem. Sin is a burden that crushes and condemns. No one is strong enough to bear its load. None righteous enough to pay its penalty. None, except for one man. 
 
