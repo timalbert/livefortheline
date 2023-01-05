@@ -17,7 +17,7 @@
             @endforeach
         </ul>
     </div>
-    
+
     <div class="max-w-2xl mx-auto mt-12 px-6 sm:mt-16 lg:max-w-7xl lg:px-8">
         <h2 class="text-center text-4xl font-semibold">Updates</h2>
         <div class="mt-8 grid grid-cols-1 gap-y-10 gap-x-6 sm:grid-cols-2 lg:grid-cols-3 xl:gap-x-8">
@@ -72,7 +72,7 @@
                         <div class="flex mt-2 justify-end">
                             <input id="subscribe" name="subscribe" type="checkbox" value="yes" class="form-check-input h-4 w-4 border border-gray-300 rounded-sm bg-white checked:bg-rellow-500 checked:border-blue-600 focus:outline-none transition duration-200 mt-1 align-top bg-no-repeat bg-center bg-contain float-left mr-2 cursor-pointer">
                             <label class="form-check-label inline-block tracking-wide font-semibold" for="subscribe">
-                                subscribe to the latest updates
+                                Send me the updates!
                             </label>
                         </div>
                     </div>
