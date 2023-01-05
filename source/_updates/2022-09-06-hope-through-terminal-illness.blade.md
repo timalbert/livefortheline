@@ -14,7 +14,7 @@ Would the low-grade, everyday hardships be my only difficulties in life? At 35, 
 
 ## My own tragedy struck
 
-Then, the tidal wave of suffering came straight at me. After an abrupt, traumatic surgery, I was told unimaginable news. I had brain cancer and there is no known cure. My life would likely be painful and shortened by this terrible disease. There's not even a category of remission for this diagnosis. 
+Then, the tidal wave of suffering came straight at me. After an abrupt, traumatic surgery, I was told unimaginable news. I had brain cancer and there is no known cure. My life would likely be painful and shortened by this terrible disease. There's not even a category of remission for this diagnosis.
 
 Where can I turn? Will my life ever be the same? What will happen to my family? Questions mounted and fears of the future were suffocating. The perception others had of a man with “strong faith” started to look a lot more like flimsy self-reliance.
 
@@ -22,25 +22,25 @@ Comforts are hard to come by and when they do, sift through my fingers like sand
 
 In the early months after my diagnosis, I spent a good while reading through the Christian hope in The Lord Jesus Christ’s resurrection. The final chapters of 1 Corinthians and the beginning of 2 Corinthians were worn, tear-covered pages in my bible. A familiar verse I’ve tended to gloss over shined bright in the darkest moment of my life.
 
-<x-blockquote class="font-mono">
-    <div>Indeed, we felt that we had received the sentence of death. But that was to make us rely not on ourselves but on God who raises the dead. (2 Corinthians 1:9)</div>
+<x-blockquote class="font-mono" cite="https://www.esv.org/2+Corinthians+1:9" caption="2 Corinthians 1:9">
+    <div>Indeed, we felt that we had received the sentence of death. But that was to make us rely not on ourselves but on God who raises the dead.</div>
 </x-blockquote>
 
-Living with a terminal diagnosis has felt, at times, like I've been given a death sentence. I’m not headed to the gallows, but the verdict has been pronounced. My outcome as sure as the best doctors can determine. 
+Living with a terminal diagnosis has felt, at times, like I've been given a death sentence. I’m not headed to the gallows, but the verdict has been pronounced. My outcome as sure as the best doctors can determine.
 
 ## What is your hope?
 
-Despondency presses in during moments like this asking, what hope is there to escape your inevitable death? 
+Despondency presses in during moments like this asking, what hope is there to escape your inevitable death?
 
-The cure I longed to hear about from my doctors, I heard afresh through God's word. Sitting on my in-laws' guest bed, I silently raised my hands in praise. It was the word I needed to hear. A reminder of the hope I cling to even when all else is lost. Jesus is the one who, by his wounds, heals our sentence of death (Isaiah 53:5). 
+The cure I longed to hear about from my doctors, I heard afresh through God's word. Sitting on my in-laws' guest bed, I silently raised my hands in praise. It was the word I needed to hear. A reminder of the hope I cling to even when all else is lost. Jesus is the one who, by his wounds, heals our sentence of death (Isaiah 53:5).
 
 David Powilson helps me see <a href="https://www.crossway.org/books/gods-grace-in-your-suffering-tpb/" class="text-yellow-500">God's grace through suffering</a> writing:
 
-<x-blockquote class="font-mono">
+<x-blockquote class="font-mono" cite="https://www.crossway.org/books/gods-grace-in-your-suffering-tpb/" caption="David Powilson">
     <div>When God has written his name on you, suffering qualitatively changes. Pain, loss, and weakness are no longer the end of the world and the death of your hopes. Whatever you must face changes in the light of the resurrection of Jesus Christ and the promise that you, too, will live.</div>
 </x-blockquote>
 
-Be still my soul and trust in the “eternal rock” (Isaiah 26:4). A life built on Jesus can withstand the raging floods that will come in this life (Matthew 7:24-27). 
+Be still my soul and trust in the “eternal rock” (Isaiah 26:4). A life built on Jesus can withstand the raging floods that will come in this life (Matthew 7:24-27).
 
 Take it to heart, God will do nothing less than raise you from the dead!
 

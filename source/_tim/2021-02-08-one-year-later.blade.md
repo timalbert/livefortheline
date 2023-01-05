@@ -26,12 +26,11 @@ God met me in the valley that night as I sat utterly alone. Dozens of questions 
 
 But, I was never alone.
 
-<x-blockquote class="font-mono">
+<x-blockquote class="font-mono" cite="https://www.esv.org/Psalm+62:5-7/" caption="Psalm 62:5-7">
     <div><span class="text-sm font-semibold">5.</span> For God alone, O my soul, wait in silence,</div>
     <div class="ml-6">for my hope is from him.</div>
     <div class="mt-4"><span class="text-sm font-semibold">6.</span> He only is my rock and my salvation,</div>
     <div class="ml-6">my fortress; I shall not be shaken.</div>
     <div class="mt-4"><span class="text-sm font-semibold">7.</span> On God rests my salvation and my glory;</div>
     <div class="ml-6">my mighty rock, my refuge is God.</div>
-    <div class="mt-4">Psalm 62:5-7</div>
 </x-blockquote>
