@@ -20,7 +20,7 @@ Where can I turn? Will my life ever be the same? What will happen to my family? 
 
 Comforts are hard to come by and when they do, sift through my fingers like sand. The only surety I had was my situation was uncertain. I look at my boys now and long to be present throughout their lives. This season truly revealed just how much I “rely on myself.” Can all my dreams and desires be swept away through this storm?
 
-In the early months after my diagnosis, I spent a good while reading through the Christian hope in The Lord Jesus Christ’s resurrection. The final chapters of 1 Corinthians and the beginning of 2 Corinthians were worn, tear-covered pages in my bible. A familiar verse I’ve tended to gloss over shined bright in the darkest moment of my life.
+In the early months after my diagnosis, I spent a good while reading through the Christian hope in the resurrection of The Lord Jesus Christ. The final chapters of 1 Corinthians and the beginning of 2 Corinthians were worn, tear-covered pages in my bible. A familiar verse I’ve tended to gloss over shined bright in the darkest moment of my life.
 
 <x-blockquote class="font-mono" cite="https://www.esv.org/2+Corinthians+1:9" caption="2 Corinthians 1:9">
     <div>Indeed, we felt that we had received the sentence of death. But that was to make us rely not on ourselves but on God who raises the dead.</div>

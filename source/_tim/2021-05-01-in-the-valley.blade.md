@@ -46,6 +46,8 @@ To have a wife who is not running, a pastor ready and willing to struggle alongs
 
 I’ve been at some of my lowest moments this year. Depression set in almost immediately, I lost a significant amount of vision from the tumor and haven’t been willing or able  to drive since before the events of February 2021.
 
+<img alt="Kate and Tim in London" src="/assets/images/boys-dad.jpg" />
+
 In many ways our life has been inverted: I’m at home full-time, leaving my job at Northeastern and going on long-term disability. Kate took on a full-time role as the Athletics Director at <a class="text-yellow-500" href="https://www.bostontrinity.org">Boston Trinity Academy</a>,  the school she’s been working at for years. Adjusting to the new order of our lives has been hard, but also brought a lot of unexpected joys. I've taken on new domestic responsibilities, planning and cooking most of the meals. Kate, in addition to her role as AD, coached the girl's varsity lacrosse team in the spring. The Lord’s provision allowed us to buy our first home in an ideal neighborhood of Boston, Hyde Park. It’s where BTA is located, our church meets, and public transportation is easily accessible. After years of making offers, nearly moving out of state, and much disappointment, our townhome fits us perfectly, with plenty of space, a small yard, and a 5 minute walk to one of our kid’s favorite playgrounds.
 
 ## Fighting Back
