@@ -28,7 +28,7 @@ In the early months after my diagnosis, I spent a good while reading through the
 
 Living with a terminal diagnosis has felt, at times, like I've been given a death sentence. I’m not headed to the gallows, but the verdict has been pronounced. My outcome as sure as the best doctors can determine.
 
-## What is your hope?
+<h2>What is your hope?</h2>
 
 Despondency presses in during moments like this asking, what hope is there to escape your inevitable death?
 
