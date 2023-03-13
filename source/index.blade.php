@@ -55,7 +55,7 @@
         </div>
     </div>
 
-    <section id="contact" class="py-16 lg:py-24">
+    <section id="connect" class="pt-16 pb-24 lg:py-24">
         <div class="max-w-screen-xl mx-auto px-8">
             <h2 class="text-center text-4xl font-semibold">Connect</h2>
             <p class="mt-4 text-xl text-center max-w-3xl mx-auto text-gray-400">I would love to hear from you!</p>
