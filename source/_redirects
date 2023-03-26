@@ -1,2 +1,4 @@
-http://livefortheline.me/* https://www.livefortheline.com/:splat !200!
-https://livefortheline.me/* https://www.livefortheline.com/:splat !200!
+http://livefortheline.me/build_production/* https://www.livefortheline.com/:splat !200!
+https://livefortheline.me/build_production/* https://www.livefortheline.com/:splat !200!
+
+/myhope https://livefortheline.me/updates/my-hope-through-terminal-illness/
