@@ -1,2 +1,6 @@
-/updates/hope-through-terminal-illness  /updates/my-hope-through-terminal-illness
-/articles/:slug  /tim/:slug
+/myhope /updates/my-hope-through-terminal-illness
+/updates/hope-through-terminal-illness /updates/my-hope-through-terminal-illness
+/articles/:slug /tim/:slug
+
+http://livefortheline.me https://www.livefortheline.com
+https://livefortheline.me https://www.livefortheline.com
