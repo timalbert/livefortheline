@@ -7,7 +7,7 @@
         <h2 class="text-slate-900 font-black text-2xl lg:text-4xl">
             <a href="{{ $updates->reverse()->first()->getUrl() }}">
                 <span aria-hidden="true" class="absolute inset-0"></span>
-                {{ $updates->reverse()->first()->title }}: {{ $updates->reverse()->first()->subtitle }}
+                {{ $updates->reverse()->first()->title }}
             </a>
         </h2>
         <p class="text-slate-700 text-lg font-medium lg:text-2xl lg:mt-4">{{ $updates->reverse()->first()->description }}</p>

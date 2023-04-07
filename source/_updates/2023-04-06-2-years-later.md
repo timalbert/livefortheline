@@ -1,8 +1,7 @@
 ---
 extends: _layouts.update
 section: content
-title: It Is Well
-subtitle: Two Years Later
+title: It Is Well - Two Years Later
 description: An update recounting two years living with cancer.
 feature: yes
 date: 3/5/23
@@ -20,6 +19,8 @@ With more than 45 others, we enjoyed fun-filled days at Disney World and Univers
 I had heard of the thought and care IOH puts into these retreats, but our experience surpassed our expectations! Hopefully it’s seen through some of the pictures!
 
 The weekend was more than fun days at the amusement parks. We were welcomed with a fancy dinner party, pampered through a night out with other parents, and encouraged during sessions alongside families to process our experiencies.
+
+<img alt="At the airport" src="/assets/images/ioh-party.jpg" />
 
 <img alt="At the airport" src="/assets/images/ioh-strolling.jpg" />
 
