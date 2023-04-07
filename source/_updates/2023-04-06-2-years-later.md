@@ -36,9 +36,9 @@ I’ve found myself more reliant on God’s word to express my own thoughts, emo
 
 My cancer diagnosis was a sudden change that has inverted our life. The last two years have been a lot to manage as family roles shifted and we accommodate my monthly travel overseas.
 
-Our boys have endured this season and a joyful reminder of God's grace. Accepting that life is no longer what we imagined has been really hard. We hold our breath every 9 weeks as MRI results can deliver more life-altering news. It's hard to "be still," but there's a blessing to know this life can't satisfy my ultimate longing.
+Our boys have endured this season and been a joyful reminder of God's grace. Accepting that life is no longer what we imagined has been really hard. We hold our breath every 9 weeks as MRI results can deliver more life-altering news. It's hard to "be still," but there's a blessing to know this life can't satisfy my ultimate longing.
 
-The last two years have held up the mirror showing my limits and mortality. The dissatisfied longing for something beyond this world has rings louder. My prayer for years and decades as a husband and father fall far short of what my soul truly longs for.
+The last two years have held up the mirror showing my limits and mortality. The dissatisfied longing for something beyond this world rings louder. My prayer for years and decades as a husband and father fall far short of what my soul truly longs for.
 
 Familiar <a class="text-yellow-500" href="https://www.crossway.org/books/songs-of-suffering-dl/">psalms and hymns</a> have helped complete this broken melody humming in the background of my life. For me, "It Is Well" captures the sorrows of loss and the highs of hope that resolve in the resurrected Lord Jesus Christ.
 
