@@ -12,7 +12,7 @@ In early March, our family of 5 traveled to Orlando for a much needed getaway. <
 <img alt="Alberts at Disney" src="/assets/images/ioh-alberts-2.jpg" />
 <img alt="Alberts with Mickey" src="/assets/images/ioh-firworks-mick.jpg" />
 
-With more than 45 others, we enjoyed fun-filled days at Disney World and Universal Studios. IOH provided two full-time volunteers to assist with our kids. Luke and Natalie were on a mission to ensure we had a blast! Three additional volunteers from the lead sponsor, <a class="text-yellow-500" href="https://www.kendrascott.com/philanthropy.html">Kendra Scott</a>, joined us as well. They were thoughtful and kind, helping us navigate the weekend and constantly spoiled 😃 our boys. This team left an indelible mark of love on us and labored to provide a once-in-a-lifetime experience we would never pursue on our own.
+With more than 45 families, we enjoyed fun-filled days at Disney World and Universal Studios. IOH provided two full-time volunteers to assist with our kids. Luke and Natalie were on a mission to ensure we had a blast! Three additional volunteers from the lead sponsor, <a class="text-yellow-500" href="https://www.kendrascott.com/philanthropy.html">Kendra Scott</a>, joined us as well. They were thoughtful and kind, helping us navigate the weekend and constantly spoiled 😃 our boys. This team left an indelible mark of love on us and labored to provide a once-in-a-lifetime experience we would never pursue on our own.
 
 <img alt="IOH at magic kingdom" src="/assets/images/ioh-crowd.jpg" />
 
@@ -24,19 +24,21 @@ The weekend was more than fun at amusement parks. We were welcomed with a dinner
 
 <img alt="Strolling with the team" src="/assets/images/ioh-strolling.jpg" />
 
-It was comforting to share vulnerably with others who have walked in our shoes. I was crushed by the suffering so many face, yet encouraged by their resilience and camaraderie.
+It was comforting to share vulnerably with others who have walked in our shoes. I was moved by the suffering so many face, yet encouraged by their resilience and camaraderie.
 
 A recurring topic among those of us facing terminal illness, was how discouragement comes from multiple angles. From recurrence setbacks, treatment side-effects, struggles with insurance coverage and finances, to absorbing well-intentioned, but not-so-helpful comments people tend to make. One sharp remark made me laugh—with slightly morbid agreement— when someone shared “I tell people who remind me that we all can all get hit by a bus tomorrow, that the bus 🚍 doesn’t follow them around everywhere they go!” There was a lot of laughter and head nods. It felt like the room could go on endlessly sharing similar versions too.
 
-Personally, there have been occasions where I’ve struggled with comments too. Over time, I’m coming to more readily empathize with those who don’t have the perfect words or any words to say. Grief ripples out from those who face cancer and death. There are no rote words to offer sufferers. No playbook to run. Often the best moments are when someone tells us they love us with a hug.
+Personally, there have been occasions where I’ve struggled with comments too. Over time, I’m coming to more readily empathize with those who don’t have the perfect words or any words at all. Grief ripples out from those who face cancer and death. There are no rote words to recite. Often the best moments are when someone says "I love you" and gives a hug.
 
-I’ve found myself more reliant on God’s word to express my own thoughts, emotions, and needs. Nancy Guthrie’s book <a class="text-yellow-500" href="https://www.nancyguthrie.com/im-praying-for-you">I’m Praying For You</a> has been a helpful resource. It summarizes 40 prayers from the Bible for those facing suffering. She is a <a class="text-yellow-500" href="https://www.desiringgod.org/interviews/discussion-with-nancy-guthrie">seasoned and trusted counselor</a> on the subject.
+I’ve found myself more reliant on God’s word to express my own thoughts, emotions, and needs. Nancy Guthrie’s book <a class="text-yellow-500" href="https://www.nancyguthrie.com/im-praying-for-you">I’m Praying For You</a> has been a helpful resource. It summarizes 40 prayers from the Bible for those facing suffering. She is a <a class="text-yellow-500" href="https://www.desiringgod.org/interviews/discussion-with-nancy-guthrie">seasoned and trustworthy counselor</a> on the subject.
 
 <h2>Managing Change</h2>
 
-The disturbance of sudden change has inverted our life over the last two years. It's been a lot to manage as there's been some crushing lows and unexpected highs. The sudden changes to our life have been a cocktail mixed with cutting losses and a splash to the face with refreshed hope. Life is no longer what it was. Accepting that reality has been, and will be, a lifelong road to travel.
+My cancer diagnosis was a sudden change that has inverted our life. The last two years have been a lot to manage as family roles shifted and we accommodate my monthly travel overseas.
 
-Many have described <a class="text-yellow-500" href="https://www.desiringgod.org/messages/the-purposes-of-god-in-the-pain-of-the-world">God's purposes in our suffering and trials</a>. The last two years have held up the mirror of my limits and mortality. The dissatisfied longing for something beyond this world has rung loud and clear.
+Our boys have endured this season and a joyful reminder of God's grace. Accepting that life is no longer what we imagined has been really hard. We hold our breath every 9 weeks as MRI results can deliver more life-altering news. It's hard to "be still," but there's a blessing to know this life can't satisfy my ultimate longing.
+
+The last two years have held up the mirror showing my limits and mortality. The dissatisfied longing for something beyond this world has rings louder. My prayer for years and decades as a husband and father fall far short of what my soul truly longs for.
 
 Familiar <a class="text-yellow-500" href="https://www.crossway.org/books/songs-of-suffering-dl/">psalms and hymns</a> have helped complete this broken melody humming in the background of my life. For me, "It Is Well" captures the sorrows of loss and the highs of hope that resolve in the resurrected Lord Jesus Christ.
 
