@@ -4,6 +4,7 @@
         <a class="border-b border-slate-100/50 pb-1" href="/">Home</a>
         <a class="border-b border-slate-100/50 pb-1" href="/#connect">Connect</a>
         <a class="border-b border-slate-100/50 pb-1" href="/updates">Updates</a>
+        <a class="border-b border-slate-100/50 pb-1" href="/#journey">Diagnosis</a>
         <a class="border-b border-slate-100/50 pb-1" class="normal-case" href="https://www.gofundme.com/f/Help-Tim-Fund-Vital-Brain-Cancer-Treatment">GoFundMe</a>
     </div>
 

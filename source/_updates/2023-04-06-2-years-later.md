@@ -1,7 +1,7 @@
 ---
 extends: _layouts.update
 section: content
-title: It Is Well - Two Years Later
+title: Two Years Later - It Is Well
 description: An update recounting two years living with cancer.
 feature: yes
 date: 3/5/23
@@ -14,7 +14,7 @@ In early March, our family of 5 traveled to Orlando for a much needed getaway. <
 
 With more than 45 families, we enjoyed fun-filled days at Disney World and Universal Studios. IOH provided two full-time volunteers to assist with our kids. Luke and Natalie were on a mission to ensure we had a blast! Three additional volunteers from the lead sponsor, <a class="text-yellow-500" href="https://www.kendrascott.com/philanthropy.html">Kendra Scott</a>, joined us as well. They were thoughtful and kind, helping us navigate the weekend and constantly spoiled 😃 our boys. This team left an indelible mark of love on us and labored to provide a once-in-a-lifetime experience we would never pursue on our own.
 
-<img alt="IOH at magic kingdom" src="/assets/images/ioh-crowd.jpg" />
+<img alt="Strolling with the team" src="/assets/images/ioh-strolling.jpg" />
 
 I had heard of the thought and care IOH puts into these retreats, but the experience surpassed our expectations! Hopefully it’s conveyed through some of the pictures!
 
@@ -22,7 +22,8 @@ The weekend was more than fun at amusement parks. We were welcomed with a dinner
 
 <img alt="IOH dinner party" src="/assets/images/ioh-party.jpg" />
 
-<img alt="Strolling with the team" src="/assets/images/ioh-strolling.jpg" />
+<img alt="IOH at magic kingdom" src="/assets/images/ioh-crowd.jpg" />
+
 
 It was comforting to share vulnerably with others who have walked in our shoes. I was moved by the suffering so many face, yet encouraged by their resilience and camaraderie.
 
@@ -39,6 +40,8 @@ My cancer diagnosis was a sudden change that has inverted our life. The last two
 Our boys have endured this season and been a joyful reminder of God's grace. Accepting that life is no longer what we imagined has been really hard. We hold our breath every 9 weeks as MRI results can deliver more life-altering news. It's hard to "be still," but there's a blessing to know this life can't satisfy my ultimate longing.
 
 The last two years have held up the mirror showing my limits and mortality. The dissatisfied longing for something beyond this world rings louder. My prayer for years and decades as a husband and father fall far short of what my soul truly longs for.
+
+<h2>It Is Well With My Soul</h2>
 
 Familiar <a class="text-yellow-500" href="https://www.crossway.org/books/songs-of-suffering-dl/">psalms and hymns</a> have helped complete this broken melody humming in the background of my life. For me, "It Is Well" captures the sorrows of loss and the highs of hope that resolve in the resurrected Lord Jesus Christ.
 
@@ -72,3 +75,5 @@ The clouds be rolled back as a scroll;<br>
 The trump shall resound, and the Lord shall descend,<br>
 Even so, it is well with my soul.
 </x-blockquote>
+
+While my cancer remains stable, I'm very aware how quickly things can change. Pray for me, that "whatever my lot" turns out to be, I'll take heart, that it is well with my soul.
