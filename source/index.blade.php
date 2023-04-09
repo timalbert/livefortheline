@@ -21,7 +21,7 @@
     <!-- journey -->
     <section id="journey" class="mt-16 px-6 py-16 bg-zinc-900/50 lg:py-18">
         <h2 class="text-center text-zinc-100 text-4xl font-semibold">Reliving My Diagnosis</h2>
-        <p class="text-center text-zinc-300 mt-4 lg:text-xl">God's grace in my darkest hour</p>
+        <p class="text-center text-zinc-300 mt-4 lg:text-xl">God's grace in my darkest moment.</p>
         <ul class="space-y-8 max-w-lg mx-auto mt-8 text-base lg:text-lg">
             @foreach($tim as $article)
                 <li class="block w-full">
