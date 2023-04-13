@@ -76,4 +76,6 @@ The trump shall resound, and the Lord shall descend,<br>
 Even so, it is well with my soul.
 </x-blockquote>
 
-While my cancer remains stable, I'm very aware how quickly things can change. Pray for me, that "whatever my lot" turns out to be, I'll take heart, that it is well with my soul.
+While my cancer remains stable, I am hyper-aware of how quickly things can change. Pray for me, that "whatever my lot" turns out to be, I'll take heart, because _it is well with my soul_.
+
+<img alt="Caleb at the Farber" src="/assets/images/caleb-dfci.jpg" />

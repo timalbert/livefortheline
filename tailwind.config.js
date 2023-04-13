@@ -13,7 +13,7 @@ module.exports = {
             fontFamily: {
                 sans: ['Lato', ...defaultTheme.fontFamily.sans],
                 serif: ['Overlock', ...defaultTheme.fontFamily.serif],
-                mono: ['"Courier Prime"', ...defaultTheme.fontFamily.mono],
+                mono: ['"Space Mono"'],
             },
         },
     },

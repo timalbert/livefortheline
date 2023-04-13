@@ -9,6 +9,6 @@
                 {{ $update->title }}
             </a>
         </h3>
-        <p class="text-sm text-slate-300 font-medium mt-2">{{ $update->date }}</p>
+        <p class="text-sm text-slate-300 font-semibold mt-2 lg:text-base">{{ $update->date }}</p>
     </div>
 </div>
