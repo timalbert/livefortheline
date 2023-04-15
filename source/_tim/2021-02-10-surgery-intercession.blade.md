@@ -18,4 +18,4 @@ The rest is quite hazy. The surgery took most of the day and when I cameto, I wa
 
 That same nurse saw a Bible in my belongings and asked if I was a Christian. I told her I was and she commented that she always seemed to care for the believing patients and offered to pray. That was comforting, but then she mentioned something I didn’t fully understand.
 
-She said, “Now we need to pray for the pathology results …”
+She commented, “Now we need to pray for the pathology results …”

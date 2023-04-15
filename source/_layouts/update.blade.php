@@ -17,7 +17,7 @@
             </div>
 
             @if($page->readings)
-                <h2 class="font-semibold text-2xl mt-10">Resources of grace on this trip</h2>
+                <h2 class="font-semibold text-2xl mt-10">Resources of grace from this trip</h2>
                 <ul class="mt-8">
                     @foreach($page->readings as $reading)
                         <li class="block w-full mt-3">
