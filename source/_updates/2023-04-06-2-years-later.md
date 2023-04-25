@@ -27,9 +27,9 @@ The weekend was more than fun at amusement parks. We were welcomed with a dinner
 
 It was comforting to share vulnerably with others who have walked in our shoes. I was moved by the suffering so many face, yet encouraged by their resilience and camaraderie.
 
-A recurring topic among those of us facing terminal illness, was how discouragement comes from multiple angles. From recurrence setbacks, treatment side-effects, struggles with insurance coverage and finances, to absorbing well-intentioned, but not-so-helpful comments people tend to make. One sharp remark made me laugh—with slightly morbid agreement— when someone shared “I tell people who remind me that we all can all get hit by a bus tomorrow, that the bus 🚍 doesn’t follow them around everywhere they go!” There was a lot of laughter and head nods. It felt like the room could go on endlessly sharing similar versions too.
+A recurring topic among those of us facing terminal illness, was how discouragement comes from multiple angles. From recurrence setbacks, treatment side-effects, struggles with insurance coverage and finances, to absorbing well-intentioned, but not-so-helpful comments people tend to make. One sharp remark made me laugh when someone shared “I tell people who remind me that we all can all get hit by a bus tomorrow, that the bus 🚍 doesn’t follow them around everywhere they go!” There was a lot of laughter and head nods. It felt like the room could go on endlessly sharing similar versions too.
 
-Personally, there have been occasions where I’ve struggled with comments too. Over time, I’m coming to more readily empathize with those who don’t have the perfect words or any words at all. Grief ripples out from those who face cancer and death. There are no rote words to recite. Often the best moments are when someone says "I love you" and gives a hug.
+Personally, I have struggled with comments too, but over time, I’m coming to empathize with those who don’t have refined words of encouragement, or anything to say at all. Grief ripples out from those who face cancer and death. There are no rote words to recite. Often the best moments are when someone simply says "I love you" and gives a hug.
 
 I’ve found myself more reliant on God’s word to express my own thoughts, emotions, and needs. Nancy Guthrie’s book <a class="text-yellow-500" href="https://www.nancyguthrie.com/im-praying-for-you">I’m Praying For You</a> has been a helpful resource. It summarizes 40 prayers from the Bible for those facing suffering. She is a <a class="text-yellow-500" href="https://www.desiringgod.org/interviews/discussion-with-nancy-guthrie">seasoned and trustworthy counselor</a> on the subject.
 
@@ -76,6 +76,6 @@ The trump shall resound, and the Lord shall descend,<br>
 Even so, it is well with my soul.
 </x-blockquote>
 
-While my cancer remains stable, I am hyper-aware of how quickly things can change. Pray for me, that "whatever my lot" turns out to be, I'll take heart, because _it is well with my soul_.
+While my cancer remains stable, I am hypervigilant over how quickly things can change. Pray for me, that "whatever my lot" turns out to be, I'll take heart knowing _it is well with my soul_.
 
 <img alt="Caleb at the Farber" src="/assets/images/caleb-dfci.jpg" />

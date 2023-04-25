@@ -4,7 +4,7 @@
     <div class="max-w-2xl pb-12 px-6 mt-10 mx-auto">
         <div class="text-xl leading-relaxed">
             <div class="text-center">
-                <div class="inline-block bg-slate-950 text-yellow-500 font-mono font-medium text-xs rounded-md px-3 py-1.5 lg:text-base">{{ $page->date }}</div>
+                <div class="inline-block bg-yellow-200/10 border border-yellow-300 text-yellow-500 font-mono font-semibold text-xs rounded-full px-3 py-1.5">{{ $page->date }}</div>
                 <h1 class="font-serif text-5xl mt-1.5">{{ $page->title }}</h1>
             </div>
 
