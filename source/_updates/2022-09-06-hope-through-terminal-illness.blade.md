@@ -8,7 +8,7 @@ image: boys-at-beach.jpg
 
 Tragedy has always been a comfortable distance away throughout my life. However, amidst the pandemic in 2020, my eyes were opened when a friend my age was diagnosed with ALS and a hero <a class="text-yellow-500" href="https://www.challies.com/articles/my-son-my-dear-son-has-gone-to-be-with-the-lord/">lost his 20 year old son</a>. Suddenly, I found it easy to envision how suffering might come for me too.
 
-Theologically, I saw the trials and afflictions others faced as a shadow of what will come sooner or later, but only from the perspective as an observer on the outside looking in. I knew I wasn’t immune to the realities of a fallen world. Jesus said so in John 16:33, “I have said these things to you, that in me you may have peace. <b b class="font-semibold">In the world you will have tribulation</b>. But take heart; I have overcome the world.”
+Theologically, I saw the trials and afflictions others faced as a shadow of what will come sooner or later, but only from the perspective as an outsider looking in. I knew I wasn’t immune to the realities of a fallen world. Jesus said so in John 16:33, “I have said these things to you, that in me you may have peace. <b b class="font-semibold">In the world you will have tribulation</b>. But take heart; I have overcome the world.”
 
 Would the low-grade, everyday hardships be my only difficulties in life? At 35, I was not afflicted by suffering in a personal way. I was busy being a husband, a father to 3 young boys and pursuing an upwardly mobile life through a recent promotion. I have a full life to live, a family to raise, a God to serve!
 
@@ -18,7 +18,7 @@ Then, the tidal wave of suffering came straight at me. After an abrupt, traumati
 
 Where can I turn? Will my life ever be the same? What will happen to my family? Questions mounted and fears of the future were suffocating. The perception others had of a man with “strong faith” started to look a lot more like flimsy self-reliance.
 
-Comforts are hard to come by and when they do, sift through my fingers like sand. The only surety I had was my situation was uncertain. I look at my boys now and long to be present throughout their lives. This season truly revealed just how much I “rely on myself.” Can all my dreams and desires be swept away through this storm?
+Comforts are hard to come by and when they do, sift through my fingers like sand. The only surety I had was my situation was uncertain. I look at my boys now and long to be present throughout their lives. This season truly revealed how much I “rely on myself.” Can all my dreams and desires be swept away through this storm?
 
 In the early months after my diagnosis, I spent a good while reading through the Christian hope in the resurrection of The Lord Jesus Christ. The final chapters of 1 Corinthians and the beginning of 2 Corinthians were worn, tear-covered pages in my bible. A familiar verse I’ve tended to gloss over shined bright in the darkest moment of my life.
 

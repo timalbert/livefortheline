@@ -10,7 +10,7 @@ image: boyheros.jpg
 “I know you have brain cancer, but what is <b>really</b> preventing you from returning to work?”
 </x-blockquote>
 
-I’ve come to expect this 👆 type of compassion from insurance companies as I’ve navigated various disability claims over the last 18 months. It has been daunting to wade through wordy policies and wait for phone calls to be returned. I’ve had to justify myself in order to receive what I’ve paid for and am entitled to.
+I’ve come to expect this 👆 type of compassion from insurance analysts as I’ve navigated various disability claims over the last 18 months. It has been daunting to wade through wordy policies and wait for phone calls to be returned. I’ve had to justify myself in order to receive what I am entitled to.
 
 The more complex challenge, however, has been the puzzle of medical advice scattered before me. One doctor insists I stick with the proven standard of care and nothing more aggressive, which felt a lot like sitting on my hands. Another promotes an integrative approach, but it’s complicated to maintain. While yet another describes a promising experimental treatment as a “no brainer” for me.
 
@@ -18,11 +18,11 @@ If the trauma I’m experiencing and cognitive deficits caused by my tumor weren
 
 ## From Self-Sufficiency to Dependency
 
-By God's provision, many helpers have come alongside in my time of need. A dietician specializing in gliomas empowered me with the latest research and a nutrition plan. A new friend from our children’s school, who previously managed a brain tumor foundation, offered wise counsel and a large network of connections. A community we could depend on steadied our resolve to press forward and endure whatever was to come.
+By God's provision, many helpers have come alongside in my time of need. A <a class="text-yellow-500" href="https://www.patricesurley.com">dietician specializing in gliomas</a> empowered me with the latest research and a nutrition plan. A new friend from our children’s school, who previously managed a brain tumor foundation, offered wise counsel and a large network of connections. A community we could depend on steadied our resolve to press forward and endure whatever was to come.
 
 When the weight of medical and family decisions piled up, the Lord graciously provided advocates to encourage and guide at just the right time, and seemingly, in every area of my life. They helped lift my burdens when I was about to collapse. They provided an abundance of wisdom and practical support. I was diverted from the dark roads of despair and conspiracy many patients have walked.
 
-Even still, cancer, like nothing else, has showcased my limitations, pronounced my nagging sinful tendencies, and brought me face-to-face with my own mortality. I can’t avoid asking the existential questions of life. Why am I here? Why is this happening to me? What happens when I die?
+Like nothing else, cancer has showcased my limitations, pronounced my nagging sinful tendencies, and brought me face-to-face with my own mortality. I can’t avoid asking the existential questions of life. Why am I here? Why is this happening to me? What happens when I die?
 
 Uncertainties still abound and it feels like my needs grow by the day. My life is reflecting the spiritual dependency I’ve come to acknowledge and embrace. I need another helper who can deal with my deepest problem, who has walked in my shoes, and has a solution to the universal end of the human experience.
 
