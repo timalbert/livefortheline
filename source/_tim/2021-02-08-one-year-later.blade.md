@@ -6,7 +6,7 @@ date: 2/08/21
 icon: calendar
 ---
 
-Little did I know it, but in a few moments my whole life was about to change. I walked into the emergency room at Mass Eye & Ear Infirmary and didn't walk out for 10 grueling days.
+Little did I know it, but in a few moments my whole life was about to change. I walked into the emergency room at Mass Eye & Ear Infirmary and would not be home for 10 grueling days.
 
 A day earlier, my optometrist called while I was outside playing with the boys in the snow (it seemed strange to call on a Sunday afternoon). I answered and Dr. Chang insisted that I go to the ER at MEEI first thing tomorrow morning. He told me he would call in the details and that they would be able to work-up the issue immediately. I thought we just had a routine eye exam where glasses would correct the blurry vision and headaches I had been experiencing the past few months. He wrote something else on my discharge paper that I did not think much of at the time "papilledema.”
 
