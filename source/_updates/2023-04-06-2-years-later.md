@@ -3,7 +3,6 @@ extends: _layouts.update
 section: content
 title: Two Years Later - It Is Well
 description: An update recounting two years living with cancer.
-feature: no
 date: 3/5/23
 image: ioh-team-kingdom.jpg
 ---
