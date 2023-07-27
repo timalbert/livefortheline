@@ -3,6 +3,8 @@ extends: _layouts.update
 section: content
 title: My Hope Through Terminal Illness
 date: 9/6/22
+description: An update recounting two years living with cancer.
+feature: true
 image: boys-at-beach.jpg
 ---
 
@@ -30,9 +32,9 @@ Living with a terminal diagnosis has felt, at times, like I've been given a deat
 
 <h2>What is your hope?</h2>
 
-Despondency presses in during moments like this asking, what hope is there to escape your inevitable death?
+<p>Despondency pressed in asking, what hope do you have facing inevitable death? The cure I longed to hear about from my doctors, I heard afresh through God's word.</p>
 
-The cure I longed to hear about from my doctors, I heard afresh through God's word. Sitting on my in-laws' guest bed, I silently raised my hands in praise. It was the word I needed to hear. A reminder of the hope I cling to even when all else is lost. Jesus is the one who, by his wounds, heals our sentence of death (Isaiah 53:5).
+Sitting on my in-laws' guest bed, I silently raised my hands in praise. It was the word I needed to hear. A reminder of the hope I cling to even when all else is lost. Jesus is the one who, by his wounds, heals our sentence of death (Isaiah 53:5).
 
 David Powilson helps me to see <a href="https://www.crossway.org/books/gods-grace-in-your-suffering-tpb/" class="text-yellow-500">God's grace through suffering</a> writing:
 
@@ -40,7 +42,7 @@ David Powilson helps me to see <a href="https://www.crossway.org/books/gods-grac
     <div>When God has written his name on you, suffering qualitatively changes. Pain, loss, and weakness are no longer the end of the world and the death of your hopes. Whatever you must face changes in the light of the resurrection of Jesus Christ and the promise that you, too, will live.</div>
 </x-blockquote>
 
-Be still my soul and trust in the “eternal rock” (Isaiah 26:4). A life built on Jesus can withstand the raging floods that will come in this life (Matthew 7:24-27).
+Be still my soul and trust in the “eternal rock” (Isaiah 26:4). Life built upon Jesus can withstand the raging floods that will come in this life (Matthew 7:24-27).
 
 Take it to heart, God will do nothing less than raise you from the dead!
 
