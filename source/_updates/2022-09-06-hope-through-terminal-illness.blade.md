@@ -3,7 +3,7 @@ extends: _layouts.update
 section: content
 title: My Hope Through Terminal Illness
 date: 9/6/22
-description: An update recounting two years living with cancer.
+description: In the world you will have tribulation. But take heart; I have overcome the world.
 feature: true
 image: boys-at-beach.jpg
 ---
