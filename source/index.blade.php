@@ -40,7 +40,7 @@
     <!-- connect -->
     <section id="connect" class="mt-16 px-6 lg:pb-16">
         <div class="max-w-screen-xl mx-auto">
-            <h2 class="text-center text-zinc-100 text-4xl font-semibold">Connect</h2>
+            <h2 class="text-center text-zinc-100 text-4xl font-semibold">Contact</h2>
             <p class="text-center text-zinc-300 mt-4 lg:text-xl">I would love to hear from you!</p>
             <form class="mt-12 max-w-4xl mx-auto" name="contact" method="POST" action="/success" data-netlify="true">
                 <div class="flex flex-col lg:flex-row -mx-6">
