@@ -73,4 +73,4 @@ When the sky's literally darkened at the cross, even Jesus cried out using the P
     <div>I consider that the sufferings of this present time are not worth comparing with the glory that is to be revealed to us.</div>
 </x-blockquote>
 
-Take heart Caleb, Nathan, and Matthew, and trust in the finished work of Jesus Christ.
+So, take heart in what Jesus Christ has done - Caleb, Nathan, and Matthew - Dad <a href="https://youtu.be/roQovDZeAWE?si=nm3R3enF1LbpIDaZ" class="text-yellow-500">will be with him forevermore</a>.
