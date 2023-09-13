@@ -8,13 +8,13 @@ image: caleb-dfci.jpg
 ---
 <h2>Discussing my cancer diagnosis with our children</h2>
 
-It was still dark out at 5:30 a.m. and I was able to elude the creaks and cracks of our floor tiptoeing past the boys bedroom. Attempting to sneak out of the house for my treatment, I thought I had made an escape as I headed downstairs when a soft, concerned voice whispered, "Dad, where are you going?"
+It was still dark out at 5:30 a.m. and I'm attempting to sneak out of the house for my treatment before the boys woke up. I eluded the creaks and cracks of the floor, tiptoeing past the boys bedroom. I thought the coast was clear as I headed downstairs when a soft, concerned voice whispered, "Dad, where are you going?”
 
-Surprised that Caleb was awake, I considered how to respond. Do I tell a little fib? “I’m going out for a jog” (unlikely), or “I’m getting an early start on breakfast and your lunches” (unusual). Or the truth that daily breaks my heart? I’m going to stare cancer in the face and receive life or death treatment. I’m going to find out how long I have to live.
+Surprised that Caleb was awake, I quickly considered how to respond. Do I tell a little fib? “I’m going out for a jog” (unlikely), or “I’m getting an early start on breakfast and your lunches” (unusual). Or the truth that daily breaks my heart? “I’m going to stare cancer in the face and receive life or death treatment. I’m going to find out how long I have to live.”
 
 <h2>How do you discuss a cancer diagnosis with your kids?</h2>
 
-How do you handle a fragile child’s heart that believes his dad is healthy, not sick. Strong, not weak. Dad is the family provider, not the one in need. I’m weary holding his childlike concern and decide to punt for another day. I replied, “Buddy, dad has a doctor's appointment this morning. Go back to bed and don’t wake up mom or your brothers.”
+How do you handle a child’s fragile heart that believes his dad is healthy, not sick. Strong, not weak. The family's provider, not the one in need. I’m weary holding his childlike concern and decide to punt for another day. I replied, “Buddy, dad has a doctor's appointment this morning. Go back to bed and don’t wake up mom or your brothers.”
 
 Needless to say, I don't have a great answer. Over the last two years, I’ve learned a lot through the help of social workers and <a href="https://www.theatlantic.com/ideas/archive/2021/03/tim-keller-growing-my-faith-face-death/618219/" class="text-yellow-500">others</a> who have <a href="https://www.theringer.com/2022/3/3/22956353/fatherhood-cancer-jonathan-tjarks" class="text-yellow-500">walked this path</a>. Rarely, though, has anyone touched my deepest heart wounds.
 
@@ -38,7 +38,7 @@ My son’s innocent question strikes at the core of my fears. He's unaware of al
 
 Like Psalm 77:3-4, I often cry out and at times, physically reach out, wondering if God is there and listening. I appreciate the honesty of these verses and adopt the prayerful heartache, “my  soul <i>refuses to be comforted</i> … I <i>moan</i> and my <i>spirit faints</i>.”
 
-As my boys understand more, anxiety disrupts and turns my “day to trouble.” This valley has been dark and lonely, but I've found a peculiar comfort in God’s word, how it sits in the dispair. God speaks through a lament rather than simple advice that someone suffering would rather not hear. The Psalms are a wise counselor.
+As my boys understand more, anxiety disrupts and turns my “day to trouble.” This valley has been dark and lonely, but I've found a peculiar comfort in God’s word, how it sits with me in the dispair. God speaks through a lament rather than simple advice that someone suffering would rather not hear. The Psalms are a wise counselor.
 
 <h2>Remembering past faithfulness</h2>
 The night before a recent MRI, my oldest son Caleb caught me reading my bible on my knees. It just happened to be Psalm 77. He asked me why I seemed sad. Candidly, I told him I was talking to God about my doctor’s appointment in the morning. With great fear he asked, “are you going to get a shot?” He knows from experience how miserable that can be. I told him that I would have to get a shot, but that wasn’t what I was most scared about.
