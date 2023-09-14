@@ -32,7 +32,7 @@ The Psalms, however, have taught me how to grieve and lament life's unanswerable
     </div>
 </x-blockquote>
 
-My son’s innocent question strikes at the core of my fears. He doesn't know what cancer is, let alone all that's stirring in my soul. I've largely avoided the conversation to this point, but spend a significant portion of each day replaying what seems inevitable in my mind: <i>life cut short and my boys growing up without their father.</i>
+My son’s innocent question strikes at the core of my fears. He hardly knows what cancer is, let alone that his dad has it. I've largely avoided the conversation to this point, but spend a significant portion of each day replaying what seems inevitable in my mind: <i>life cut short and my boys growing up without their father.</i>
 
 <h2>God can handle the disappointment</h2>
 
