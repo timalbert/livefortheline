@@ -16,7 +16,7 @@ Surprised that Caleb was awake, I quickly considered how to respond. Do I tell a
 
 How do you handle a child’s fragile heart that believes his dad is healthy, not sick. Strong, not weak. The family's provider, not the one in need. I’m weary holding his childlike concern and decide to punt for another day. I replied, “Buddy, dad has a doctor's appointment this morning. Go back to bed and don’t wake up mom or your brothers.”
 
-Needless to say, I don't have a great answer. Over the last two years, I’ve learned a lot through the help of social workers, therapists and <a href="https://www.christianitytoday.com/ct/podcasts/adopting-hope/adoption-podcast-brian-amy-shaw.html/" class="text-yellow-500">others</a> who have <a href="https://www.theringer.com/2022/3/3/22956353/fatherhood-cancer-jonathan-tjarks" class="text-yellow-500">walked this path</a>. Rarely, though, has anyone touched my deepest heart wounds.
+Needless to say, I don't have a great answer. Over the last two years, I’ve <a href="https://www.dana-farber.org/for-patients-and-families/care-and-treatment/support-services-and-amenities/family-connections/for-the-patient/talking-with-children-about-cancer/">learned a lot</a> through the help of social workers, therapists and <a class="text-yellow-500" href="https://www.christianitytoday.com/ct/podcasts/adopting-hope/adoption-podcast-brian-amy-shaw.html/" class="text-yellow-500">others</a> who have <a href="https://www.theringer.com/2022/3/3/22956353/fatherhood-cancer-jonathan-tjarks" class="text-yellow-500">walked this path</a>. Rarely, though, has anyone touched my deepest heart wounds.
 
 The Psalms, however, have taught me how to grieve and lament life's unanswerable questions. I often make Psalm 77’s sincere words my own in the dark of night.
 
@@ -74,3 +74,12 @@ When the sky's darkened at the cross, Jesus took our sin upon himself and he cri
 </x-blockquote>
 
 So, take heart in what Jesus Christ has done - Caleb, Nathan, and Matthew - Dad <a href="https://youtu.be/roQovDZeAWE?si=nm3R3enF1LbpIDaZ" class="text-yellow-500">will be with him forevermore</a>.
+
+<h2>Resources I've found helpful</h2>
+<ul class="list-disc text-base">
+    <li><a class="text-yellow-500" href="https://inheritanceofhope.org/">Legacy Retreats®</a> (Inheritance of Hope)</li>
+    <li><a class="text-yellow-500" href="https://www.theatlantic.com/ideas/archive/2021/03/tim-keller-growing-my-faith-face-death/618219/">Growing My Faith in the Face of Death</a> (Tim Keller)</li>
+    <li><a class="text-yellow-500" href="https://www.dana-farber.org/for-patients-and-families/care-and-treatment/support-services-and-amenities/family-connections/for-the-patient/talking-with-children-about-cancer/">Talking with Children About Cancer</a> (Dana-Farber Cancer Institute)</li>
+    <li><a class="text-yellow-500" href="https://www.cancer.org/cancer/caregivers/helping-children-when-a-family-member-has-cancer/dealing-with-treatment/talking-to-kids.html">Telling a Child Someone They Love Has Cancer</a> (American Cancer Society)</li>
+    <li><a class="text-yellow-500" href="https://www.wtsbooks.com/products/grief-and-your-child-sharing-gods-comfort-in-loss-9781645071785?variant=40737215578312">Grief and Your Child: Sharing God's Comfort in Loss</a> (Bob Kellemen)</li>
+</ul>
