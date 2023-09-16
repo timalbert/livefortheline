@@ -6,6 +6,9 @@
             <div class="text-center">
                 <div class="inline-block bg-yellow-200/10 border border-yellow-300 text-yellow-500 font-mono font-semibold text-xs rounded-full px-3 py-1.5">{{ $page->date }}</div>
                 <h1 class="font-serif text-5xl mt-1.5">{{ $page->title }}</h1>
+                @if ($page->subtitle)
+                    <p class="text-slate-400 my-3">{{ $page->subtitle }}</p>
+                @endif
             </div>
 
             <div class="mt-8 prose:dark prose-xl prose-white">

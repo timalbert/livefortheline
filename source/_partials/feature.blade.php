@@ -2,13 +2,13 @@
     <div class="">
         <img class="group-hover:opacity-75" src="/assets/images/{{ $updates->where('feature', true)->first()->image }}" alt="Featured image">
     </div>
-    <div class="p-4 pb-0 lg:pb-2">
+    <div class="p-4 pb-0 lg:pb-1">
         <h2 class="text-slate-900 font-black text-2xl">
             <a href="{{ $updates->where('feature', true)->first()->getUrl() }}">
                 <span aria-hidden="true" class="absolute inset-0"></span>
                 {{ $updates->where('feature', true)->first()->title }}
             </a>
         </h2>
-        <p class="text-slate-700 text-lg font-medium lg:text-xl lg:mt-2">{{ $updates->where('feature', true)->first()->description }}</p>
+        <p class="text-slate-700 font-medium text-lg lg:text-xl lg:mt-2">{{ $updates->where('feature', true)->first()->subtitle }}</p>
     </div>
 </div>

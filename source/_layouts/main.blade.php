@@ -16,7 +16,7 @@
         <link rel="icon" type="image/png" sizes="32x32" href="/assets/favicons/favicon-32x32.png">
         <link rel="icon" type="image/png" sizes="16x16" href="/assets/favicons/favicon-128x128.png">
     </head>
-    <body class="bg-slate-700 text-slate-200 font-sans antialiased">
+    <body class="bg-slate-700 text-zinc-100 font-sans antialiased">
         <div class="bg-gradient-to-b from-slate-900 to-slate-800">
             @include('_partials.header')
             <div>
