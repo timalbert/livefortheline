@@ -4,6 +4,7 @@ section: content
 title: Dad, Where Are You Going?
 description: Lamenting the cancer discussion with my kids.
 date: 9/11/23
+feature: true
 image: caleb-dfci.jpg
 ---
 <h2>Lamenting the cancer discussion with my kids</h2>

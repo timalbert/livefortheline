@@ -1,17 +1,27 @@
 @extends('_layouts.main')
 
 @section('body')
-    <div id="tagline" class="text-center mt-10 px-6">
-        <h1 class="font-serif text-zinc-100 text-3xl sm:text-5xl">Tim's journey through brain cancer</h1>
+    <div class="sm:flex mx-auto mt-8 lg:mt-16 px-6 max-w-6xl">
+        <div class="text-center sm:text-left sm:w-7/12 sm:pr-2">
+            <h1 class="font-serif text-zinc-100 text-3xl mt-6">
+                <div class="text-xl text-yellow-500 font-semibold">Tim's</div> journey through brain cancer</h1>
+            <p class="text-zinc-300 mt-4 sm:text-xl">Health updates and reflections on eternity from Tim.</p>
+
+            <div class="mt-6 lg:mt-10 flex gap-4 justify-center lg:justify-normal">
+                <x-button text="Contact" href="/#contact" icon="contact" />
+                <x-button text="Diagnosis" href="/#journey" icon="clipboard" />
+            </div>
+        </div>
+
+        <div class="sm:w-5/12 mt-10 sm:mt-0 sm:-top-6 sm:-right-6">
+            @include('_partials.feature')
+        </div>
     </div>
 
-    <!-- Updates -->
-    <section id="updates" class="mt-12 mx-auto px-6 max-w-7xl lg:mt-16">
-        @include('_partials.feature')
-
-        <div class="mt-12 grid grid-cols-2 gap-y-10 gap-x-6 sm:grid-cols-2 lg:grid-cols-3 xl:gap-x-8">
-            {{-- @foreach($updates->forget('feature')->reverse() as $update) --}}
-            @foreach($updates->reverse() as $update)
+    <section class="mt-12 mx-auto px-6 max-w-6xl lg:mt-16">
+        <div class="grid grid-cols-2 gap-y-10 gap-x-6 sm:grid-cols-2 lg:grid-cols-3 xl:gap-x-8">
+            {{-- @foreach($updates->reverse() as $update) --}}
+            @foreach($updates->forget('feature')->reverse() as $update)
                 @if(! $update->has('feature'))
                     @include('_partials.card')
                 @endif
@@ -21,7 +31,7 @@
 
     <!-- journey -->
     <section id="journey" class="mt-16 px-6 py-16 bg-zinc-900/50 lg:py-18">
-        <h2 class="text-center text-zinc-100 text-4xl font-semibold">Reliving My Diagnosis</h2>
+        <h2 class="text-center text-zinc-100 text-4xl font-semibold">Recounting My Diagnosis</h2>
         <p class="text-center text-zinc-300 mt-4 lg:text-xl">God's grace in my darkest moment.</p>
         <ul class="space-y-8 max-w-lg mx-auto mt-8 text-base lg:text-lg">
             @foreach($tim as $article)
@@ -38,7 +48,7 @@
     </section>
 
     <!-- connect -->
-    <section id="connect" class="mt-16 px-6 lg:pb-16">
+    <section id="contact" class="mt-16 px-6 lg:pb-16">
         <div class="max-w-screen-xl mx-auto">
             <h2 class="text-center text-zinc-100 text-4xl font-semibold">Contact</h2>
             <p class="text-center text-zinc-300 mt-4 lg:text-xl">I would love to hear from you!</p>

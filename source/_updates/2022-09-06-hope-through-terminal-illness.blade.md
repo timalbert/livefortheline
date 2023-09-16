@@ -4,7 +4,6 @@ section: content
 title: My Hope Through Terminal Illness
 date: 9/6/22
 description: In the world you will have tribulation. But take heart; I have overcome the world.
-feature: true
 image: boys-at-beach.jpg
 ---
 

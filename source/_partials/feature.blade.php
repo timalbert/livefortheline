@@ -1,14 +1,14 @@
-<div class="group relative lg:flex">
-    <div class="lg:w-2/3">
-        <img class="group-hover:opacity-75 rounded-t-md lg:rounded-bl-md lg:rounded-r-none" src="/assets/images/{{ $updates->where('feature', true)->first()->image }}" alt="Featured image">
+<div class="bg-zinc-50 hover:bg-zinc-200 group relative lg:rotate-3 p-4 rounded-md sm:text-5xl lg:mt-4 lg:-top-6 lg:-left-4">
+    <div class="">
+        <img class="group-hover:opacity-75" src="/assets/images/{{ $updates->where('feature', true)->first()->image }}" alt="Featured image">
     </div>
-    <div class="bg-zinc-50 rounded-b-md p-4 group-hover:bg-slate-200 lg:p-10 lg:w-1/3 lg:rounded-l-none lg:rounded-tr-md">
-        <h2 class="text-slate-900 font-black text-2xl lg:text-4xl">
+    <div class="p-4 pb-0 lg:pb-2">
+        <h2 class="text-slate-900 font-black text-2xl">
             <a href="{{ $updates->where('feature', true)->first()->getUrl() }}">
                 <span aria-hidden="true" class="absolute inset-0"></span>
                 {{ $updates->where('feature', true)->first()->title }}
             </a>
         </h2>
-        <p class="text-slate-700 text-lg font-medium lg:text-2xl lg:mt-4">{{ $updates->where('feature', true)->first()->description }}</p>
+        <p class="text-slate-700 text-lg font-medium lg:text-xl lg:mt-2">{{ $updates->where('feature', true)->first()->description }}</p>
     </div>
 </div>
