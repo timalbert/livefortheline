@@ -78,8 +78,8 @@ So, take heart in what Jesus Christ has done - Caleb, Nathan, and Matthew - Dad 
 <h2>Resources I've found helpful</h2>
 <ul class="list-disc text-base">
     <li><a class="text-yellow-500" href="https://inheritanceofhope.org/">Legacy Retreats®</a> (Inheritance of Hope)</li>
-    <li><a class="text-yellow-500" href="https://www.theatlantic.com/ideas/archive/2021/03/tim-keller-growing-my-faith-face-death/618219/">Growing My Faith in the Face of Death</a> (Tim Keller)</li>
     <li><a class="text-yellow-500" href="https://www.dana-farber.org/for-patients-and-families/care-and-treatment/support-services-and-amenities/family-connections/for-the-patient/talking-with-children-about-cancer/">Talking with Children About Cancer</a> (Dana-Farber Cancer Institute)</li>
     <li><a class="text-yellow-500" href="https://www.cancer.org/cancer/caregivers/helping-children-when-a-family-member-has-cancer/dealing-with-treatment/talking-to-kids.html">Telling a Child Someone They Love Has Cancer</a> (American Cancer Society)</li>
     <li><a class="text-yellow-500" href="https://www.wtsbooks.com/products/grief-and-your-child-sharing-gods-comfort-in-loss-9781645071785?variant=40737215578312">Grief and Your Child: Sharing God's Comfort in Loss</a> (Bob Kellemen)</li>
+    <li><a class="text-yellow-500" href="https://www.theatlantic.com/ideas/archive/2021/03/tim-keller-growing-my-faith-face-death/618219/">Growing My Faith in the Face of Death</a> (Tim Keller)</li>
 </ul>
