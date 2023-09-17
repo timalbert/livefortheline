@@ -64,14 +64,14 @@ I asked if I could show him a portion of what I was reading. I'm finding it's co
     </div>
 </x-blockquote>
 
-As the boys start to comprehend my cancer diagnosis, my hope is they will grow in trusting God’s faithfulness,  even when his way leads through the sea of suffering and his “footprints are unseen.” I pray they know <a href="https://youtu.be/Lq1kJLN-izE?si=3tnTPOA8oHSFbQ2M" class="text-yellow-500">Jesus</a> hears their cry and his hand is reaching out to lead them through life (Psalm 23).
+As the boys start to comprehend my cancer diagnosis, my hope is they will grow in trusting God’s faithfulness,  even when his way leads through the sea of suffering and his “footprints are unseen.” I pray they know <a href="https://youtu.be/Lq1kJLN-izE?si=3tnTPOA8oHSFbQ2M" class="text-yellow-500">Jesus</a> hears their cry and his hand is reaching out to lead them through life.
+
+<x-blockquote class="font-mono" cite="https://www.esv.org/Psalm+48:14/" caption="Psalm 48:14">
+    <div>For this God is our God for ever and ever; he will be our guide even to the end.</div>
+</x-blockquote>
 
 <h2>Looking to future glory</h2>
 When the sky's darkened at the cross, Jesus took our sin upon himself and he cried out with a Psalm (Psalm 22:1). God used his suffering and apparent defeat to turn the darkest evil into the greatest imaginable good for all who will look to him (John 3:14-16) with repentance and faith.
-
-<x-blockquote class="font-mono" cite="https://www.esv.org/Psalm+Romans+8:18/" caption="Romans 8:18">
-    <div>I consider that the sufferings of this present time are not worth comparing with the glory that is to be revealed to us.</div>
-</x-blockquote>
 
 So, take heart in what Jesus Christ has done - Caleb, Nathan, and Matthew - Dad <a href="https://youtu.be/roQovDZeAWE?si=nm3R3enF1LbpIDaZ" class="text-yellow-500">will be with him forevermore</a>.
 
