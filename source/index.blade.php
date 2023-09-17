@@ -5,7 +5,7 @@
         <div class="text-center sm:text-left sm:w-7/12 sm:pr-2">
             <h1 class="font-serif text-zinc-100 text-5xl mt-6">
                 <div class="text-2xl text-yellow-500 font-semibold">Tim's</div> journey through brain cancer</h1>
-            <p class="text-slate-300 mt-4 sm:text-xl">Health updates and reflections on eternity from Tim.</p>
+            <p class="text-slate-400 mt-4 sm:text-xl">Health updates and reflections on eternity from Tim.</p>
 
             <div class="mt-6 lg:mt-10 flex gap-4 justify-center lg:justify-normal">
                 <x-button text="Contact" href="/#contact" icon="contact" />

@@ -75,7 +75,9 @@ When the sky's darkened at the cross, Jesus took our sin upon himself and he cri
 
 So, take heart in what Jesus Christ has done - Caleb, Nathan, and Matthew - Dad <a href="https://youtu.be/roQovDZeAWE?si=nm3R3enF1LbpIDaZ" class="text-yellow-500">will be with him forevermore</a>.
 
-<h2>Resources I've found helpful</h2>
+<h3>Resources I've found helpful</h3>
+<p class="text-base">If you have a resource or insight that's been helpful to you, <a class="font-semibold text-yellow-500" href="/#contact">please reach out!</a></p>
+
 <ul class="list-disc text-base">
     <li><a class="text-yellow-500" href="https://inheritanceofhope.org/">Legacy Retreats®</a> (Inheritance of Hope)</li>
     <li><a class="text-yellow-500" href="https://www.dana-farber.org/for-patients-and-families/care-and-treatment/support-services-and-amenities/family-connections/for-the-patient/talking-with-children-about-cancer/">Talking with Children About Cancer</a> (Dana-Farber Cancer Institute)</li>
