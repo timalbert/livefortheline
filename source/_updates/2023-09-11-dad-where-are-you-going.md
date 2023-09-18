@@ -75,6 +75,8 @@ When the sky's darkened at the cross, Jesus took our sin upon himself and he cri
 
 So, take heart in what Jesus Christ has done - Caleb, Nathan, and Matthew - Dad <a href="https://youtu.be/roQovDZeAWE?si=nm3R3enF1LbpIDaZ" class="text-yellow-500">will be with him forevermore</a>.
 
+<img alt="Playing basketball with the kids" src="/assets/images/boys-bball.jpg" />
+
 <h3>Resources I've found helpful</h3>
 <p class="text-base">If you have a resource or insight that's been helpful to you, <a class="font-semibold text-yellow-500" href="/#contact">please reach out!</a></p>
 
