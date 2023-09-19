@@ -43,7 +43,7 @@ As my boys understand more, anxiety disrupts turning my “day to trouble.” Th
 <h2>Remembering past faithfulness</h2>
 The night before a recent MRI, my oldest son Caleb caught me reading my bible on my knees. It just happened to be Psalm 77 and he asked me why I seemed sad. Candidly, I told him I was talking to God about my doctor’s appointment in the morning. With great fear he asked, “are you going to get a shot?” He knows from experience how miserable that can be. I told him that I would have to get a shot, but that wasn’t what I was most scared about.
 
-I asked if I could show him a portion of what I was reading. I'm finding it's concluding appeal to remember God's faithfulness encouraging when I don’t understand what he's doing in the moment.
+I asked if I could show him a portion of what I was reading. We read the encouraging appeal to <i>remember God's faithfulness</i> especially when we're afraid and it feels like all hope is lost.
 
 <x-blockquote class="font-mono" cite="https://www.esv.org/Psalm+77:10-20/" caption="Psalm 77:10-20">
     <div>
@@ -64,7 +64,7 @@ I asked if I could show him a portion of what I was reading. I'm finding it's co
     </div>
 </x-blockquote>
 
-As the boys start to comprehend my cancer diagnosis, my hope is they will grow in trusting God’s faithfulness,  even when his way leads through the sea of suffering and his “footprints are unseen.” I pray they know <a href="https://youtu.be/Lq1kJLN-izE?si=3tnTPOA8oHSFbQ2M" class="text-yellow-500">Jesus</a> hears their cry and his hand is reaching out to lead them through life.
+As the boys comprehend  my cancer and experience this broken world, my hope is to instill a growing trust in God’s faithfulness, even when his way leads through the sea of suffering and his “footprints are unseen.” I pray they know <a href="https://youtu.be/Lq1kJLN-izE?si=3tnTPOA8oHSFbQ2M" class="text-yellow-500">Jesus</a> hears their cry and his hand is reaching out to lead them through life.
 
 <x-blockquote class="font-mono" cite="https://www.esv.org/Psalm+48:14/" caption="Psalm 48:14">
     <div>For this God is our God for ever and ever; he will be our guide even to the end.</div>
