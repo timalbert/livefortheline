@@ -2,6 +2,7 @@
 extends: _layouts.update
 section: content
 title: My Aunt Sall
+subtitle: A tribute to my Aunt who lived for the line
 date: 5/28/22
 image: aunt-sall.jpg
 ---

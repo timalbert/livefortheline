@@ -5,7 +5,7 @@
         <div class="text-center sm:text-left sm:w-7/12 sm:pr-2">
             <h1 class="font-serif text-zinc-100 text-5xl mt-6">
                 <div class="text-2xl text-yellow-500 font-semibold">Tim's</div> journey through brain cancer</h1>
-            <p class="text-slate-400 mt-4 sm:text-xl">Health updates and reflections on eternity from Tim.</p>
+            <p class="text-slate-400 mt-4 sm:text-xl">xl updates and reflections on eternity from Tim.</p>
 
             <div class="mt-6 lg:mt-10 flex gap-4 justify-center lg:justify-normal">
                 <x-button text="Contact" href="/#contact" icon="contact" />
@@ -18,14 +18,26 @@
         </div>
     </div>
 
-    <section class="mt-12 mx-auto px-6 max-w-6xl lg:mt-16">
-        <div class="grid grid-cols-2 gap-y-10 gap-x-6 sm:grid-cols-2 lg:grid-cols-3 xl:gap-x-8">
-            {{-- @foreach($updates->reverse() as $update) --}}
-            @foreach($updates->forget('feature')->reverse() as $update)
-                @if(! $update->has('feature'))
-                    @include('_partials.card')
-                @endif
-            @endforeach
+    <section class="lg:flex mt-12 mx-auto px-6 max-w-6xl lg:mt-16">
+        <div class="lg:order-last lg:w-1/2 lg:ml-16 lg:mt-0 mt-12">
+            <h2 id="reflections" class="text-zinc-100 text-4xl font-semibold">Reflections</h2>
+            <div class="mt-10 lg:mx-0 -mx-6">
+                @foreach($updates->forget('feature')->reverse() as $card)
+                    @if(! $card->has('feature'))
+                        @include('_partials.horcard')
+                    @endif
+                @endforeach
+            </div>
+        </div>
+        <div class="lg:w-1/2">
+            <h2 class="text-zinc-100 text-3xl sm:text-4xl font-semibold lg:mt-0 mt-12">Health & Trip Updates</h2>
+            <div class="grid grid-cols-2 gap-y-10 gap-x-8 sm:grid-cols-2 mt-10">
+                @foreach($trips->forget('feature')->reverse() as $card)
+                    @if(! $card->has('feature'))
+                        @include('_partials.card')
+                    @endif
+                @endforeach
+            </div>
         </div>
     </section>
 
