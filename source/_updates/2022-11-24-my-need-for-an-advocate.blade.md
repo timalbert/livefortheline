@@ -2,7 +2,7 @@
 extends: _layouts.update
 section: content
 title: My Need For An Advocate
-subtitle: From self-sufficiency to dependency
+subtitle: From self-sufficiency to dependency.
 date: 11/24/22
 image: boyheros.jpg
 ---

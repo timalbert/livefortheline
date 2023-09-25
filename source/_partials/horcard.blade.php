@@ -9,7 +9,7 @@
         {{-- <p class="text-sm text-slate-300 font-semibold mt-2 lg:text-sm lg:mt-1">{{ $card->date }}</p> --}}
         <p class="opacity-70 mt-2 ">{{ $card->subtitle }}</p>
     </div>
-    <div class="rounded-md overflow-hidden aspect-w-1 aspect-h-1 h-50 group-hover:opacity-75 w-1/3 ml-6">
-        <img src="/assets/images/{{ $card->image }}" alt="" class="">
+    <div class="group-hover:opacity-75 aspect-[4/3] relative h-full w-1/3 ml-6">
+        <img src="/assets/images/{{ $card->image }}" alt="" class="absolute object-cover w-full h-full">
     </div>
 </div>

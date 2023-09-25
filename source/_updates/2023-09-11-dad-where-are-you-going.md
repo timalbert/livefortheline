@@ -78,7 +78,7 @@ So, take heart in what Jesus Christ has done - Caleb, Nathan, and Matthew - Dad 
 <img alt="Playing basketball with the kids" src="/assets/images/boys-bball.jpg" />
 
 <h3>Resources I've found helpful</h3>
-<p class="text-base">If you have a resource or insight that's been helpful to you, <a class="font-semibold text-yellow-500" href="/#contact">please reach out!</a></p>
+If you have a resource or insight that's been helpful to you, <a class="font-semibold text-yellow-500" href="/#contact">please reach out!</a>
 
 <ul class="list-disc text-base">
     <li><a class="text-yellow-500" href="https://inheritanceofhope.org/">Legacy Retreats®</a> (Inheritance of Hope)</li>
