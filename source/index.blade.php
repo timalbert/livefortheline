@@ -19,10 +19,10 @@
     </div>
 
     <!-- updates/reflections -->
-    <section id="updates" class="lg:flex mt-12 mx-auto px-6 max-w-6xl lg:mt-16">
-        <div class="lg:order-last lg:w-1/2 lg:ml-16 lg:mt-0 mt-12">
+    <section id="updates" class="lg:flex max-w-6xl mx-auto px-6 mt-10">
+        <div class="lg:order-last lg:w-1/2 lg:ml-16 lg:mt-0 mt-10">
             <h2 class="text-zinc-100 text-4xl font-semibold">Reflections</h2>
-            <div class="mt-10 lg:mx-0 -mx-6">
+            <div class="mt-10 lg:mx-0">
                 @foreach($updates->forget('feature')->reverse() as $card)
                     @if(! $card->has('feature'))
                         @include('_partials.horcard')
@@ -31,8 +31,8 @@
             </div>
         </div>
         <div class="lg:w-1/2">
-            <h2 class="text-zinc-100 text-3xl sm:text-4xl font-semibold lg:mt-0 mt-12">Health & Trip Updates</h2>
-            <div class="grid grid-cols-2 gap-y-10 gap-x-8 sm:grid-cols-2 mt-12">
+            <h2 class="text-zinc-100 text-3xl sm:text-4xl font-semibold lg:mt-0 mt-10">Health & Trip Updates</h2>
+            <div class="grid grid-cols-2 gap-y-10 gap-x-8 sm:grid-cols-2 mt-10">
                 @foreach($trips->forget('feature')->reverse() as $card)
                     @if(! $card->has('feature'))
                         @include('_partials.card')
