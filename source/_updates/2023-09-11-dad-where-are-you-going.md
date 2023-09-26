@@ -8,7 +8,7 @@ feature: true
 image: caleb-dfci.jpg
 ---
 
-It was still dark out at 5:30 a.m. and I'm sneaking out of the house for appointments before my boys wake up. I elude the creaks and cracks of the floor, tiptoeing past their bedroom. I thought the coast was clear, but as I head downstairs a soft, concerned voice whispers, "Dad, where are you going?”
+It was still dark out at 5:30 a.m. and I'm sneaking out of the house for appointments before my boys wake up. I elude the creaks and cracks of the floor, tiptoeing past their bedroom. I thought the coast was clear, but as I head downstairs a soft, concerned voice whispers, “Dad, where are you going?”
 
 Surprised that Caleb was awake, I quickly considered how to respond. Do I tell a little fib? “I’m going out for a jog” (unlikely) or, “I’m getting an early start on breakfast and your lunches” (unusual). Or the truth that daily breaks my heart? “I’m going to stare cancer in the face and receive life or death treatment. I’m going to find out how long I have to live.”
 
@@ -32,18 +32,18 @@ The Psalms, however, have taught me how to grieve and lament life's unanswerable
     </div>
 </x-blockquote>
 
-My son’s innocent question strikes at the core of my fears. He hardly knows what cancer is, let alone that his dad has it. I've largely avoided the conversation to this point, but spend a significant portion of each day replaying what seems inevitable in my mind: <i>life cut short and my boys growing up without their father.</i>
+My son’s innocent question strikes at the core of my fears. He hardly knows what cancer is, let alone that his dad has it. I've avoided the conversation to this point, but spend a significant portion of each day replaying what seems inevitable in the theater of my mind: <i>life cut short and my boys growing up without their father.</i>
 
 <h2>God can handle the disappointment</h2>
 
 Like Psalm 77:3-4, I often cry out and at times, physically reach out, wondering if God is there and listening. I appreciate the honesty of these verses and adopt the prayerful heartache, “my  soul <i>refuses to be comforted</i> … I <i>moan</i> and my <i>spirit faints</i>.”
 
-As my boys understand more, anxiety disrupts turning my “day to trouble.” This valley has been dark and lonely, but I've found a peculiar comfort in God’s word, how it sits with me in the dispair. God speaks through a lament rather than simple advice that someone suffering would rather not hear. The Psalms are a wise counselor.
+As my boys understand more, anxiety disrupts turning my “day to trouble.” This valley has been dark and lonely, but I've found a peculiar comfort in God’s word, how it sits with me in the dispair. God speaks through a lament rather than simplistic advice that someone suffering would rather not hear. The Psalms are a wise counselor.
 
 <h2>Remembering past faithfulness</h2>
 The night before a recent MRI, my oldest son Caleb caught me reading my bible on my knees. It just happened to be Psalm 77 and he asked me why I seemed sad. Candidly, I told him I was talking to God about my doctor’s appointment in the morning. With great fear he asked, “are you going to get a shot?” He knows from experience how miserable that can be. I told him that I would have to get a shot, but that wasn’t what I was most scared about.
 
-I asked if I could show him a portion of what I was reading. We read the encouraging appeal to <i>remember God's faithfulness</i> especially when we're afraid and it feels like all hope is lost.
+I asked if I could show him a portion of what I was reading. We read the encouraging appeal to <i>remember</i> God's faithfulness especially when we're afraid and it feels like there is no hope.
 
 <x-blockquote class="font-mono" cite="https://www.esv.org/Psalm+77:10-20/" caption="Psalm 77:10-20">
     <div>
@@ -64,7 +64,7 @@ I asked if I could show him a portion of what I was reading. We read the encoura
     </div>
 </x-blockquote>
 
-As the boys comprehend  my cancer and experience this broken world, my hope is to instill a growing trust in God’s faithfulness, even when his way leads through the sea of suffering and his “footprints are unseen.” I pray they know <a href="https://youtu.be/Lq1kJLN-izE?si=3tnTPOA8oHSFbQ2M" class="text-yellow-500">Jesus</a> hears their cry and his hand is reaching out to lead them through life.
+As the boys comprehend  my cancer and experience this broken world, my hope is to instill a growing trust in God’s faithfulness, even when his way leads through the sea of suffering and his “footprints are unseen” (v. 19). I pray they know <a href="https://youtu.be/Lq1kJLN-izE?si=3tnTPOA8oHSFbQ2M" class="text-yellow-500">Jesus</a> hears their cry and his hand is reaching out to lead them through life.
 
 <x-blockquote class="font-mono" cite="https://www.esv.org/Psalm+48:14/" caption="Psalm 48:14">
     <div>For this God is our God for ever and ever; he will be our guide even to the end.</div>
