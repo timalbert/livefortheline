@@ -3,11 +3,12 @@
 @section('body')
     <div class="sm:flex mx-auto mt-8 lg:mt-16 px-6 max-w-6xl">
         <div class="text-center sm:text-left sm:w-7/12 sm:pr-2">
-            <h1 class="font-serif text-zinc-100 text-5xl mt-6">
-                <div class="text-2xl text-yellow-500 font-semibold">Tim's</div> journey through brain cancer</h1>
-            <p class="text-slate-400 mt-4 sm:text-xl">Health updates and reflections from Tim.</p>
+            <h1 class="font-serif text-4xl lg:text-6xl mt-6">
+                Tim's journey through brain cancer
+            </h1>
+            <p class="text-gray-200 mt-3 sm:text-xl">Health updates and reflections from Tim.</p>
 
-            <div class="mt-6 lg:mt-10 flex gap-4 justify-center lg:justify-normal">
+            <div class="mt-8 lg:mt-8 flex gap-4 justify-center lg:justify-normal">
                 <x-button text="Contact" href="/#contact" icon="contact" />
                 <x-button text="Diagnosis" href="/#journey" icon="clipboard" />
             </div>
@@ -21,7 +22,14 @@
     <!-- updates/reflections -->
     <section id="updates" class="lg:flex max-w-6xl mx-auto px-6 mt-10">
         <div class="lg:order-last lg:w-1/2 lg:ml-16 lg:mt-0 mt-10">
-            <h2 class="text-zinc-100 text-4xl font-semibold">Reflections</h2>
+            <h2 class="flex justify-center sm:leading-[125%] text-3xl sm:text-4xl font-semibold lg:mt-0 mt-10">
+                <span class="relative whitespace-nowrap">
+                    Reflections
+                    <svg class="absolute w-full opacity-70" width="428" height="9" viewBox="0 0 428 9" fill="none" xmlns="http://www.w3.org/2000/svg">
+                        <path d="m262.203 1.387 3.247.18c5.128.506 10.292.346 15.451.297 1.359-.036 2.447-.087 3.799-.012 8.94.272 17.616.417 26.555.689 5.694.092 11.117.17 16.81.262 2.441.023 4.876.158 7.04.278 7.04.277 13.797.762 20.837 1.04 4.605.144 8.946.16 13.557.193 6.782.041 13.274.4 20.068.22 2.447-.088 4.882.047 7.028.5 2.687.482 5.669.535 8.38.574l9.758.206c4.334.128 8.638.811 12.672 1.48.27.014.258.236.516.473l-.553.192-2.453.198-17.91.011c-14.381-.016-28.769.08-43.143-.048-10.852-.044-21.428-.183-32.279-.227-6.512-.026-13.029.06-19.269.048-2.989.057-5.971.004-8.952-.05-8.135-.116-16.269-.232-24.68-.251-3.794-.099-7.323-.071-10.852-.044-11.934-.103-23.591-.303-35.531-.295-8.952-.05-17.634-.085-26.586-.135-13.84.014-27.403-.068-41.243-.054-13.57.029-27.145.168-40.444.212l-36.65.31c-11.406.15-22.811.298-33.946.461-5.976.115-11.94.008-18.174-.114-6.776-.152-13.287-.179-20.063-.33-2.71-.04-5.687-.204-8.392-.353-2.435-.135-4.027-.78-5.343-1.52-1.052-.614-.455-1.583 1.18-1.715l2.453-.198c3.536-.139 7.335-.151 10.87-.29 7.071-.276 13.865-.457 21.2-.608 4.617-.079 9.247-.379 14.123-.22.54.03.818-.067 1.359-.037 4.623-.19 9.24-.268 14.135-.443 9.505-.142 18.752-.52 28.245-.441 1.63-.021 3.53-.027 5.159-.049 7.058-.055 14.11.001 21.181-.275 5.17-.27 10.593-.194 16.028-.338C146.362.88 155.32.82 164.284.647c1.089-.05 2.171.01 3.259-.042 7.858.212 15.469-.035 23.069-.06 1.359-.036 2.447-.087 3.799-.012 4.87.269 10.028.22 14.91.267 10.575.14 21.151.28 31.732.308 6.517-.085 14.104.112 21.15.28Z" fill="#eab308"></path>
+                    </svg>
+                </span>
+            </h2>
             <div class="mt-10 lg:mx-0">
                 @foreach($updates->forget('feature')->reverse() as $card)
                     @if(! $card->has('feature'))
@@ -31,7 +39,14 @@
             </div>
         </div>
         <div class="lg:w-1/2">
-            <h2 class="text-zinc-100 text-3xl sm:text-4xl font-semibold lg:mt-0 mt-10">Health & Trip Updates</h2>
+            <h2 class="flex justify-center sm:leading-[125%] text-3xl sm:text-4xl font-semibold lg:mt-0 mt-10">
+                <span class="relative whitespace-nowrap">
+                    Health & Trip Updates
+                    <svg class="absolute w-full opacity-70" width="428" height="9" viewBox="0 0 428 9" fill="none" xmlns="http://www.w3.org/2000/svg">
+                        <path d="m262.203 1.387 3.247.18c5.128.506 10.292.346 15.451.297 1.359-.036 2.447-.087 3.799-.012 8.94.272 17.616.417 26.555.689 5.694.092 11.117.17 16.81.262 2.441.023 4.876.158 7.04.278 7.04.277 13.797.762 20.837 1.04 4.605.144 8.946.16 13.557.193 6.782.041 13.274.4 20.068.22 2.447-.088 4.882.047 7.028.5 2.687.482 5.669.535 8.38.574l9.758.206c4.334.128 8.638.811 12.672 1.48.27.014.258.236.516.473l-.553.192-2.453.198-17.91.011c-14.381-.016-28.769.08-43.143-.048-10.852-.044-21.428-.183-32.279-.227-6.512-.026-13.029.06-19.269.048-2.989.057-5.971.004-8.952-.05-8.135-.116-16.269-.232-24.68-.251-3.794-.099-7.323-.071-10.852-.044-11.934-.103-23.591-.303-35.531-.295-8.952-.05-17.634-.085-26.586-.135-13.84.014-27.403-.068-41.243-.054-13.57.029-27.145.168-40.444.212l-36.65.31c-11.406.15-22.811.298-33.946.461-5.976.115-11.94.008-18.174-.114-6.776-.152-13.287-.179-20.063-.33-2.71-.04-5.687-.204-8.392-.353-2.435-.135-4.027-.78-5.343-1.52-1.052-.614-.455-1.583 1.18-1.715l2.453-.198c3.536-.139 7.335-.151 10.87-.29 7.071-.276 13.865-.457 21.2-.608 4.617-.079 9.247-.379 14.123-.22.54.03.818-.067 1.359-.037 4.623-.19 9.24-.268 14.135-.443 9.505-.142 18.752-.52 28.245-.441 1.63-.021 3.53-.027 5.159-.049 7.058-.055 14.11.001 21.181-.275 5.17-.27 10.593-.194 16.028-.338C146.362.88 155.32.82 164.284.647c1.089-.05 2.171.01 3.259-.042 7.858.212 15.469-.035 23.069-.06 1.359-.036 2.447-.087 3.799-.012 4.87.269 10.028.22 14.91.267 10.575.14 21.151.28 31.732.308 6.517-.085 14.104.112 21.15.28Z" fill="#eab308"></path>
+                    </svg>
+                </span>
+            </h2>
             <div class="grid grid-cols-2 gap-y-10 gap-x-8 sm:grid-cols-2 mt-10">
                 @foreach($trips->forget('feature')->reverse() as $card)
                     @if(! $card->has('feature'))
@@ -43,8 +58,15 @@
     </section>
 
     <!-- journey -->
-    <section id="journey" class="mt-16 px-6 py-16 bg-zinc-900/50 lg:py-18">
-        <h2 class="text-center text-zinc-100 text-4xl font-semibold">Recounting My Diagnosis</h2>
+    <section id="journey" class="bg-zinc-900/50 mt-16 px-6 py-16">
+        <h2 class="flex justify-center sm:leading-[125%] text-3xl sm:text-4xl font-semibold">
+            <span class="relative whitespace-nowrap">
+                Recounting My Diagnosis
+                <svg class="absolute w-full opacity-70" width="428" height="9" viewBox="0 0 428 9" fill="none" xmlns="http://www.w3.org/2000/svg">
+                    <path d="m262.203 1.387 3.247.18c5.128.506 10.292.346 15.451.297 1.359-.036 2.447-.087 3.799-.012 8.94.272 17.616.417 26.555.689 5.694.092 11.117.17 16.81.262 2.441.023 4.876.158 7.04.278 7.04.277 13.797.762 20.837 1.04 4.605.144 8.946.16 13.557.193 6.782.041 13.274.4 20.068.22 2.447-.088 4.882.047 7.028.5 2.687.482 5.669.535 8.38.574l9.758.206c4.334.128 8.638.811 12.672 1.48.27.014.258.236.516.473l-.553.192-2.453.198-17.91.011c-14.381-.016-28.769.08-43.143-.048-10.852-.044-21.428-.183-32.279-.227-6.512-.026-13.029.06-19.269.048-2.989.057-5.971.004-8.952-.05-8.135-.116-16.269-.232-24.68-.251-3.794-.099-7.323-.071-10.852-.044-11.934-.103-23.591-.303-35.531-.295-8.952-.05-17.634-.085-26.586-.135-13.84.014-27.403-.068-41.243-.054-13.57.029-27.145.168-40.444.212l-36.65.31c-11.406.15-22.811.298-33.946.461-5.976.115-11.94.008-18.174-.114-6.776-.152-13.287-.179-20.063-.33-2.71-.04-5.687-.204-8.392-.353-2.435-.135-4.027-.78-5.343-1.52-1.052-.614-.455-1.583 1.18-1.715l2.453-.198c3.536-.139 7.335-.151 10.87-.29 7.071-.276 13.865-.457 21.2-.608 4.617-.079 9.247-.379 14.123-.22.54.03.818-.067 1.359-.037 4.623-.19 9.24-.268 14.135-.443 9.505-.142 18.752-.52 28.245-.441 1.63-.021 3.53-.027 5.159-.049 7.058-.055 14.11.001 21.181-.275 5.17-.27 10.593-.194 16.028-.338C146.362.88 155.32.82 164.284.647c1.089-.05 2.171.01 3.259-.042 7.858.212 15.469-.035 23.069-.06 1.359-.036 2.447-.087 3.799-.012 4.87.269 10.028.22 14.91.267 10.575.14 21.151.28 31.732.308 6.517-.085 14.104.112 21.15.28Z" fill="#eab308"></path>
+                </svg>
+            </span>
+        </h2>
         <p class="text-center text-zinc-300 mt-4 lg:text-xl">God's grace in my darkest moment.</p>
         <ul class="space-y-8 max-w-lg mx-auto mt-8 text-base lg:text-lg">
             @foreach($tim as $article)
@@ -63,8 +85,15 @@
     <!-- connect -->
     <section id="contact" class="mt-16 px-6 lg:pb-16">
         <div class="max-w-screen-xl mx-auto">
-            <h2 class="text-center text-zinc-100 text-4xl font-semibold">Contact</h2>
-            <p class="text-center text-zinc-300 mt-4 lg:text-xl">I would love to hear from you!</p>
+            <h2 class="flex justify-center sm:leading-[125%] text-3xl sm:text-4xl font-semibold">
+                <span class="relative whitespace-nowrap">
+                    Contact
+                    <svg class="absolute w-full opacity-70" width="428" height="9" viewBox="0 0 428 9" fill="none" xmlns="http://www.w3.org/2000/svg">
+                        <path d="m262.203 1.387 3.247.18c5.128.506 10.292.346 15.451.297 1.359-.036 2.447-.087 3.799-.012 8.94.272 17.616.417 26.555.689 5.694.092 11.117.17 16.81.262 2.441.023 4.876.158 7.04.278 7.04.277 13.797.762 20.837 1.04 4.605.144 8.946.16 13.557.193 6.782.041 13.274.4 20.068.22 2.447-.088 4.882.047 7.028.5 2.687.482 5.669.535 8.38.574l9.758.206c4.334.128 8.638.811 12.672 1.48.27.014.258.236.516.473l-.553.192-2.453.198-17.91.011c-14.381-.016-28.769.08-43.143-.048-10.852-.044-21.428-.183-32.279-.227-6.512-.026-13.029.06-19.269.048-2.989.057-5.971.004-8.952-.05-8.135-.116-16.269-.232-24.68-.251-3.794-.099-7.323-.071-10.852-.044-11.934-.103-23.591-.303-35.531-.295-8.952-.05-17.634-.085-26.586-.135-13.84.014-27.403-.068-41.243-.054-13.57.029-27.145.168-40.444.212l-36.65.31c-11.406.15-22.811.298-33.946.461-5.976.115-11.94.008-18.174-.114-6.776-.152-13.287-.179-20.063-.33-2.71-.04-5.687-.204-8.392-.353-2.435-.135-4.027-.78-5.343-1.52-1.052-.614-.455-1.583 1.18-1.715l2.453-.198c3.536-.139 7.335-.151 10.87-.29 7.071-.276 13.865-.457 21.2-.608 4.617-.079 9.247-.379 14.123-.22.54.03.818-.067 1.359-.037 4.623-.19 9.24-.268 14.135-.443 9.505-.142 18.752-.52 28.245-.441 1.63-.021 3.53-.027 5.159-.049 7.058-.055 14.11.001 21.181-.275 5.17-.27 10.593-.194 16.028-.338C146.362.88 155.32.82 164.284.647c1.089-.05 2.171.01 3.259-.042 7.858.212 15.469-.035 23.069-.06 1.359-.036 2.447-.087 3.799-.012 4.87.269 10.028.22 14.91.267 10.575.14 21.151.28 31.732.308 6.517-.085 14.104.112 21.15.28Z" fill="#eab308"></path>
+                    </svg>
+                </span>
+            </h2>
+            <p class="text-center text-zinc-300 mt-4 lg:text-xl">I would love to connect with you!</p>
             <form class="mt-12 max-w-4xl mx-auto" name="contact" method="POST" action="/success" data-netlify="true">
                 <div class="flex flex-col lg:flex-row -mx-6">
                     <div class="flex-1 px-6 mb-6">
@@ -76,7 +105,7 @@
                         <input id="email" name="email" placeholder="Email" type="email" class="bg-white text-slate-900 w-full py-3 px-4 leading-6 focus:shadow-outline rounded-md border" required="">
 
                         <div class="flex mt-2 justify-end">
-                            <input id="subscribe" name="subscribe" type="checkbox" value="yes" class="form-check-input h-4 w-4 border border-gray-300 rounded-sm bg-white checked:bg-rellow-500 checked:border-blue-600 focus:outline-none transition duration-200 mt-1 align-top bg-no-repeat bg-center bg-contain float-left mr-2 cursor-pointer">
+                            <input id="subscribe" name="subscribe" type="checkbox" value="yes" class="form-check-input h-4 w-4 border border-gray-200 rounded-sm bg-white checked:bg-rellow-500 checked:border-blue-600 focus:outline-none transition duration-200 mt-1 align-top bg-no-repeat bg-center bg-contain float-left mr-2 cursor-pointer">
                             <label class="form-check-label inline-block tracking-wide font-semibold" for="subscribe">
                                 Send me the updates!
                             </label>
@@ -90,7 +119,7 @@
                 </div>
 
                 <div class="mt-10">
-                    <button type="submit" class="bg-slate-300 hover:bg-slate-400 text-slate-900 font-semibold uppercase leading-6 tracking-wide py-4 px-4 block w-full focus:shadow-outline rounded-md transition-colors duration-200">Submit</button>
+                    <button type="submit" class="bg-gray-200 hover:bg-slate-400 text-slate-900 font-semibold uppercase leading-6 tracking-wide py-4 px-4 block w-full focus:shadow-outline rounded-md transition-colors duration-200">Submit</button>
                 </div>
             </form>
         </div>

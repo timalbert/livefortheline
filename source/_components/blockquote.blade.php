@@ -1,4 +1,4 @@
-<blockquote class="mt-8 ml-0 py-6 px-8 text-lg bg-slate-700/25 border-l-2 text-justify border-yellow-500 text-slate-300 leading-8 {{ $class ?? '' }}">
+<blockquote class="leading-8 text-base sm:text-lg text-justify text-gray-300 bg-slate-700/25 border-l-2 border-yellow-500 mt-8 ml-0 py-6 px-8  {{ $class ?? '' }}">
     {!! $slot !!}
     @if(isset($caption))
         <figcaption class=""font-sm">
