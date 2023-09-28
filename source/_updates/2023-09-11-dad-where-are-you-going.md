@@ -8,13 +8,13 @@ feature: true
 image: caleb-dfci.jpg
 ---
 
-It was still dark out at 5:30 a.m. and I'm sneaking out of the house for appointments before my boys wake up. I elude the creaks and cracks of the floor, tiptoeing past their bedroom. I thought the coast was clear, but as I head downstairs a soft, concerned voice whispers, “Dad, where are you going?”
+It’s dark at 5:30 a.m. and I’m sneaking out of the house for appointments before the boys wake up. I elude the creaks and cracks of the floor, tiptoeing past their bedroom. Assuming the coast is clear I head downstairs when a soft, concerned voice whispers, "Dad, where are you going?”
 
-Surprised that Caleb was awake, I quickly considered how to respond. Do I tell a little fib? “I’m going out for a jog” (unlikely) or, “I’m getting an early start on breakfast and your lunches” (unusual). Or the truth that daily breaks my heart? “I’m going to stare cancer in the face and receive life or death treatment. I’m going to find out how long I have to live.”
+Surprised Caleb was awake, I quickly consider how to respond. Do I tell a little fib? “I’m going for a jog” (unlikely). “I’m getting an early start on breakfast and your lunches” (unusual). Or the truth that daily breaks my heart? “I’m going to stare cancer in the face and receive life or death treatment. I’m going to find out how long I have to live.”
 
 <h2>How do you discuss a cancer diagnosis with your kids?</h2>
 
-How do you handle a child’s fragile heart that believes his dad is healthy, not sick. Strong, not weak. The family's provider, not the one in need. I’m weary holding his childlike concern and decide to punt for another day. I replied, “Buddy, dad has a doctor's appointment this morning. Go back to bed and don’t wake up mom or your brothers.”
+How do you handle a child’s fragile heart that believes his dad is healthy, not sick. Strong, not weak. The family's provider, not the one in need. I’m weary holding his childlike concern and decide to punt for another day. I reply, “Buddy, dad has a doctor's appointment this morning. Go back to bed and don’t wake up mom or your brothers.”
 
 Needless to say, I don't have a great answer. Over the last two years, I’ve <a href="https://www.dana-farber.org/for-patients-and-families/care-and-treatment/support-services-and-amenities/family-connections/for-the-patient/talking-with-children-about-cancer/">learned a lot</a> through the help of social workers, therapists and <a class="text-yellow-500" href="https://www.christianitytoday.com/ct/podcasts/adopting-hope/adoption-podcast-brian-amy-shaw.html/" class="text-yellow-500">others</a> who have <a href="https://www.theringer.com/2022/3/3/22956353/fatherhood-cancer-jonathan-tjarks" class="text-yellow-500">walked this path</a>. Rarely, though, has anyone touched my deepest heart wounds.
 
