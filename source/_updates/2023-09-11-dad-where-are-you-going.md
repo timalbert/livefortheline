@@ -8,13 +8,13 @@ feature: true
 image: caleb-dfci.jpg
 ---
 
-It’s dark at 5:30 a.m. and I’m sneaking out of the house before the boys wake up. I elude the creaks and cracks of the floor, tiptoeing past their bedroom. Assuming the coast is clear, I head downstairs when a soft, concerned voice whispers, "Dad, where are you going?”
+It’s dark at 5:30 a.m. and I’m sneaking out of the house before the boys wake up. I elude the creaks and cracks of the floor, tiptoeing past their bedroom. Assuming the coast is clear, I head downstairs when a soft, concerned voice whispers, “Dad, where are you going?”
 
 Surprised Caleb was awake, I quickly consider how to respond. Do I tell a little fib? “I’m going for a jog” (unlikely). “I’m getting an early start on breakfast and your lunches” (unusual). Or the truth that daily breaks my heart? “I’m going to stare cancer in the face and receive life or death treatment. I’m going to find out how long I have to live.”
 
 <h2>How do you discuss a cancer diagnosis with your kids?</h2>
 
-How do you handle a child’s fragile heart that believes his dad is healthy, not sick. Strong, not weak. The family's provider, not the one in need. I’m weary holding his childlike concern and decide to punt for another day. I reply, “Buddy, dad has a doctor's appointment this morning. Go back to bed and don’t wake up mom or your brothers.”
+How do you handle a child’s fragile heart that believes his Dad is healthy, not sick. Strong, not weak. The family's provider, not the one in need. I’m weary holding his childlike concern and decide to punt for another day. I reply, “Buddy, Dad has a doctor's appointment this morning. Go back to bed and don’t wake up mom or your brothers.”
 
 Needless to say, I don't have a great answer. Over the last two years, I’ve <a href="https://www.dana-farber.org/for-patients-and-families/care-and-treatment/support-services-and-amenities/family-connections/for-the-patient/talking-with-children-about-cancer/">learned a lot</a> through the help of social workers, therapists and <a href="https://www.christianitytoday.com/ct/podcasts/adopting-hope/adoption-podcast-brian-amy-shaw.html/">others</a> who have <a href="https://www.theringer.com/2022/3/3/22956353/fatherhood-cancer-jonathan-tjarks">walked this path</a>. Rarely, though, has anyone touched my deepest heart wounds.
 
@@ -59,7 +59,7 @@ I asked if I could show him a portion of what I was reading. We read the encoura
         <div><span class="text-sm font-semibold">19.</span>  Your way was through the sea,</div>
             <div class="ml-6">your path through the great waters;</div>
             <div class="ml-6">yet your footprints were unseen.</div>
-        <div><span class="text-sm font-semibold">20.</span>  You led your people like a flock</div>
+        <div><span class="text-sm font-semibold">20.</span> You led your people like a flock</div>
             <div class="ml-6">by the hand of Moses and Aaron.</div>
     </div>
 </x-blockquote>
