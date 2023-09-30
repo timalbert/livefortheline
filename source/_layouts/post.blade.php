@@ -8,11 +8,11 @@
             @endif
             <h1 class="font-serif text-4xl sm:text-5xl mt-3 sm:mt-4">{{ $page->title }}</h1>
             @if ($page->subtitle)
-                <p class="leading-normal text-gray-300 my-3">{{ $page->subtitle }}</p>
+                <p class="leading-normal text-zinc-300 my-3">{{ $page->subtitle }}</p>
             @endif
         </div>
 
-        <div class="mt-8 prose:dark prose-xl prose-white prose-a:text-yellow-500 hover:prose-a:text-yellow-400 hover:prose-a:border-b hover:prose-a:border-yellow-400">
+        <div class="mt-8 prose:dark prose-xl prose-white prose-a:text-yellow-500 hover:prose-a:text-zinc-400 hover:prose-a:border-b hover:prose-a:border-zinc-400">
             @if ($page->image)
                 <div class="relative lg:-mx-48 w-full">
                     <img alt="feature image of {{ $page->title }}" class="rounded-lg lg:max-w-screen-lg" src="/assets/images/{{ $page->image }}" />

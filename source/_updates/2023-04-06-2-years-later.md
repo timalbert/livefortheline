@@ -6,12 +6,12 @@ subtitle: An update recounting two years living with cancer.
 date: 3/5/23
 image: ioh-team-kingdom.jpg
 ---
-In early March, our family of 5 traveled to Orlando for a much needed getaway. <a class="text-yellow-500" href="https://inheritanceofhope.org/">Inheritance of Hope</a>, an organization that cares for families facing the loss of a parent, sent us on their signature program, <a class="text-yellow-500" href="https://inheritanceofhope.org/retreats">the legacy retreat</a>. It’s a time designed to create a memorable experience for families with young children in our circumstance.
+In early March, our family of 5 traveled to Orlando for a much needed getaway. <a href="https://inheritanceofhope.org/">Inheritance of Hope</a>, an organization that cares for families facing the loss of a parent, sent us on their signature program, <a href="https://inheritanceofhope.org/retreats">the legacy retreat</a>. It’s a time designed to create a memorable experience for families with young children in our circumstance.
 
 <img alt="Alberts at Disney" src="/assets/images/ioh-alberts-2.jpg" />
 <img alt="Alberts with Mickey" src="/assets/images/ioh-firworks-mick.jpg" />
 
-With more than 45 families, we enjoyed fun-filled days at Disney World and Universal Studios. IOH provided two full-time volunteers to assist with our kids. Luke and Natalie were on a mission to ensure we had a blast! Three additional volunteers from the lead sponsor, <a class="text-yellow-500" href="https://www.kendrascott.com/philanthropy.html">Kendra Scott</a>, joined us as well. They were thoughtful and kind, helping us navigate the weekend and constantly spoiled 😃 our boys. This team left an indelible mark of love on us and labored to provide a once-in-a-lifetime experience we would never pursue on our own.
+With more than 45 families, we enjoyed fun-filled days at Disney World and Universal Studios. IOH provided two full-time volunteers to assist with our kids. Luke and Natalie were on a mission to ensure we had a blast! Three additional volunteers from the lead sponsor, <a href="https://www.kendrascott.com/philanthropy.html">Kendra Scott</a>, joined us as well. They were thoughtful and kind, helping us navigate the weekend and constantly spoiled 😃 our boys. This team left an indelible mark of love on us and labored to provide a once-in-a-lifetime experience we would never pursue on our own.
 
 <img alt="Strolling with the team" src="/assets/images/ioh-strolling.jpg" />
 
@@ -30,7 +30,7 @@ A recurring topic among those of us facing terminal illness, was how discouragem
 
 Personally, I have struggled with comments too, but over time, I’m coming to empathize with those who don’t have refined words of encouragement, or anything to say at all. Grief ripples out from those who face cancer and death. There are no rote words to recite. Often the best moments are when someone simply says "I love you" and gives a hug.
 
-I’ve found myself more reliant on God’s word to express my own thoughts, emotions, and needs. Nancy Guthrie’s book <a class="text-yellow-500" href="https://www.nancyguthrie.com/im-praying-for-you">I’m Praying For You</a> has been a helpful resource. It summarizes 40 prayers from the Bible for those facing suffering. She is a <a class="text-yellow-500" href="https://www.desiringgod.org/interviews/discussion-with-nancy-guthrie">seasoned and trustworthy counselor</a> on the subject.
+I’ve found myself more reliant on God’s word to express my own thoughts, emotions, and needs. Nancy Guthrie’s book <a href="https://www.nancyguthrie.com/im-praying-for-you">I’m Praying For You</a> has been a helpful resource. It summarizes 40 prayers from the Bible for those facing suffering. She is a <a href="https://www.desiringgod.org/interviews/discussion-with-nancy-guthrie">seasoned and trustworthy counselor</a> on the subject.
 
 <h2>Managing Change</h2>
 
@@ -42,7 +42,7 @@ The last two years have held up the mirror showing my limits and mortality. The 
 
 <h2>It Is Well With My Soul</h2>
 
-Familiar <a class="text-yellow-500" href="https://www.crossway.org/books/songs-of-suffering-dl/">psalms and hymns</a> have helped complete this broken melody humming in the background of my life. For me, "It Is Well" captures the sorrows of loss and the highs of hope that resolve in the resurrected Lord Jesus Christ.
+Familiar <a href="https://www.crossway.org/books/songs-of-suffering-dl/">psalms and hymns</a> have helped complete this broken melody humming in the background of my life. For me, "It Is Well" captures the sorrows of loss and the highs of hope that resolve in the resurrected Lord Jesus Christ.
 
 <x-blockquote class="font-mono" caption="Horatio G. Spafford, 1873" cite="https://youtu.be/rhaTIu_k4w0">
 When peace, like a river, attendeth my way,

@@ -19,7 +19,7 @@ If the trauma I’m experiencing and cognitive deficits caused by my tumor weren
 
 ## From Self-Sufficiency to Dependency
 
-By God's provision, many helpers have come alongside in my time of need. A <a class="text-yellow-500" href="https://www.patricesurley.com">dietician specializing in gliomas</a> empowered me with the latest research and a nutrition plan. A new friend from our children’s school, who previously managed a brain tumor foundation, offered wise counsel and a large network of connections. A community we could depend on steadied our resolve to press forward and endure whatever was to come.
+By God's provision, many helpers have come alongside in my time of need. A <a href="https://www.patricesurley.com">dietician specializing in gliomas</a> empowered me with the latest research and a nutrition plan. A new friend from our children’s school, who previously managed a brain tumor foundation, offered wise counsel and a large network of connections. A community we could depend on steadied our resolve to press forward and endure whatever was to come.
 
 When the weight of medical and family decisions piled up, the Lord graciously provided advocates to encourage and guide at just the right time, and seemingly, in every area of my life. They helped lift my burdens when I was about to collapse. They provided an abundance of wisdom and practical support. I was diverted from the dark roads of despair and conspiracy many patients have walked.
 

@@ -9,6 +9,6 @@
                 {{ $card->title }}
             </a>
         </h3>
-        <p class="text-sm text-slate-300 font-semibold mt-2 lg:text-base lg:mt-0">{{ $card->date }}</p>
+        <p class="bg-slate-950/50 rounded-full font-mono text-xs font-semibold text-zinc-300/80 px-2.5 py-1.5">{{ $card->date }}</p>
     </div>
 </div>

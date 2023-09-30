@@ -6,7 +6,7 @@
             <h1 class="font-serif text-4xl lg:text-6xl mt-6">
                 Tim's journey through brain cancer
             </h1>
-            <p class="text-gray-200 mt-3 sm:text-xl">Health updates and reflections from Tim.</p>
+            <p class="text-zinc-300 mt-3 sm:text-xl">Health updates and reflections from Tim.</p>
 
             <div class="mt-8 lg:mt-8 flex gap-4 justify-center sm:justify-normal">
                 <x-button text="Contact" href="/#contact" icon="contact" />
@@ -22,7 +22,7 @@
     <!-- updates/reflections -->
     <section id="updates" class="lg:flex max-w-6xl mx-auto px-6 py-12">
         <div class="lg:w-1/2 lg:order-last lg:ml-16">
-            <h2 class="flex justify-center sm:leading-[125%] text-3xl sm:text-4xl font-semibold lg:mt-0 mt-6">
+            <h2 class="flex justify-center sm:leading-[125%] text-3xl sm:text-4xl font-medium lg:mt-0 mt-6">
                 <span class="relative whitespace-nowrap">
                     Reflections
                     <svg class="absolute w-full opacity-70" width="428" height="9" viewBox="0 0 428 9" fill="none" xmlns="http://www.w3.org/2000/svg">
@@ -39,7 +39,7 @@
             </div>
         </div>
         <div class="lg:w-1/2 mt-12 lg:mt-0">
-            <h2 class="flex justify-center sm:leading-[125%] text-3xl sm:text-4xl font-semibold">
+            <h2 class="flex justify-center sm:leading-[125%] text-3xl sm:text-4xl font-medium">
                 <span class="relative whitespace-nowrap">
                     Health & Trip Updates
                     <svg class="absolute w-full opacity-70" width="428" height="9" viewBox="0 0 428 9" fill="none" xmlns="http://www.w3.org/2000/svg">
@@ -58,8 +58,8 @@
     </section>
 
     <!-- journey -->
-    <section id="journey" class="bg-zinc-900/50 px-6 py-12">
-        <h2 class="flex justify-center sm:leading-[125%] text-3xl sm:text-4xl font-semibold">
+    <section id="journey" class="bg-zinc-950/30 px-6 py-12">
+        <h2 class="flex justify-center sm:leading-[125%] text-3xl sm:text-4xl font-medium">
             <span class="relative whitespace-nowrap">
                 Recounting My Diagnosis
                 <svg class="absolute w-full opacity-70" width="428" height="9" viewBox="0 0 428 9" fill="none" xmlns="http://www.w3.org/2000/svg">
@@ -75,7 +75,7 @@
                         <div class="flex-shrink-0 relative p-4 bg-slate-700/50 rounded-full overflow-hidden">
                             <span class="text-yellow-500">@include('_icons.'.$article->icon)</span>
                         </div>
-                        <p class="ml-4 font-semibold">{{ $article->title }} <span class="font-mono font-normal text-slate-400 text-sm">&nbsp;({{ $article->date }})</span></p>
+                        <p class="ml-4 font-semibold">{{ $article->title }} <span class="font-mono font-normal text-slate-300 text-sm">&nbsp;({{ $article->date }})</span></p>
                     </a>
                 </li>
             @endforeach
@@ -85,7 +85,7 @@
     <!-- contact -->
     <section id="contact" class="px-6 py-12">
         <div class="max-w-screen-xl mx-auto">
-            <h2 class="flex justify-center sm:leading-[125%] text-3xl sm:text-4xl font-semibold">
+            <h2 class="flex justify-center sm:leading-[125%] text-3xl sm:text-4xl font-medium">
                 <span class="relative whitespace-nowrap">
                     Contact Tim
                     <svg class="absolute w-full opacity-70" width="428" height="9" viewBox="0 0 428 9" fill="none" xmlns="http://www.w3.org/2000/svg">
@@ -105,7 +105,7 @@
                         <input id="email" name="email" placeholder="Email" type="email" class="bg-white text-slate-900 w-full py-3 px-4 leading-6 focus:shadow-outline rounded-md border" required="">
 
                         <div class="flex mt-2 justify-end">
-                            <input id="subscribe" name="subscribe" type="checkbox" value="yes" class="form-check-input h-4 w-4 border border-gray-200 rounded-sm bg-white checked:bg-rellow-500 checked:border-blue-600 focus:outline-none transition duration-200 mt-1 align-top bg-no-repeat bg-center bg-contain float-left mr-2 cursor-pointer">
+                            <input id="subscribe" name="subscribe" type="checkbox" value="yes" class="form-check-input h-4 w-4 border border-zinc-300 rounded-sm bg-white checked:bg-rellow-500 checked:border-blue-600 focus:outline-none transition duration-200 mt-1 align-top bg-no-repeat bg-center bg-contain float-left mr-2 cursor-pointer">
                             <label class="form-check-label inline-block tracking-wide font-semibold" for="subscribe">
                                 Send me the updates!
                             </label>
@@ -119,7 +119,7 @@
                 </div>
 
                 <div class="mt-10">
-                    <button type="submit" class="bg-gray-200 hover:bg-slate-400 text-slate-900 font-semibold uppercase leading-6 tracking-wide py-4 px-4 block w-full focus:shadow-outline rounded-md transition-colors duration-200">Submit</button>
+                    <button type="submit" class="bg-zinc-300 hover:bg-slate-400 text-slate-900 font-semibold uppercase leading-6 tracking-wide py-4 px-4 block w-full focus:shadow-outline rounded-md transition-colors duration-200">Submit</button>
                 </div>
             </form>
         </div>

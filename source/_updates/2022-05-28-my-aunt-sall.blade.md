@@ -8,7 +8,7 @@ image: aunt-sall.jpg
 ---
 
 <x-blockquote class="font-mono">
-    <div>Below is a short tribute I had the priviledge to share at my <a class="text-yellow-500" href="https://everloved.com/life-of/sarah-fairweather/">Aunt Sall's memorial</a> in May 2022.</div>
+    <div>Below is a short tribute I had the priviledge to share at my <a href="https://everloved.com/life-of/sarah-fairweather/">Aunt Sall's memorial</a> in May 2022.</div>
 </x-blockquote>
 
 ## My Aunt Sall was a lion-hearted woman.
