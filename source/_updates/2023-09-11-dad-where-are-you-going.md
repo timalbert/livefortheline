@@ -8,7 +8,7 @@ feature: true
 image: caleb-dfci.jpg
 ---
 
-It’s dark at 5:30 a.m. and I’m sneaking out of the house for appointments before the boys wake up. I elude the creaks and cracks of the floor, tiptoeing past their bedroom. Assuming the coast is clear I head downstairs when a soft, concerned voice whispers, "Dad, where are you going?”
+It’s dark at 5:30 a.m. and I’m sneaking out of the house before the boys wake up. I elude the creaks and cracks of the floor, tiptoeing past their bedroom. Assuming the coast is clear, I head downstairs when a soft, concerned voice whispers, "Dad, where are you going?”
 
 Surprised Caleb was awake, I quickly consider how to respond. Do I tell a little fib? “I’m going for a jog” (unlikely). “I’m getting an early start on breakfast and your lunches” (unusual). Or the truth that daily breaks my heart? “I’m going to stare cancer in the face and receive life or death treatment. I’m going to find out how long I have to live.”
 
