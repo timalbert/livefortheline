@@ -1,5 +1,5 @@
 ---
-extends: _layouts.journey
+extends: _layouts.post
 section: content
 title: One Year Later
 date: 2/08/21

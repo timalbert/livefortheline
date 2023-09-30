@@ -1,5 +1,5 @@
 ---
-extends: _layouts.journey
+extends: _layouts.post
 section: content
 title: Surgery & Intercession
 date: 2/10/21

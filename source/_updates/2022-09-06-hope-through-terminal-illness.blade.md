@@ -1,5 +1,5 @@
 ---
-extends: _layouts.update
+extends: _layouts.post
 section: content
 title: My Hope Through Terminal Illness
 subtitle: In the world you will have tribulation. But take heart; I have overcome the world.

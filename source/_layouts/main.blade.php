@@ -19,9 +19,9 @@
     <body class="bg-slate-700 text-white font-sans antialiased">
         <div class="bg-gradient-to-b from-slate-900 to-slate-800">
             @include('_partials.header')
-            <div>
-                @yield('body')
-            </div>
+
+            @yield('body')
+
             @include('_partials.footer')
         </div>
     </body>

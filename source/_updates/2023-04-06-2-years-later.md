@@ -1,5 +1,5 @@
 ---
-extends: _layouts.update
+extends: _layouts.post
 section: content
 title: Two Years Later - It Is Well
 subtitle: An update recounting two years living with cancer.

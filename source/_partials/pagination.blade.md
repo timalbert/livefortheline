@@ -1,4 +1,4 @@
-<div class="text-sm  mt-12 pt-3 pb-8 border-t border-yellow-500 font-mono flex justify-between lg:text-base">
+<div class="flex justify-between text-sm lg:text-base font-mono border-t border-yellow-500 mt-12 pt-3 pb-8">
     @if ($page->getPrevious())
         <a class="hover:text-yellow-500 flex justify-start grow w-1/2 sm:w-auto" href="{{ $page->getPrevious()->getPath() }}">
             <span class="text-yellow-500">

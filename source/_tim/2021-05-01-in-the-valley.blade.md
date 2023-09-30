@@ -1,5 +1,5 @@
 ---
-extends: _layouts.journey
+extends: _layouts.post
 section: content
 title: In The Valley
 date: 3/21 to 5/22

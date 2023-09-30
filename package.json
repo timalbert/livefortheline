@@ -13,8 +13,8 @@
         "laravel-mix": "^6.0.39",
         "laravel-mix-jigsaw": "^2.0.0",
         "postcss": "^8.4.14",
-        "prettier": "^2.8.7",
-        "prettier-plugin-tailwindcss": "^0.2.7",
+        "prettier": "^3.0",
+        "prettier-plugin-tailwindcss": "^0.5.4",
         "tailwindcss": "^3.3.0"
     },
     "dependencies": {

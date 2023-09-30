@@ -1,5 +1,5 @@
 ---
-extends: _layouts.update
+extends: _layouts.post
 section: content
 title: My Need For An Advocate
 subtitle: From self-sufficiency to dependency.

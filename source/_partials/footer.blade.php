@@ -1,5 +1,5 @@
 <!-- footer -->
-<section id="footer" class="mt-8 px-6 py-8 text-center bg-slate-950">
+<section id="footer" class="text-center bg-slate-950 px-6 py-6">
     <div class="sm:flex justify-center text-white font-semibold leading-loose uppercase">
         <a class="border-b border-slate-100/50 mx-2.5 hover:text-yellow-500" href="/">Home</a>
         <a class="border-b border-slate-100/50 mx-2.5 hover:text-yellow-500" href="/#connect">Contact</a>

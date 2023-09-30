@@ -26,7 +26,7 @@ return [
         ],
         'devos' => [
             'path' => function ($page) {
-                return 'devos/' . $page->count . '/' . Str::slug($page->title);
+                return 'devos/' . Str::slug($page->title);
             },
         ]
     ],

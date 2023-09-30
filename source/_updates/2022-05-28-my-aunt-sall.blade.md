@@ -1,5 +1,5 @@
 ---
-extends: _layouts.update
+extends: _layouts.post
 section: content
 title: My Aunt Sall
 subtitle: A tribute to my Aunt who lived for the line.

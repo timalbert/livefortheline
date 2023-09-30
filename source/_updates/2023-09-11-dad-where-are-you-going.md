@@ -1,5 +1,5 @@
 ---
-extends: _layouts.update
+extends: _layouts.post
 section: content
 title: Dad, Where Are You Going?
 subtitle: Lamenting the cancer discussion with our children. (Psalm 77)
@@ -16,7 +16,7 @@ Surprised Caleb was awake, I quickly consider how to respond. Do I tell a little
 
 How do you handle a child’s fragile heart that believes his dad is healthy, not sick. Strong, not weak. The family's provider, not the one in need. I’m weary holding his childlike concern and decide to punt for another day. I reply, “Buddy, dad has a doctor's appointment this morning. Go back to bed and don’t wake up mom or your brothers.”
 
-Needless to say, I don't have a great answer. Over the last two years, I’ve <a href="https://www.dana-farber.org/for-patients-and-families/care-and-treatment/support-services-and-amenities/family-connections/for-the-patient/talking-with-children-about-cancer/">learned a lot</a> through the help of social workers, therapists and <a class="text-yellow-500" href="https://www.christianitytoday.com/ct/podcasts/adopting-hope/adoption-podcast-brian-amy-shaw.html/" class="text-yellow-500">others</a> who have <a href="https://www.theringer.com/2022/3/3/22956353/fatherhood-cancer-jonathan-tjarks" class="text-yellow-500">walked this path</a>. Rarely, though, has anyone touched my deepest heart wounds.
+Needless to say, I don't have a great answer. Over the last two years, I’ve <a href="https://www.dana-farber.org/for-patients-and-families/care-and-treatment/support-services-and-amenities/family-connections/for-the-patient/talking-with-children-about-cancer/">learned a lot</a> through the help of social workers, therapists and <a href="https://www.christianitytoday.com/ct/podcasts/adopting-hope/adoption-podcast-brian-amy-shaw.html/">others</a> who have <a href="https://www.theringer.com/2022/3/3/22956353/fatherhood-cancer-jonathan-tjarks">walked this path</a>. Rarely, though, has anyone touched my deepest heart wounds.
 
 The Psalms, however, have taught me how to grieve and lament life's unanswerable questions. I often make Psalm 77’s sincere words my own in the dark of night.
 
@@ -64,7 +64,7 @@ I asked if I could show him a portion of what I was reading. We read the encoura
     </div>
 </x-blockquote>
 
-As the boys comprehend  my cancer and experience this broken world, my hope is to instill a growing trust in God’s faithfulness, even when his way leads through the sea of suffering and his “footprints are unseen” (v. 19). I pray they know <a href="https://youtu.be/Lq1kJLN-izE?si=3tnTPOA8oHSFbQ2M" class="text-yellow-500">Jesus</a> hears their cry and they take his hand that's reaching out to lead them through life.
+As the boys comprehend  my cancer and experience this broken world, my hope is to instill a growing trust in God’s faithfulness, even when his way leads through the sea of suffering and his “footprints are unseen” (v. 19). I pray they know <a href="https://youtu.be/Lq1kJLN-izE?si=3tnTPOA8oHSFbQ2M">Jesus</a> hears their cry and they take his hand that's reaching out to lead them through life.
 
 <x-blockquote class="font-mono" cite="https://www.esv.org/Psalm+48:14/" caption="Psalm 48:14">
     <div>For this God is our God for ever and ever; he will be our guide even to the end.</div>
@@ -73,17 +73,17 @@ As the boys comprehend  my cancer and experience this broken world, my hope is t
 <h2>Looking to future glory</h2>
 When the sky's darkened at the cross, Jesus took our sin upon himself and cried out with a Psalm (Psalm 22:1). God used his suffering and apparent defeat to turn the darkest evil into the greatest imaginable good for all who will look to him with repentance and faith (John 3:14-16).
 
-So, take heart in what Jesus Christ has done - Caleb, Nathan, and Matthew - Dad <a href="https://youtu.be/roQovDZeAWE?si=nm3R3enF1LbpIDaZ" class="text-yellow-500">will be with him forevermore</a>.
+So, take heart in what Jesus Christ has done - Caleb, Nathan, and Matthew - Dad <a href="https://youtu.be/roQovDZeAWE?si=nm3R3enF1LbpIDaZ">will be with him forevermore</a>.
 
 <img alt="Playing basketball with the kids" src="/assets/images/boys-bball.jpg" />
 
 <h3>Resources I've found helpful</h3>
-If you have a resource or insight that's been helpful to you, <a class="font-semibold text-yellow-500" href="/#contact">please reach out!</a>
+If you have a resource or insight that's been helpful to you, <a class="font-semibold" href="/#contact">please reach out!</a>
 
 <ul class="list-disc text-base">
-    <li><a class="text-yellow-500" href="https://inheritanceofhope.org/">Legacy Retreats®</a> (Inheritance of Hope)</li>
-    <li><a class="text-yellow-500" href="https://www.dana-farber.org/for-patients-and-families/care-and-treatment/support-services-and-amenities/family-connections/for-the-patient/talking-with-children-about-cancer/">Talking with Children About Cancer</a> (Dana-Farber Cancer Institute)</li>
-    <li><a class="text-yellow-500" href="https://www.cancer.org/cancer/caregivers/helping-children-when-a-family-member-has-cancer/dealing-with-treatment/talking-to-kids.html">Telling a Child Someone They Love Has Cancer</a> (American Cancer Society)</li>
+    <li><a href="https://inheritanceofhope.org/">Legacy Retreats®</a> (Inheritance of Hope)</li>
+    <li><a href="https://www.dana-farber.org/for-patients-and-families/care-and-treatment/support-services-and-amenities/family-connections/for-the-patient/talking-with-children-about-cancer/">Talking with Children About Cancer</a> (Dana-Farber Cancer Institute)</li>
+    <li><a href="https://www.cancer.org/cancer/caregivers/helping-children-when-a-family-member-has-cancer/dealing-with-treatment/talking-to-kids.html">Telling a Child Someone They Love Has Cancer</a> (American Cancer Society)</li>
     <li><a class="text-yellow-500" href="https://www.wtsbooks.com/products/grief-and-your-child-sharing-gods-comfort-in-loss-9781645071785?variant=40737215578312">Grief and Your Child: Sharing God's Comfort in Loss</a> (Bob Kellemen)</li>
     <li><a class="text-yellow-500" href="https://www.theatlantic.com/ideas/archive/2021/03/tim-keller-growing-my-faith-face-death/618219/">Growing My Faith in the Face of Death</a> (Tim Keller)</li>
 </ul>
