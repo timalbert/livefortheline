@@ -12,7 +12,7 @@
             @endif
         </div>
 
-        <div class="mt-8 prose:dark prose-xl prose-white prose-a:text-yellow-500 hover:prose-a:text-zinc-400 hover:prose-a:border-b hover:prose-a:border-zinc-400">
+        <div class="mt-8 prose:dark prose-xl prose-white prose-a:text-yellow-500 hover:prose-a:text-zinc-500 hover:prose-a:border-b hover:prose-a:border-zinc-500">
             @if ($page->image)
                 <div class="relative lg:-mx-48 w-full">
                     <img alt="feature image of {{ $page->title }}" class="rounded-lg lg:max-w-screen-lg" src="/assets/images/{{ $page->image }}" />

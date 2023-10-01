@@ -1,27 +1,25 @@
 @extends('_layouts.main')
 
 @section('body')
-    <div class="sm:flex mx-auto mt-8 lg:mt-16 px-6 max-w-6xl">
-        <div class="text-center sm:text-left sm:w-7/12 sm:pr-2">
-            <h1 class="font-serif text-4xl lg:text-6xl mt-6">
-                Tim's journey through brain cancer
-            </h1>
-            <p class="text-zinc-300 mt-3 sm:text-xl">Health updates and reflections from Tim.</p>
 
+    <!-- hero -->
+    <section class="sm:flex mx-auto mt-8 lg:mt-16 px-6 max-w-6xl">
+        <div class="text-center sm:text-left sm:w-7/12 sm:pr-2">
+            <h1 class="font-serif text-4xl lg:text-6xl mt-6">Tim's journey through brain cancer</h1>
+            <p class="text-zinc-300 mt-3 sm:text-xl">Health updates and reflections from Tim.</p>
             <div class="mt-8 lg:mt-8 flex gap-4 justify-center sm:justify-normal">
                 <x-button text="Contact" href="/#contact" icon="contact" />
                 <x-button text="Diagnosis" href="/#journey" icon="clipboard" />
             </div>
         </div>
-
         <div class="sm:w-5/12 sm:-top-6 sm:-right-6 mt-10 sm:mt-0">
             @include('_partials.feature')
         </div>
-    </div>
+    </section>
 
     <!-- updates/reflections -->
     <section id="updates" class="lg:flex max-w-6xl mx-auto px-6 py-12">
-        <div class="lg:w-1/2 lg:order-last lg:ml-16">
+        <div class="lg:w-1/2 lg:order-last lg:ml-12">
             <h2 class="flex justify-center sm:leading-[125%] text-3xl sm:text-4xl font-medium lg:mt-0 mt-6">
                 <span class="relative whitespace-nowrap">
                     Reflections
@@ -47,7 +45,7 @@
                     </svg>
                 </span>
             </h2>
-            <div class="grid grid-cols-2 gap-y-10 gap-x-8 sm:grid-cols-2 mt-10">
+            <div class="grid grid-cols-2 gap-y-6 gap-x-6 sm:grid-cols-2 mt-9">
                 @foreach($trips->forget('feature')->reverse() as $card)
                     @if(! $card->has('feature'))
                         @include('_partials.card')

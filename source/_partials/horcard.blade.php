@@ -6,7 +6,6 @@
                 {{ $card->title }}
             </a>
         </h3>
-        {{-- <p class="text-sm text-slate-300 font-semibold mt-2 lg:text-sm lg:mt-1">{{ $card->date }}</p> --}}
         <p class="opacity-70 mt-2 ">{{ $card->subtitle }}</p>
     </div>
     <div class="group-hover:opacity-75 aspect-[4/3] relative h-full w-1/3 ml-6">
