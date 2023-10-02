@@ -14,7 +14,7 @@ Surprised Caleb is awake, I quickly consider how to respond. Do I tell a little 
 
 <h2>How do you discuss a cancer diagnosis with your kids?</h2>
 
-How do you handle a child’s fragile heart that believes his Dad is healthy, not sick. Strong, not weak. The family's provider, not the one in need. I’m weary holding his childlike concern and decide to punt for another day. I reply, “Buddy, Dad has a doctor's appointment this morning. Go back to bed and don’t wake up mom or your brothers.”
+How does a parent handle their child’s fragile heart that believes his Dad is healthy, not sick. Strong, not weak. The family's provider, not the one in need. I’m weary holding his childlike concern and decide to punt for another day. I reply, “Buddy, Dad has a doctor's appointment this morning. Go back to bed and don’t wake up mom or your brothers.”
 
 Needless to say, I don't have a great answer. Over the last two years, I’ve <a href="https://www.dana-farber.org/for-patients-and-families/care-and-treatment/support-services-and-amenities/family-connections/for-the-patient/talking-with-children-about-cancer/">learned a lot</a> through the help of social workers, therapists and <a href="https://www.christianitytoday.com/ct/podcasts/adopting-hope/adoption-podcast-brian-amy-shaw.html/">others</a> who have <a href="https://www.theringer.com/2022/3/3/22956353/fatherhood-cancer-jonathan-tjarks">walked this path</a>. Rarely, though, has anyone touched my deepest heart wounds.
 
@@ -43,7 +43,7 @@ As my boys understand more, anxiety disrupts turning my “day to trouble.” Th
 <h2>Remembering past faithfulness</h2>
 The night before a recent MRI, my oldest son Caleb caught me reading my bible on my knees. It just happened to be Psalm 77 and he asked me why I seemed sad. Candidly, I told him I was talking to God about my doctor’s appointment in the morning. With great fear he asked, “are you going to get a shot?” He knows from experience how miserable that can be. I told him that I would have to get a shot, but that wasn’t what I was most scared about.
 
-I asked if I could show him a portion of what I was reading. We read the encouraging appeal to <i>remember</i> God's faithfulness especially when we're afraid and it feels like there is no hope.
+I asked if I could show him a portion of what I was reading. We read the encouraging appeal to <i>remember</i> God's faithfulness especially when we're afraid and hope is hard to find.
 
 <x-blockquote class="font-mono" cite="https://www.esv.org/Psalm+77:10-20/" caption="Psalm 77:10-20">
     <div>
