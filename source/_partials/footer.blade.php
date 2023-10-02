@@ -1,10 +1,10 @@
 <!-- footer -->
-<section id="footer" class="text-center bg-slate-950 px-6 py-6">
+<section id="footer" class="text-center bg-slate-950 px-6 py-4">
 
     <!-- about -->
     @if(!$page->getPath())
-        <div id="about" class="text-center pb-9">
-            <div class="max-w-3xl mx-auto">
+        <div id="about" class="text-center py-4">
+            <div class="max-w-3xl border-b border-white/30 mx-auto pb-4">
                 <p class="">“Live for the line” was a phrase that my late Uncle Mike would use to illustrate the brevity of life.</p>
                 <p class="mt-3">He would compare our lives to a mere dot on a line representing eternity. Life is a "vapors breath" in comparison to eternity. Therefore we should <b class="text-yellow-500 inline-block">live for the line</b>, spending our lives on what is eternally valuable: the glory of God in Jesus Christ (<a class="text-yellow-500"href="https://www.biblegateway.com/passage/?search=John+17%3A3&version=ESV">John 17:3</a>).</p>
                 <div class="mt-4 text-sm">

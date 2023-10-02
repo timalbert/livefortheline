@@ -96,14 +96,14 @@
                 <div class="flex flex-col lg:flex-row -mx-6">
                     <div class="flex-1 px-6 mb-6">
                         <label for="name" class="block uppercase mb-2 tracking-wide font-semibold">Name</label>
-                        <input id="name" name="name" placeholder="Name" type="text" class="bg-white text-slate-900 w-full py-3 px-4 leading-6 focus:shadow-outline rounded-md border" required="">
+                        <input id="name" name="name" placeholder="Name" type="text" class="bg-white/10 text-white w-full py-3 px-4 leading-6 focus:shadow-outline rounded-md border" required="">
                     </div>
                     <div class="flex-1 px-6">
                         <label for="email" class="block uppercase mb-2 tracking-wide font-semibold">Email</label>
-                        <input id="email" name="email" placeholder="Email" type="email" class="bg-white text-slate-900 w-full py-3 px-4 leading-6 focus:shadow-outline rounded-md border" required="">
+                        <input id="email" name="email" placeholder="Email" type="email" class="bg-white/10 text-white w-full py-3 px-4 leading-6 focus:shadow-outline rounded-md border" required="">
 
                         <div class="flex mt-2 justify-end">
-                            <input id="subscribe" name="subscribe" type="checkbox" value="yes" class="form-check-input h-4 w-4 border border-zinc-300 rounded-sm bg-white checked:bg-rellow-500 checked:border-blue-600 focus:outline-none transition duration-200 mt-1 align-top bg-no-repeat bg-center bg-contain float-left mr-2 cursor-pointer">
+                            <input id="subscribe" name="subscribe" type="checkbox" value="yes" class="form-check-input h-4 w-4 border border-zinc-300 rounded-sm bg-white/10 checked:bg-rellow-500 checked:border-blue-600 focus:outline-none transition duration-200 mt-1 align-top bg-no-repeat bg-center bg-contain float-left mr-2 cursor-pointer">
                             <label class="form-check-label inline-block tracking-wide font-semibold" for="subscribe">
                                 Send me the updates!
                             </label>
@@ -113,7 +113,7 @@
 
                 <div class="mt-2">
                     <label for="message" class="block uppercase mb-2 tracking-wide font-semibold">Message</label>
-                    <textarea id="message" name="message" placeholder="Your message (optional)" rows="6" class="bg-white text-slate-900 w-full py-3 px-4 leading-6 focus:shadow-outline rounded-md border"></textarea>
+                    <textarea id="message" name="message" placeholder="Your message (optional)" rows="6" class="bg-white/10 text-white w-full py-3 px-4 leading-6 focus:shadow-outline rounded-md border"></textarea>
                 </div>
 
                 <div class="mt-10">
