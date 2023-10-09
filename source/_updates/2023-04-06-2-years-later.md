@@ -2,7 +2,7 @@
 extends: _layouts.post
 section: content
 title: Two Years Later - It Is Well
-subtitle: An Recounting two years living with cancer.
+subtitle: Recounting two years living with cancer.
 date: 3/5/23
 image: ioh-team-kingdom.jpg
 ---
