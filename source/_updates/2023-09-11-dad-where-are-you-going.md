@@ -64,14 +64,14 @@ I asked if I could show him a portion of what I was reading. We read the encoura
     </div>
 </x-blockquote>
 
-As the boys comprehend  my cancer and experience this broken world, my hope is to instill a growing trust in God’s faithfulness, even when his way leads through the sea of suffering and his “footprints are unseen” (v. 19). I pray they know <a href="https://youtu.be/Lq1kJLN-izE?si=3tnTPOA8oHSFbQ2M">Jesus</a> hears their cry and they take his hand that's reaching out to lead them through life.
+As the boys comprehend  my cancer and experience this broken world, my hope is to instill a growing trust in God’s faithfulness, even when his way leads through the sea of suffering and his “footprints are unseen” (v. 19). God continually used mediators (v.20) to rescue his people and definitively so by sending his own son. I pray they know <a href="https://youtu.be/Lq1kJLN-izE?si=3tnTPOA8oHSFbQ2M">Jesus</a> hears their cry and they take his hand that's reaching out to lead them through life.
 
 <x-blockquote class="font-mono" cite="https://www.esv.org/Psalm+48:14/" caption="Psalm 48:14">
     <div>For this God is our God for ever and ever; he will be our guide even to the end.</div>
 </x-blockquote>
 
 <h2>Looking to future glory</h2>
-When the sky's darkened at the cross, Jesus took our sin upon himself and cried out with a Psalm (Psalm 22:1). God used his suffering and apparent defeat to turn the darkest evil into the greatest imaginable good for all who will look to him with repentance and faith (John 3:14-16).
+When the sky's darkened at the cross, Jesus took our sin upon himself and cried out with a Psalm ( Ps. 22:1). God used his suffering and apparent defeat to turn the darkest evil into the greatest imaginable good for all who will look to him with repentance and faith (John 3:14-16).
 
 So, take heart in what Jesus Christ has done - Caleb, Nathan, and Matthew - Dad <a href="https://youtu.be/roQovDZeAWE?si=nm3R3enF1LbpIDaZ">will be with him forevermore</a>.
 
