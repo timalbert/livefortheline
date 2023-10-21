@@ -1,7 +1,7 @@
 ---
 extends: _layouts.post
 section: content
-title: A Health Update (Oct. 2023)
+title: A Health Update (October 2023)
 subtitle: Be Still My Soul - a second craniotomy on 10/27/23
 date: 10/20/23
 image: pmc-group-livefortheline.jpg
@@ -27,7 +27,7 @@ This fall, we participated in the <a href="https://kids.pmc.org">PMC Kids Ride</
 
 <h2>Unexpected Kinship</h2>
 <img alt="Ruthann at Dana-Farber" src="/assets/images/ruthann-dfci.jpg" />
-While I worked at Northeastern, I never expected that time could help prepare for this season. Going on disability has been humbling, but after working for 10 years and growing in my career, I walked away with tremendous friendships and support. Perhaps, the most unlikely Ruthann. We sat across from one another for 5 years, eventually connecting through our shared faith. Recently, she’s accompanied me at appointments as a seasoned patient navigator. Come to find out, her family has poured their life into pushing back the darkness of brain cancer - from Dana-Farber’s inception no less! What’s a providential grace
+While I worked at Northeastern, I never expected that time could help prepare for this season. Going on disability has been humbling, but after working for 10 years and growing in my career, I walked away with tremendous support and friendships. Perhaps, the most unlikely is Ruthann. We sat across from one another for 5 years, eventually connecting through our shared faith. Recently, she’s accompanied me at appointments as a seasoned patient navigator. Come to find out, her family has poured their life into pushing back the darkness of brain cancer - from Dana-Farber’s inception no less! What’s a providential grace
 
 <x-blockquote class="font-mono" cite="https://hymnary.org/text/be_still_my_soul_the_lord_is_on_thy_side" caption="Kathrina von Schlegel">
     <div>
