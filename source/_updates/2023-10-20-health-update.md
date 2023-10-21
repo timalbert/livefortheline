@@ -7,7 +7,9 @@ date: 10/20/23
 image: pmc-group-livefortheline.jpg
 ---
 
-Over the last 12 weeks, my oncologist at Dana-Farber Cancer Institute has been monitoring an enhancement that has progressed for 3 consecutive MRI's. At my last appointment (10/4) the team recommended I undergo another craniotomy to remove a lesion and biopsy to determine what is growing - believing it likely contains new tumor. I'll have this procedure next Friday 10/27. Thankfully, it will be with the same neurosurgeon at MGH. She performed my first in February 2021 with great success.  The goal is to remove as many unhealthy cells as possible, complement with targeted radiation and return to my maintenance immunotherapy routine in Germany post recovery.
+Over the last 12 weeks, my oncologist at Dana-Farber Cancer Institute has been monitoring an enhancement that has progressed for 3 consecutive MRI's. At my last appointment (10/4) the team recommended I undergo another craniotomy to remove a lesion and biopsy to determine what is growing - believing it likely contains new tumor. I'll have this procedure next Friday 10/27.
+
+The goal is to remove as many unhealthy cells as possible, complement with targeted radiation, and return to my maintenance immunotherapy routine in Germany post recovery.  Thankfully, the procedure will be with the same neurosurgeon at MGH. She performed my first in February 2021 with great success.
 
 Earlier in October, my wife Kate underwent back surgery on 2 herniated discs. For most of the summer, she endured extreme pain making it difficult to sit upright, drive, and lift our boys. The procedure has proven successful as Kate has made great progress towards a full recovery. Still, we will likely overlap with some major limitations over the next month including lifting and driving restrictions, and the daily challenge of managing our 3 young, energetic boys.
 
