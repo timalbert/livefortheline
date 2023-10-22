@@ -35,6 +35,11 @@ While I worked at Northeastern University, I couldn't have anticipated the ways 
 <h2>Changing Seasons</h2>
 Despite the recent circumstances, we had a great end of summer and transition to the school year. As the seasons change we are finding refuge and strength in the LORD who <a href="https://www.esv.org/Hebrews+13:8">remains the same</a>.
 
+<img alt="Lions at BTA" src="/assets/images/k-m-dumbo.jpg" />
+<img alt="Jose at NU" src="/assets/images/summer-23.jpg" />
+<img alt="Jose at NU" src="/assets/images/jose-nu.jpg" />
+<img alt="Lions at BTA" src="/assets/images/lions.jpg" />
+
 <x-blockquote class="font-mono" cite="https://hymnary.org/text/be_still_my_soul_the_lord_is_on_thy_side" caption="Kathrina von Schlegel">
     <div>
         <div>Be still, my soul;</div>
@@ -47,8 +52,3 @@ Despite the recent circumstances, we had a great end of summer and transition to
         <div class="ml-6"><span class="bg-yellow-500/20 rounded-md px-1">through thorny ways</span> leads to a joyful end.</div>
     </div>
 </x-blockquote>
-
-<img alt="Lions at BTA" src="/assets/images/k-m-dumbo.jpg" />
-<img alt="Jose at NU" src="/assets/images/summer-23.jpg" />
-<img alt="Jose at NU" src="/assets/images/jose-nu.jpg" />
-<img alt="Lions at BTA" src="/assets/images/lions.jpg" />
