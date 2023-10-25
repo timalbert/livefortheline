@@ -3,7 +3,6 @@ extends: _layouts.post
 section: content
 title: Gospel Theology
 date: 11/28/22
-count: 7
 ---
 
 <figure class="pb-4">

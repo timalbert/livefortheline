@@ -3,7 +3,6 @@ extends: _layouts.post
 section: content
 title: My Refuge
 date: 10/17/22
-count: 2
 ---
 
 I needed a reminder today, that God is personal. The Psalms provide words of faith, especially when we can't get them out on our own. We can own, sing and pray them as God's people.

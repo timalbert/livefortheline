@@ -3,7 +3,6 @@ extends: _layouts.post
 section: content
 title: Surely
 date: 11/4/22
-count: 5
 ---
 
 The Information Age in which we live pushes us quickly along to the next thing. The next headline, article, video or tweet. I find it hard to linger, even over important matters.

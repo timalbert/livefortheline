@@ -24,9 +24,9 @@ return [
                 return 'trips/' . Str::slug($page->title);
             },
         ],
-        'devos' => [
+        'ebeneezer' => [
             'path' => function ($page) {
-                return 'devos/' . Str::slug($page->title);
+                return 'ebeneezer/' . Str::slug($page->title);
             },
         ]
     ],

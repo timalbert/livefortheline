@@ -3,12 +3,11 @@ extends: _layouts.post
 section: content
 title: God Moves
 date: 10/17/22
-count: 3
 ---
 
 <figure class="pb-4">
     <figcaption>
-        <p>The brother, Mike Cavanaugh's spin off of William Cowper's hymn “God Moves in a Mysterious Way.”</p>
+        <p>Mike's rendition of William Cowper's hymn “God Moves in a Mysterious Way.”</p>
     </figcaption>
 
     <audio

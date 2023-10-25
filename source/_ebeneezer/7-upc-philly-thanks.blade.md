@@ -3,7 +3,7 @@ extends: _layouts.post
 section: content
 title: Thank You UPC of Philly
 date: 1/9/23
-count: 8
+
 ---
 
 Dear brothers and sisters in Christ at the Ukrainian Pentecostal church in Philadelphia.

@@ -3,7 +3,6 @@ extends: _layouts.post
 section: content
 title: On That Day
 date: 11/7/22
-count: 6
 ---
 
 My boys love dressing for Halloween, pretending to "put on" their characters: Cat Boy and Woody.
