@@ -7,7 +7,7 @@ date: 10/17/22
 
 <figure class="pb-4">
     <figcaption>
-        <p>Mike's rendition of William Cowper's hymn “God Moves in a Mysterious Way.”</p>
+        <p>I think you will be blessed by my friend Mike's rendition of William Cowper's hymn “God Moves in a Mysterious Way.”</p>
     </figcaption>
 
     <audio
