@@ -2,6 +2,7 @@
 extends: _layouts.post
 section: content
 title: Surgery & Intercession
+subtitle: Brain surgery on my 35th birthday
 date: 2/10/21
 icon: cake
 ---

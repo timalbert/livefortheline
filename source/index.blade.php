@@ -73,7 +73,10 @@
                         <div class="flex-shrink-0 relative p-4 bg-slate-700/50 rounded-full overflow-hidden">
                             <span class="text-yellow-500">@include('_icons.'.$article->icon)</span>
                         </div>
-                        <p class="ml-4 font-semibold">{{ $article->title }} <span class="font-mono font-normal text-slate-300 text-sm">&nbsp;({{ $article->date }})</span></p>
+                        <p class="ml-4 font-semibold">
+                            {{ $article->title }} <span class="font-mono font-normal text-slate-300 text-sm">&nbsp;({{ $article->date }})</span>
+                            <span class="block font-normal text-base opacity-70">{{ $article->subtitle }}</span>
+                        </p>
                     </a>
                 </li>
             @endforeach

@@ -2,6 +2,7 @@
 extends: _layouts.post
 section: content
 title: One Year Later
+subtitle: Finding a brain tumor
 date: 2/08/21
 icon: calendar
 ---
