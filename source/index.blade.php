@@ -69,12 +69,12 @@
         <ul class="space-y-8 max-w-lg mx-auto mt-8 text-base lg:text-lg">
             @foreach($tim as $article)
                 <li class="block w-full">
-                    <a class="flex items-center hover:text-yellow-500" href="{{ $article->getUrl() }}">
-                        <div class="flex-shrink-0 relative p-4 bg-slate-700/50 rounded-full overflow-hidden">
+                    <a class="flex items-center group" href="{{ $article->getUrl() }}">
+                        <div class="flex-shrink-0 relative p-4 bg-slate-700/20 shadow-lg ring-yellow-500/50 ring-1 rounded-full overflow-hidden">
                             <span class="text-yellow-500">@include('_icons.'.$article->icon)</span>
                         </div>
-                        <p class="ml-4 font-semibold">
-                            {{ $article->title }} <span class="font-mono font-normal text-slate-300 text-sm">&nbsp;({{ $article->date }})</span>
+                        <p class="ml-4 font-semibold group-hover:text-yellow-500">
+                            {{ $article->title }} <span class="font-mono font-normal text-slate-300 text-sm group-hover:text-red-600">&nbsp;({{ $article->date }})</span>
                             <span class="block font-normal text-base opacity-70">{{ $article->subtitle }}</span>
                         </p>
                     </a>
@@ -99,14 +99,14 @@
                 <div class="flex flex-col lg:flex-row -mx-6">
                     <div class="flex-1 px-6 mb-6">
                         <label for="name" class="block uppercase mb-2 tracking-wide font-semibold">Name</label>
-                        <input id="name" name="name" placeholder="Name" type="text" class="bg-white/10 text-white w-full py-3 px-4 leading-6 focus:shadow-outline rounded-md border" required="">
+                        <input id="name" name="name" placeholder="Name" type="text" class="bg-white/10 text-white w-full py-3 px-4 leading-6 focus:outline outline-offset-2 outline-4 outline-yellow-600 rounded-md border" required="">
                     </div>
                     <div class="flex-1 px-6">
                         <label for="email" class="block uppercase mb-2 tracking-wide font-semibold">Email</label>
-                        <input id="email" name="email" placeholder="Email" type="email" class="bg-white/10 text-white w-full py-3 px-4 leading-6 focus:shadow-outline rounded-md border" required="">
+                        <input id="email" name="email" placeholder="Email" type="email" class="bg-white/10 text-white w-full py-3 px-4 leading-6 focus:focus:outline outline-offset-2 outline-4 outline-yellow-600 rounded-md border" required="">
 
                         <div class="flex mt-2 justify-end">
-                            <input id="subscribe" name="subscribe" type="checkbox" value="yes" class="form-check-input h-4 w-4 border border-zinc-300 rounded-sm bg-white/10 checked:bg-rellow-500 checked:border-blue-600 focus:outline-none transition duration-200 mt-1 align-top bg-no-repeat bg-center bg-contain float-left mr-2 cursor-pointer">
+                            <input id="subscribe" name="subscribe" type="checkbox" value="yes" class="form-check-input h-4 w-4 border border-zinc-300 rounded-sm bg-white/10 checked:bg-rellow-500 checked:border-yellow-600 focus:outline-none transition duration-200 mt-1 align-top bg-no-repeat bg-center bg-contain float-left mr-2 cursor-pointer">
                             <label class="form-check-label inline-block tracking-wide font-semibold" for="subscribe">
                                 Send me the updates!
                             </label>
@@ -116,11 +116,11 @@
 
                 <div class="mt-2">
                     <label for="message" class="block uppercase mb-2 tracking-wide font-semibold">Message</label>
-                    <textarea id="message" name="message" placeholder="Your message (optional)" rows="6" class="bg-white/10 text-white w-full py-3 px-4 leading-6 focus:shadow-outline rounded-md border"></textarea>
+                    <textarea id="message" name="message" placeholder="Your message (optional)" rows="6" class="bg-white/10 text-white w-full py-3 px-4 leading-6 focus:focus:outline outline-offset-2 outline-4 outline-yellow-600 rounded-md border"></textarea>
                 </div>
 
                 <div class="mt-10">
-                    <button type="submit" class="bg-zinc-300 hover:bg-slate-400 text-slate-900 font-semibold uppercase leading-6 tracking-wide py-4 px-4 block w-full focus:shadow-outline rounded-md transition-colors duration-200">Submit</button>
+                    <button type="submit" class="bg-zinc-300 hover:bg-slate-400 text-slate-900 font-semibold uppercase leading-6 tracking-wide py-4 px-4 block w-full focus:focus:outline outline-offset-2 outline-4 outline-yellow-600 rounded-md transition-colors duration-200">Submit</button>
                 </div>
             </form>
         </div>
