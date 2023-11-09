@@ -9,7 +9,7 @@ image: boys-at-beach.jpg
 
 Throughout my life, tragedy has kept a comfortable distance away. Amidst the pandemic in 2020, however, my eyes were opened as a friend my age was diagnosed with ALS and a hero in the faith <a class="text-yellow-500" href="https://www.challies.com/articles/my-son-my-dear-son-has-gone-to-be-with-the-lord/">unexplainably lost his 20 year old son</a>. Suddenly, it was easy to envision how suffering could intrude in my life too.
 
-Theologically, I understood the trials and afflictions others faced as a shadow of what will come sooner or later, but only from the comfortable perspective as an outsider looking in. I knew I wasn’t immune to the realities of a fallen world. Jesus said so in John 16:33, “I have said these things to you, that in me you may have peace. In the world you will have tribulation. But <span class="text-yellow-500">take heart</span>; I have overcome the world.”
+Theologically, I understood the trials and afflictions others faced as a shadow of what will come sooner or later, but only from the comfortable perspective as an outsider looking in. I knew I wasn’t immune to the realities of a fallen world. Jesus said so, “I have said these things to you, that in me you may have peace. In the world you will have tribulation. But <span class="text-yellow-500">take heart</span>; I have overcome the world” (John 16:33).
 
 Would the low-grade, everyday hardships be my only difficulties in life? At 35, I was not afflicted by suffering in a personal way. I was busy in my roles as a husband, a father to 3 young boys and pursuit of an upwardly mobile life through a recent promotion. I have a full life to live, a family to raise, a God to serve!
 
@@ -24,7 +24,7 @@ Comforts are hard to come by and when they do, sift through my fingers like sand
 In the early months after my diagnosis, I spent a good while reading through the Christian hope in the resurrection of The Lord Jesus Christ. The final chapters of 1 Corinthians and the beginning of 2 Corinthians were worn, tear-covered pages in my bible. A familiar verse I’ve tended to gloss over shined bright in the darkest moment of my life.
 
 <x-blockquote class="font-mono" cite="https://www.esv.org/2+Corinthians+1:9/" caption="2 Corinthians 1:9">
-    <p>Indeed, we felt that we had received the sentence of death. But that was to make us rely not on ourselves but on God who raises the dead.</p>
+Indeed, we felt that we had received the sentence of death. But that was to make us rely not on ourselves but on God who raises the dead.
 </x-blockquote>
 
 Living with a terminal diagnosis has felt, at times, like I've been given a death sentence. I’m not headed to the gallows, but the verdict has been pronounced. My outcome as sure as the best doctors can determine.
@@ -33,9 +33,9 @@ Living with a terminal diagnosis has felt, at times, like I've been given a deat
 
 Despondency pressed in asking, "what hope do you have facing your inevitable death?" The cure I longed to hear about from my doctors, I heard afresh through God's word.
 
-Sitting on my in-laws' guest bed, I silently raised my hands in praise. It was the word I needed to hear. A reminder of the hope I cling to even when all else is lost. Jesus is the one who, by his wounds, can heal our sentence of death (Isaiah 53:5).
+Sitting on my in-laws' guest bed, I silently raised my hands in praise. It was the word I needed to hear. A reminder of the hope I cling to even when all else is lost. Jesus is the one who, by his wounds, can heal our sentence of death (Isaiah 53:5) and raise us to life in glory (Colossians 3:1–4).
 
-<a href="https://www.thegospelcoalition.org/blogs/justin-taylor/david-powlison-1949-2019/">David Powilson</a> has frequently helped me see with new eyes, God's grace through suffering. He explains:
+<a href="https://www.thegospelcoalition.org/blogs/justin-taylor/david-powlison-1949-2019/">David Powilson</a> has frequently helped me see with new eyes the ways in which God provides grace through suffering. He explains:
 
 <x-blockquote class="font-mono" cite="https://www.crossway.org/books/gods-grace-in-your-suffering-tpb/" caption="David Powilson">
 When God has written his name on you, suffering qualitatively changes. Pain, loss, and weakness are no longer the end of the world and the death of your hopes. Whatever you must face changes in the light of the resurrection of Jesus Christ and the promise that you, too, will live.
