@@ -1,7 +1,7 @@
 ---
 extends: _layouts.post
 section: content
-title: A Health Update (October 2023)
+title: A Health Update (OCT 2023)
 subtitle: Be Still My Soul - a second craniotomy on 11/9/23
 date: 10/20/23
 image: pmc-group-livefortheline.jpg
