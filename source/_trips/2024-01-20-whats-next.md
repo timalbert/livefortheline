@@ -15,17 +15,17 @@ Who knew you could cut out a large part of your brain and wake up functioning fa
 
 Although surgery was a success, my pathology revealed aggressive cancer still lurks and repeating the “standard of care” would likely only buy a short amount of time before I'd likely find myself in a similar situation requiring surgery, if possible. Our prayers for results to show inflammation or the tumor to miraculously disappear seem unanswered. With such heavy news, I’ve wondered if I can attain a life that is “sorrowful, yet always rejoicing” (2 Corinthians 6:10).
 
-Sorrow comes easily when I fixate on the circumstances. Joy, however, has been hard to find despite my diligent anticancer research. C.S. Lewis’ insight on the reorienting process of pain rings loud and clear.
+Sorrow comes easily when I fixate on the circumstances. Joy, however, has been hard to find despite my diligent search through anticancer material. C.S. Lewis’ insight rings loud and clear how the Lord has reorienting purposes in pain.
 
 <x-blockquote class="font-mono" caption="C.S. Lewis - The Problem of Pain">
     <div>
-        “God whispers to us in our pleasures, speaks in our conscience, but shouts in our pain: it is His megaphone to rouse a deaf world.”
+        “God whispers to us in our pleasures, speaks in our conscience, but **shouts in our pain**: it is His megaphone to rouse a deaf world.”
     </div>
 </x-blockquote>
 
 I thought I was attune to the existential questions of life, but as the Lord has limited my abilities and made clear how short life is, he’s brought a greater focus on the things that are eternal: God himself, his word, and people made in his image. I’m grateful for the opportunity to slow down and reprioritize.
 
-<h2>What's Next</h2>
+<h2>Next Steps</h2>
 
 While uncertainties remain, there’s been <a href="https://virtualtrials.org/newsarticle.cfm?item=8544">plenty of promise</a> coming from the medical world. In December, I began traveling to Northwell Health in Long Island once a month to start a <a href="https://www.alpheusmedical.com">novel, non-invasive clinical trial</a>.
 
