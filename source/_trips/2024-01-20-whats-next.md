@@ -13,9 +13,9 @@ Who knew you could cut out a large part of your brain and wake up functioning fa
 
 <iframe class="w-full aspect-video" src="https://www.youtube.com/embed/rzgpibTX_8k" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-Although surgery was a success, my pathology revealed aggressive cancer still lurks and repeating the “standard of care” would likely only buy a short amount of time before I'd likely find my be in a similar situation where more surgery is required, if possible. Our prayers for results to show inflammation or the tumor to miraculously disappear seem unanswered. With such heavy nwews, I’ve wondered if I can attain a life that is “sorrowful, yet always rejoicing” (2 Corinthians 6:10).
+Although surgery was a success, my pathology revealed aggressive cancer still lurks and repeating the “standard of care” would likely only buy a short amount of time before I'd likely find myself in a similar situation requiring surgery, if possible. Our prayers for results to show inflammation or the tumor to miraculously disappear seem unanswered. With such heavy news, I’ve wondered if I can attain a life that is “sorrowful, yet always rejoicing” (2 Corinthians 6:10).
 
-Sorrow comes easily when I fixate on the circumstances. Joy, however, has been hard to find despite my thorough anticancer research. C.S. Lewis’ insight on the reorienting process of pain rings loud and clear.
+Sorrow comes easily when I fixate on the circumstances. Joy, however, has been hard to find despite my diligent anticancer research. C.S. Lewis’ insight on the reorienting process of pain rings loud and clear.
 
 <x-blockquote class="font-mono" caption="C.S. Lewis - The Problem of Pain">
     <div>
@@ -23,7 +23,7 @@ Sorrow comes easily when I fixate on the circumstances. Joy, however, has been h
     </div>
 </x-blockquote>
 
-I thought I was attune to the existential questions we inevitably ask, but as the Lord has limited my abilities and made clear how short life is, he’s brought a greater focus on the things that are eternal: God himself, his word, and people made in his image. I’m grateful for the opportunity to slow down and reprioritize.
+I thought I was attune to the existential questions of life, but as the Lord has limited my abilities and made clear how short life is, he’s brought a greater focus on the things that are eternal: God himself, his word, and people made in his image. I’m grateful for the opportunity to slow down and reprioritize.
 
 <h2>What's Next</h2>
 
@@ -31,13 +31,13 @@ While uncertainties remain, there’s been <a href="https://virtualtrials.org/ne
 
 <img alt="Alpheus medical device" src="/assets/images/alpheus.jpg" />
 
-I’ve been advised that, in addition to this clinical trial, if at all possible, the optimal treatment remains immunotherapy through a revamped vaccine. As a result, and with encouragement from many, we’ve decided to reopen <a href="https://www.gofundme.com/f/Help-Tim-Fund-Vital-Brain-Cancer-Treatment">our GoFundMe</a> with a new target to offset the private costs (~$200,000) of this type of precision medicine not yet allowed to be administered in the United States. The goal is to start a new immunotherapy routine, Lord willing, by March after completing the 4 doses of the trial.
+I’ve been advised that, in addition to this clinical trial, if at all possible, the optimal treatment remains immunotherapy through a revamped vaccine. As a result, and with encouragement from many, we’ve decided to reopen <a href="https://www.gofundme.com/f/Help-Tim-Fund-Vital-Brain-Cancer-Treatment">our GoFundMe</a> with a new target to offset the private costs (~$200,000) of this type of precision medicine <a href="https://www.congress.gov/bill/118th-congress/senate-bill/1906/text?s=1&r=27">not yet allowed</a> to be administered in the United States. The goal is to start a new immunotherapy routine, Lord willing, by March after completing the 4 doses of the trial.
 
-My body has been resilient the past few months and I've been able to return to normal activity. It been a joy to spend extended time with family over the holidays, to reconnect with many, and keep busy volunteering my time in various capacities with <a href="provenanceprecisionmedicine.org">The Provenance Foundation</a>, <a href="https://www.patricesurley.com">Revitalized Health with Patrice</a> and <a href="https://drmaryjodimilia.com">Dr. Mary Jo Dimilla</a>. Check out their patient-centered work!
+My body has been resilient the past few months and I've been able to return to normal activity. It's been a joy to spend extended time with family over the holidays, to reconnect with many, and keep busy volunteering in various capacities with <a href="provenanceprecisionmedicine.org">The Provenance Foundation</a>, <a href="https://www.patricesurley.com">Revitalized Health with Patrice</a> and <a href="https://drmaryjodimilia.com">Dr. Mary Jo Dimilla</a>. Check out their patient-centered work!
 
 <x-blockquote class="font-mono" cite="https://www.esv.org/Psalm+16/#" caption="Psalm 16:11">
     <div>
-        <div><span class="text-sm font-semibold">11.</span> You make known to me cthe path of life;</div>
+        <div><span class="text-sm font-semibold">11.</span> You make known to me the path of life;</div>
         <div class="ml-6">in your presence there is dfullness of joy;</div>
         <div class="ml-6">at your right hand are epleasures forevermore.</div>
     </div>
