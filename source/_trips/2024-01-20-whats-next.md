@@ -13,7 +13,9 @@ Who knew you could cut out a large part of your brain and wake up functioning fa
 
 <iframe class="w-full aspect-video" src="https://www.youtube.com/embed/rzgpibTX_8k" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-Although surgery was a success, my pathology revealed aggressive cancer still lurks and repeating the “standard of care” would likely only buy a short amount of time before I'd likely find myself in a similar situation requiring surgery, if possible. Our prayers for results to show inflammation or the tumor to miraculously disappear seem unanswered. With such heavy news, I’ve wondered if I can attain a life that is “sorrowful, yet always rejoicing” (2 Corinthians 6:10).
+Although surgery was a success, my pathology revealed aggressive cancer still lurks and repeating the “standard of care” would likely only buy a short amount of time before I'd likely find myself in a similar situation.
+
+Our prayers for results to show inflammation or the tumor to miraculously disappear seem unanswered. With such heavy news, I’ve wondered if I can live as “sorrowful, yet always rejoicing” (2 Corinthians 6:10).
 
 Sorrow comes easily when I fixate on the circumstances. Joy, however, has been hard to find despite my diligent search through anticancer material. C.S. Lewis’ insight rings loud and clear how the Lord has reorienting purposes in pain.
 
