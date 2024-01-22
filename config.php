@@ -6,8 +6,8 @@ return [
     'production' => false,
     'baseUrl' => '',
     'title' => 'Live for the Line',
-    'description' => 'Tim\'s journey through brain cancer
-    ',
+    'description' => 'Tim\'s journey through brain cancer',
+    'image' => false,
     'collections' => [
         'tim' => [
             'path' => function ($page) {
