@@ -40,7 +40,7 @@ My body has been resilient the past few months and I've been able to return to n
 <x-blockquote class="font-mono" cite="https://www.esv.org/Psalm+16/#" caption="Psalm 16:11">
     <div>
         <div><span class="text-sm font-semibold">11.</span> You make known to me the path of life;</div>
-        <div class="ml-6">in your presence there is dfullness of joy;</div>
-        <div class="ml-6">at your right hand are epleasures forevermore.</div>
+        <div class="ml-6">in your presence there is fullness of joy;</div>
+        <div class="ml-6">at your right hand are pleasures forevermore.</div>
     </div>
 </x-blockquote>
