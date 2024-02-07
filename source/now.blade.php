@@ -4,7 +4,7 @@ items: [
     ["book", "Dark Clouds, Deep Mercy: Discovering the Grace of Lament", "Mark Vroegop", "https://www.crossway.org/books/dark-clouds-deep-mercy-tpb/"],
     ["music", "Challies' Favorite Songs of 2023", "Spotify", "https://open.spotify.com/playlist/3bjWB2yqxipS3x8crkua2Y?si=b80943d68add4c07"],
     ["article", "Press-pulse: a novel therapeutic strategy for the metabolic management of cancer", "Thomas N. Seyfried", "https://nutritionandmetabolism.biomedcentral.com/articles/10.1186/s12986-017-0178-2"],
-    ["money", "Green Tea", "Sei Mee Tea", "https://groundgreentea.com"],
+    ["money", "Sencha Green Tea", "Sei Mee Tea", "https://groundgreentea.com"],
     ["book", "Redemptive-Historical Bible Reading Plan", "ESV", "https://reasonabletheology.org/wp-content/uploads/Redemptive-Historical-Bible-Reading-Plan.pdf"],
 ]
 ---
@@ -18,7 +18,9 @@ items: [
                 <h1 class="not-prose font-serif text-7xl mt-1.5">Now</h1>
                 <p class="leading-normal text-zinc-300 my-3">I'm Tim and this what I am up to right <a href="https://nownownow.com/about">now</a>.</p>
 
-                <p>Living  in Hyde Park, MA with my beautiful wife Kate, and 3 young, energetic boys Caleb (7), Nathan (5), and Matthew (3). Volunteering with <a href="https://provenanceprecisionmedicine.org">The Provenance Foundation</a>, <a href="https://www.patricesurley.com">Revitalized Health with Patrice</a> and <a href="https://drmaryjodimilia.com">Dr. Mary Jo Dimilla</a>. Check out their patient-centered work!</p>
+                <p>📍 Living in Hyde Park, MA 🥶 alongside my wife Kate 🩷 and 3 young, energetic boys Caleb 🏀 (7), Nathan 🧩 (5), and Matthew 🎲 (3).</p>
+                <p>📣 Volunteering with <a href="https://provenanceprecisionmedicine.org">The Provenance Foundation</a>, <a href="https://www.patricesurley.com">Revitalized Health with Patrice</a> and <a href="https://drmaryjodimilia.com">Dr. Mary Jo Dimilla</a>. Check out their patient-centered work!</p>
+                <p>⚕️ Treatment in Long Island 🗽 Feb 7-8, and London 🇬🇧 Feb 12-14.
             </div>
 
             <section class="my-8">
