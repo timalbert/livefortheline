@@ -2,7 +2,7 @@
 extends: _layouts.post
 section: content
 title: Finding a brain tumor
-subtitle: Reflecting on 1-year post surgery and diagnosis
+subtitle: Reflecting on anniversary of my diagnosis
 date: 2/08/21
 icon: calendar
 ---
