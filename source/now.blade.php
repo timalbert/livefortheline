@@ -1,9 +1,10 @@
 ---
 items: [
     ["book", "A Day's Journey: Stories of Hope and Death-Defying Joy", "Tim Keesee", "http://bakerpublishinggroup.com/books/a-day-s-journey/415271"],
-    ["book", "Dark Clouds, Deep Mercy: Discovering the Grace of Lament", "Mark Vroegop", "https://www.crossway.org/books/dark-clouds-deep-mercy-tpb/"],
+    ["book", "The Voice of the Heart: A Call to Full Living", "Chip Dodd", "https://www.amazon.com/Voice-Heart-Call-Full-Living/dp/098439916X?nodl=1&dplnkId=968fce7d-06fc-458f-b2a4-e5c1dc9e1b80"],
     ["music", "Challies' Favorite Songs of 2023", "Spotify", "https://open.spotify.com/playlist/3bjWB2yqxipS3x8crkua2Y?si=b80943d68add4c07"],
     ["article", "Press-pulse: a novel therapeutic strategy for the metabolic management of cancer", "Thomas N. Seyfried", "https://nutritionandmetabolism.biomedcentral.com/articles/10.1186/s12986-017-0178-2"],
+    ["money", "Budget Wi$e", "Financial Coaching", "http://budgetwisefinancialcoaching.com"],
     ["money", "Sencha Green Tea", "Sei Mee Tea", "https://groundgreentea.com"],
     ["book", "Redemptive-Historical Bible Reading Plan", "ESV", "https://reasonabletheology.org/wp-content/uploads/Redemptive-Historical-Bible-Reading-Plan.pdf"],
 ]
