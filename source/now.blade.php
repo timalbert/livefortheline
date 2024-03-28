@@ -1,12 +1,10 @@
 ---
 items: [
-    ["book", "A Day's Journey: Stories of Hope and Death-Defying Joy", "Tim Keesee", "http://bakerpublishinggroup.com/books/a-day-s-journey/415271"],
-    ["book", "The Voice of the Heart: A Call to Full Living", "Chip Dodd", "https://www.amazon.com/Voice-Heart-Call-Full-Living/dp/098439916X?nodl=1&dplnkId=968fce7d-06fc-458f-b2a4-e5c1dc9e1b80"],
+    ["book", "Tripping over the Truth: How the Metabolic Theory of Cancer Is Overturning One of Medicine's Most Entrenched Paradigms", "Travis Christofferson", "https://www.amazon.com/Tripping-over-Truth-Overturning-Entrenched/dp/1603587292"],
+    ["book", "Coach Builder", "Donald Miller", "https://coachbuilder.com/book/"],
     ["music", "Challies' Favorite Songs of 2023", "Spotify", "https://open.spotify.com/playlist/3bjWB2yqxipS3x8crkua2Y?si=b80943d68add4c07"],
     ["article", "Press-pulse: a novel therapeutic strategy for the metabolic management of cancer", "Thomas N. Seyfried", "https://nutritionandmetabolism.biomedcentral.com/articles/10.1186/s12986-017-0178-2"],
-    ["money", "Budget Wi$e", "Financial Coaching", "http://budgetwisefinancialcoaching.com"],
     ["money", "Sencha Green Tea", "Sei Mee Tea", "https://groundgreentea.com"],
-    ["book", "Redemptive-Historical Bible Reading Plan", "ESV", "https://reasonabletheology.org/wp-content/uploads/Redemptive-Historical-Bible-Reading-Plan.pdf"],
 ]
 ---
 
@@ -19,9 +17,33 @@ items: [
                 <h1 class="not-prose font-serif text-7xl mt-1.5">Now</h1>
                 <p class="leading-normal text-zinc-300 my-3">I'm Tim and this what I am up to right <a href="https://nownownow.com/about">now</a>.</p>
 
-                <p>📍 Living in Hyde Park, MA 🥶 alongside my wife Kate 🩷 and 3 young, energetic boys Caleb 🏀 (7), Nathan 🧩 (5), and Matthew 🎲 (3).</p>
-                <p>📣 Volunteering with <a href="https://provenanceprecisionmedicine.org">The Provenance Foundation</a>, <a href="https://www.patricesurley.com">Revitalized Health with Patrice</a> and <a href="https://drmaryjodimilia.com">Dr. Mary Jo Dimilla</a>. Check out their patient-centered work!</p>
-                <p>⚕️ Treatment in Long Island 🗽 Feb 7-8, and London 🇬🇧 Feb 12-14.
+                <ul class="list-none p-0">
+                    <li>📍 <b>Location</b>
+                        <ul class="m-0 leading-snug list-disc list-inside">
+                            <li>Hyde Park, MA 🥶</li>
+                            <li>living by faith alongside my wife Kate and 3 boys:
+                            <ul>
+                                <li>Caleb 🏀 (7)</li>
+                                <li>Nathan 🧩 (5)</li>
+                                <li>Matthew 🎲 (3)</li>
+                            </ul>
+                        </ul>
+                    </li>
+                    <li class="mt-10">⚕️ <b>Treatment</b>
+                        <ul class="m-0 leading-snug">
+                            <li>🇬🇧 DCvax induction phase April 3rd, 10, and 16th</li>
+                            <li>🇩🇪 Immune Monitoring April 15th</li>
+                            <li>🗽 Completed <a href="https://www.alpheusmedical.com">Alpheus Medical's</a> Sonodynamic Brain Cancer Clinical Trial</li>
+                        </ul>
+                    </li>
+                    <li class="mt-10">📣 <b>Volunteering</b>
+                        <ul class="m-0 leading-snug list-disc list-inside">
+                            <li><a href="https://provenanceprecisionmedicine.org">The Provenance Foundation</a></li>
+                            <li><a href="https://www.patricesurley.com">Revitalized Health with Patrice</a></li>
+                            <li><a href="https://drmaryjodimilia.com">Dr. Mary Jo Dimilia</a></li>
+                        </ul>
+                    </li>
+                </ul>
             </div>
 
             <section class="my-8">
