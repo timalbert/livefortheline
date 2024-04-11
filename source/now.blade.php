@@ -1,9 +1,9 @@
 ---
 items: [
-    ["book", "Tripping over the Truth: How the Metabolic Theory of Cancer Is Overturning One of Medicine's Most Entrenched Paradigms", "Travis Christofferson", "https://www.amazon.com/Tripping-over-Truth-Overturning-Entrenched/dp/1603587292"],
+    ["book", "When God Doesn't Fix It: Lessons You Never Wanted to Learn, Truths You Can't Live Without", "Laura Story", "https://www.amazon.com/When-God-Doesnt-Fix-Lessons/dp/0718036972#:~:text=In%20When%20God%20Doesn't,use%20us%20in%20extraordinary%20ways"],
+    ["video", "Facing the Last Enemy", "Guy Waters", "https://www.ligonier.org/learn/series/facing-the-last-enemy"],
     ["book", "Coach Builder", "Donald Miller", "https://coachbuilder.com/book/"],
     ["music", "Challies' Favorite Songs of 2023", "Spotify", "https://open.spotify.com/playlist/3bjWB2yqxipS3x8crkua2Y?si=b80943d68add4c07"],
-    ["article", "Press-pulse: a novel therapeutic strategy for the metabolic management of cancer", "Thomas N. Seyfried", "https://nutritionandmetabolism.biomedcentral.com/articles/10.1186/s12986-017-0178-2"],
     ["money", "Sencha Green Tea", "Sei Mee Tea", "https://groundgreentea.com"],
 ]
 ---
