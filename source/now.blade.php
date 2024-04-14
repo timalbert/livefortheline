@@ -10,6 +10,7 @@ items: [
     ["video", "Facing the Last Enemy", "Guy Waters", "https://www.ligonier.org/learn/series/facing-the-last-enemy"],
     ["money", "MyMojo Health Meter", "Keto Mojo", "https://keto-mojo.com"],
     ["money", "Sencha Green Tea", "Sei Mee Tea", "https://groundgreentea.com"],
+    ["money", "Meat Delivery Service", "Good Ranchers", "https://www.goodranchers.com/account/orders"],
     ["money", "Meal Planning", "Plan To Eat", "https://app.plantoeat.com/ref/7254107407"],
 ]
 ---
