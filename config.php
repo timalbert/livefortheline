@@ -5,7 +5,7 @@ use Illuminate\Support\Str;
 return [
     'production' => false,
     'baseUrl' => '',
-    'title' => 'Live for the Line',
+    'siteTitle' => 'Live for the Line',
     'description' => 'Tim\'s journey through brain cancer',
     'image' => false,
     'collections' => [

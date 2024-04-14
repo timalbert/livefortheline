@@ -3,9 +3,8 @@
     <head>
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1">
-        <link rel="canonical" href="{{ $page->getUrl() }}">
+        <title>{{ ($page->title) ? $page->title .' - ' : '' }} {{ $page->siteTitle }}</title>
         <meta name="description" content="{{ $page->description }}">
-        <title>{{ $page->title }}</title>
 
         @if ($page->image)
         <meta property="og:image" content="/assets/images/{{ $page->image }}" />
@@ -19,8 +18,10 @@
         <link rel="icon" type="image/png" sizes="32x32" href="/assets/favicons/favicon-32x32.png">
         <link rel="icon" type="image/png" sizes="16x16" href="/assets/favicons/favicon-128x128.png">
 
-        <!-- Fathom - beautiful, simple website analytics -->
-        <script src="https://cdn.usefathom.com/script.js" data-site="EZAZJZJG" defer></script>
+        @if ($page->production)
+            <!-- Fathom - beautiful, simple website analytics -->
+            <script src="https://cdn.usefathom.com/script.js" data-site="EZAZJZJG" defer></script>
+        @endif
     </head>
     <body class="bg-slate-700 text-white font-sans antialiased">
         <div class="bg-gradient-to-b from-slate-900 to-slate-800">

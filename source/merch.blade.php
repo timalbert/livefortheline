@@ -1,4 +1,8 @@
-@extends('_layouts.main')
+------
+extends: _layouts.main
+section: content
+title: Merchandise
+---
 
 @section('body')
     <div class="max-w-4xl pb-12 px-6 mt-10 mx-auto">

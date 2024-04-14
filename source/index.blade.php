@@ -1,7 +1,10 @@
-@extends('_layouts.main')
+------
+extends: _layouts.main
+section: content
+title: Tim's journey through brain cancer
+---
 
 @section('body')
-
     <!-- hero -->
     <section class="sm:flex mx-auto mt-8 lg:mt-16 px-6 max-w-6xl">
         <div class="text-center sm:text-left sm:w-7/12 sm:pr-9">
@@ -19,7 +22,7 @@
     </section>
 
     <!-- updates/reflections -->
-    <section id="updates" class="lg:flex max-w-6xl mx-auto px-6 py-12">
+    <section id="updates" class="lg:flex max-w-6xl mx-auto px-6 py-16">
         <div class="lg:w-1/2 mt-12 lg:mt-0">
             <h2 class="flex justify-center sm:leading-[125%] text-3xl sm:text-4xl font-medium">
                 <span class="relative whitespace-nowrap">
@@ -58,7 +61,7 @@
     </section>
 
     <!-- journey -->
-    <section id="journey" class="bg-zinc-950/30 px-6 py-12">
+    <section id="journey" class="bg-zinc-950/30 px-6 py-16">
         <h2 class="flex justify-center sm:leading-[125%] text-3xl sm:text-4xl font-medium">
             <span class="relative whitespace-nowrap">
                 Recounting My Diagnosis
@@ -86,7 +89,7 @@
     </section>
 
     <!-- contact -->
-    <section id="contact" class="px-6 py-12">
+    <section id="contact" class="px-6 py-16">
         <div class="max-w-screen-xl mx-auto">
             <h2 class="flex justify-center sm:leading-[125%] text-3xl sm:text-4xl font-medium">
                 <span class="relative whitespace-nowrap">

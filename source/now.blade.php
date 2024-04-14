@@ -1,9 +1,14 @@
----
+------
+extends: _layouts.main
+section: content
+title: Now
 items: [
-    ["book", "When God Doesn't Fix It: Lessons You Never Wanted to Learn, Truths You Can't Live Without", "Laura Story", "https://www.amazon.com/When-God-Doesnt-Fix-Lessons/dp/0718036972#:~:text=In%20When%20God%20Doesn't,use%20us%20in%20extraordinary%20ways"],
+    ["music", "Mike Cavanaugh", "Spotify", "https://open.spotify.com/artist/4LDBs5aidl2cZ5WOvJ8u7X?si=EVh0f3b2SYiW8GuK8s7ljQ"],
+    ["book", "When God Doesn't Fix It: Lessons You Never Wanted to Learn, Truths You Can't Live Without", "Laura Story", "https://amzn.to/3TVJLoQ"],
+    ["book", "Understanding and Trusting Our Great God: Words from the Wise", "Tim Challies", "https://amzn.to/3W10dGO"],
+    ["book", "Coach Builder", "Donald Miller", "https://amzn.to/440IMIj"],
     ["video", "Facing the Last Enemy", "Guy Waters", "https://www.ligonier.org/learn/series/facing-the-last-enemy"],
-    ["book", "Coach Builder", "Donald Miller", "https://coachbuilder.com/book/"],
-    ["music", "Challies' Favorite Songs of 2023", "Spotify", "https://open.spotify.com/playlist/3bjWB2yqxipS3x8crkua2Y?si=b80943d68add4c07"],
+    ["money", "MyMojo Health Meter", "Keto Mojo", "https://keto-mojo.com"],
     ["money", "Sencha Green Tea", "Sei Mee Tea", "https://groundgreentea.com"],
 ]
 ---
@@ -49,7 +54,7 @@ items: [
             <section class="my-8">
                 @if($page->items)
                     <h2 class="font-semibold text-2xl mt-10">Enjoying:</h2>
-                    <ul class="mt-4">
+                    <ul class="mt-4 list-inside">
                         @foreach($page->items as $item)
                             <li class="block mt-3">
                                 <a class="flex hover:text-yellow-500" href="{{ $item[3] }}">
