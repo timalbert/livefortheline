@@ -18,6 +18,9 @@
         <link rel="apple-touch-icon" sizes="180x180" href="/assets/favicons/apple-touch-icon.png">
         <link rel="icon" type="image/png" sizes="32x32" href="/assets/favicons/favicon-32x32.png">
         <link rel="icon" type="image/png" sizes="16x16" href="/assets/favicons/favicon-128x128.png">
+
+        <!-- Fathom - beautiful, simple website analytics -->
+        <script src="https://cdn.usefathom.com/script.js" data-site="EZAZJZJG" defer></script>
     </head>
     <body class="bg-slate-700 text-white font-sans antialiased">
         <div class="bg-gradient-to-b from-slate-900 to-slate-800">
