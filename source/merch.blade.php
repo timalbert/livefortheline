@@ -9,7 +9,7 @@ title: Merchandise
         <div class="text-xl leading-relaxed">
             <div class="prose:dark prose-xl prose-white prose-a:text-yellow-500 hover:prose-a:text-zinc-500 hover:prose-a:border-b hover:prose-a:border-zinc-500">
                 <h1 class="not-prose font-serif text-7xl mt-1.5">Merch</h1>
-                <p class="leading-normal text-zinc-300 my-3">A <a href="https://www.playitagainsports.com/locations/dedham-ma">neighborhood sports store</a> offered to create an online shop to sell a few items of "Live for the Line" gear. Even better, a portion of each purchase will go towards Tim's medical expeneses!</p>
+                <p class="leading-normal text-zinc-300 my-3">Our <a href="https://www.playitagainsports.com/locations/dedham-ma">neighborhood sports store</a> offered to create an online shop to sell a few items of "Live for the Line" gear. Even better, a portion of each purchase will go towards Tim's medical expeneses!</p>
 
                 <div class="mt-12 grid grid-cols-1 gap-y-10 gap-x-6 sm:grid-cols-2 xl:gap-x-12 text-center">
                     <div>

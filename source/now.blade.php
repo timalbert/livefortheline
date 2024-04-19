@@ -3,14 +3,14 @@ extends: _layouts.main
 section: content
 title: Now
 items: [
-    ["music", "Mike Cavanaugh", "Spotify", "https://open.spotify.com/artist/4LDBs5aidl2cZ5WOvJ8u7X?si=EVh0f3b2SYiW8GuK8s7ljQ"],
+    ["music", "All That I Ever Did", "Mike Cavanaugh", "https://open.spotify.com/album/5TWd2HKFNGORGEC7k1mzSt?si=6ip1Qr1oTZSTmIt0tjH0_g"],
     ["book", "When God Doesn't Fix It: Lessons You Never Wanted to Learn, Truths You Can't Live Without", "Laura Story", "https://amzn.to/3TVJLoQ"],
     ["book", "Understanding and Trusting Our Great God: Words from the Wise", "Tim Challies", "https://amzn.to/3W10dGO"],
     ["book", "Coach Builder", "Donald Miller", "https://amzn.to/440IMIj"],
     ["video", "Facing the Last Enemy", "Guy Waters", "https://www.ligonier.org/learn/series/facing-the-last-enemy"],
     ["money", "MyMojo Health Meter", "Keto Mojo", "https://keto-mojo.com"],
     ["money", "Sencha Green Tea", "Sei Mee Tea", "https://groundgreentea.com"],
-    ["money", "Meat Delivery Service", "Good Ranchers", "https://www.goodranchers.com/account/orders"],
+    ["money", "Meat Delivery Service", "Good Ranchers", "https://www.goodranchers.com/"],
     ["money", "Meal Planning", "Plan To Eat", "https://app.plantoeat.com/ref/7254107407"],
 ]
 ---
