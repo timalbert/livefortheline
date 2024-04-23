@@ -18,6 +18,8 @@
         <link rel="icon" type="image/png" sizes="32x32" href="/assets/favicons/favicon-32x32.png">
         <link rel="icon" type="image/png" sizes="16x16" href="/assets/favicons/favicon-128x128.png">
 
+        <script src="https://static.esvmedia.org/crossref/crossref.min.js" type="text/javascript"></script>
+
         @if ($page->production)
             <!-- Fathom - beautiful, simple website analytics -->
             <script src="https://cdn.usefathom.com/script.js" data-site="EZAZJZJG" defer></script>

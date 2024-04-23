@@ -1,4 +1,4 @@
-<div class="bg-zinc-50 hover:bg-zinc-200 shadow-inner group relative lg:rotate-3 rotate-2 p-4 rounded-md sm:text-5xl lg:mt-4 lg:-top-6 lg:-left-4">
+<div class="esv-crossref-ignore bg-zinc-50 hover:bg-zinc-200 shadow-inner group relative lg:rotate-3 rotate-2 p-4 rounded-md sm:text-5xl lg:mt-4 lg:-top-6 lg:-left-4">
     <div class="">
         <img class="rounded-sm group-hover:opacity-75" src="/assets/images/{{ $updates->where('feature', true)->first()->image }}" alt="Featured image">
     </div>

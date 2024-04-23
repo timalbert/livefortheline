@@ -1,3 +1,9 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+a.esv-crossref-link {
+    color: inherit !important;
+    /* text-decoration: underline !important; */
+    border-bottom: 1px dashed darkgray;
+}

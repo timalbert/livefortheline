@@ -3,7 +3,7 @@
     @if(isset($caption))
         <figcaption class="font-sm">
             @if(isset($cite))
-                <a class="text-yellow-500" href="{{ $cite }}">- {{ $caption }}</a>
+                <a class="esv-crossref-ignore text-yellow-500" href="{{ $cite }}">- {{ $caption }}</a>
             @else
                 - {{ $caption }}
             @endif

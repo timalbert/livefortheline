@@ -2,13 +2,13 @@
 
 @section('body')
     <div class="max-w-2xl text-lg leading-relaxed mx-auto px-6 mt-9 sm:mt-12">
-        <div class="text-center">
+        <div class="esv-crossref-ignore text-center">
             @if ($page->date)
                 <div class="inline-block bg-yellow-200/10 border border-yellow-300 text-yellow-500 font-mono font-semibold text-xs rounded-full px-3 py-1.5">{{ $page->date }}</div>
             @endif
             <h1 class="font-serif text-4xl sm:text-5xl mt-3 sm:mt-4">{{ $page->title }}</h1>
             @if ($page->subtitle)
-                <p class="leading-normal text-zinc-300 my-3">{{ $page->subtitle }}</p>
+                <p class="eading-normal text-zinc-300 my-3">{{ $page->subtitle }}</p>
             @endif
         </div>
 
