@@ -11,9 +11,9 @@ title: Tim's journey through brain cancer
             <h1 class="font-serif text-4xl lg:text-6xl mt-6">Tim's journey through brain cancer</h1>
             <p class="text-zinc-300 sm:text-xl leading-7 sm:leading-loose mt-6">For this light momentary affliction is preparing for us an eternal weight of glory beyond all comparison (2 Cor. 4:16-17).</p>
             <div class="mt-8 lg:mt-8 flex gap-4 justify-center sm:justify-normal">
-                <x-button text="Diagnosis" href="/#journey" icon="clipboard" />
-                <x-button text="Now" href="/now" icon="clock" />
+                {{-- <x-button text="Diagnosis" href="/#journey" icon="clipboard" /> --}}
                 <x-button text="Contact" href="/#contact" icon="contact" />
+                <x-button text="Now" href="/now" icon="clock" />
             </div>
         </div>
         <div class="sm:w-5/12 sm:-top-6 sm:-right-6 mt-10 sm:mt-0">
