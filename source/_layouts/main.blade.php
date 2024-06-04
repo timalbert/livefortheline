@@ -8,6 +8,9 @@
 
         @if ($page->image)
         <meta property="og:image" content="/assets/images/{{ $page->image }}" />
+        <meta name="twitter:card" content="summary_large_image" />
+        <meta property="og:image:width" content="1080" />
+        <meta property="og:image:height" content="1080" />
         @endif
 
         <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -17,7 +20,6 @@
         <link rel="apple-touch-icon" sizes="180x180" href="/assets/favicons/apple-touch-icon.png">
         <link rel="icon" type="image/png" sizes="32x32" href="/assets/favicons/favicon-32x32.png">
         <link rel="icon" type="image/png" sizes="16x16" href="/assets/favicons/favicon-128x128.png">
-
         <script src="https://static.esvmedia.org/crossref/crossref.min.js" type="text/javascript"></script>
 
         @if ($page->production)

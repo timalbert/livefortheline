@@ -3,11 +3,11 @@ extends: _layouts.main
 section: content
 title: Now
 items: [
+    ["book", "Introducing Covenant Theology", "Michael Horton", "https://amzn.to/4e9d6p2"],
+    ["book", "Kingdom Man: Every Man's Destiny", "Tony Evans", "https://amzn.to/45canH5"],
+    ["book", "A Day's Journey", "Tim Keesee", "https://amzn.to/4c6kG1S"],
+    ["video", "Not Ashamed: Paul's Letter to the Romans", "W. Robert Godfrey", "https://connect.ligonier.org/library/not-ashamed-pauls-letter-to-the-romans-203855/608445/about/"],
     ["music", "All That I Ever Did", "Mike Cavanaugh", "https://open.spotify.com/album/5TWd2HKFNGORGEC7k1mzSt?si=6ip1Qr1oTZSTmIt0tjH0_g"],
-    ["book", "When God Doesn't Fix It: Lessons You Never Wanted to Learn, Truths You Can't Live Without", "Laura Story", "https://amzn.to/3TVJLoQ"],
-    ["book", "Understanding and Trusting Our Great God: Words from the Wise", "Tim Challies", "https://amzn.to/3W10dGO"],
-    ["book", "Coach Builder", "Donald Miller", "https://amzn.to/440IMIj"],
-    ["video", "Facing the Last Enemy", "Guy Waters", "https://www.ligonier.org/learn/series/facing-the-last-enemy"],
     ["money", "MyMojo Health Meter", "Keto Mojo", "https://keto-mojo.com"],
     ["money", "Sencha Green Tea", "Sei Mee Tea", "https://groundgreentea.com"],
     ["money", "Meat Delivery Service", "Good Ranchers", "https://www.gr0zpw2st.com/3XLJTL/3QQG7/"],
@@ -30,16 +30,15 @@ items: [
                             <li>Hyde Park, MA 🥶</li>
                             <li>living by faith alongside my wife Kate and 3 boys:
                             <ul>
-                                <li>Caleb 🏀 (7)</li>
-                                <li>Nathan 🧩 (5)</li>
+                                <li>Caleb 🏀 (8)</li>
+                                <li>Nathan 🧩 (6)</li>
                                 <li>Matthew 🎲 (3)</li>
                             </ul>
                         </ul>
                     </li>
                     <li class="mt-10">⚕️ <b>Treatment</b>
                         <ul class="m-0 leading-snug">
-                            <li>🇬🇧 DCvax induction phase April 3rd, 10, and 16th</li>
-                            <li>🇩🇪 Immune Monitoring April 15th</li>
+                            <li>🇬🇧 DCvax 5th dose July 5th</li>
                             <li>🗽 Completed <a href="https://www.alpheusmedical.com">Alpheus Medical's</a> Sonodynamic Brain Cancer Clinical Trial</li>
                         </ul>
                     </li>
