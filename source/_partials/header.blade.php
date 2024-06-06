@@ -1,9 +1,6 @@
 <div class="flex justify-center lg:justify-end p-1 lg:p-2 bg-slate-50/5 lg:bg-transparent">
 
-    @if($page->getPath())
-        <a href="/" class="p-2">Home</a>
-        {{-- <x-button text="Home" href="/" icon="home" btnclass="text-xs rounded-sm" /> --}}
-    @endif
+    <a href="/" class="p-2.5 text-sm uppercase text-slate-300 hover:text-yellow-500 font-semibold">Home</a>
    <a href="/#journey" class="p-2.5 text-sm uppercase text-slate-300 hover:text-yellow-500 font-semibold">Diagnosis</a>
    <a href="/#updates" class="p-2.5 text-sm uppercase text-slate-300 hover:text-yellow-500 font-semibold"> Updates</a>
    <a href="/merch" class="p-2.5 text-sm uppercase text-slate-300 hover:text-yellow-500 font-semibold"> Merch</a>
