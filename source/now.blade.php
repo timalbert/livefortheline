@@ -4,7 +4,7 @@ section: content
 title: Now
 items: [
     ["book", "Introducing Covenant Theology", "Michael Horton", "https://amzn.to/4e9d6p2"],
-    ["book", "Kingdom Man: Every Man's Destiny", "Tony Evans", "https://amzn.to/45canH5"],
+    ["book", "How to Tell the Truth: The Story of How God Saved Me to Win Hearts--Not Just Arguments", "Preston Perry", "https://amzn.to/3yREQON"],
     ["book", "A Day's Journey", "Tim Keesee", "https://amzn.to/4c6kG1S"],
     ["video", "Not Ashamed: Paul's Letter to the Romans", "W. Robert Godfrey", "https://connect.ligonier.org/library/not-ashamed-pauls-letter-to-the-romans-203855/608445/about/"],
     ["music", "All That I Ever Did", "Mike Cavanaugh", "https://open.spotify.com/album/5TWd2HKFNGORGEC7k1mzSt?si=6ip1Qr1oTZSTmIt0tjH0_g"],
@@ -27,7 +27,7 @@ items: [
                 <ul class="list-none p-0">
                     <li>📍 <b>Location</b>
                         <ul class="m-0 leading-snug list-disc list-inside">
-                            <li>Hyde Park, MA 🥶</li>
+                            <li>Hyde Park, MA 🍀</li>
                             <li>living by faith alongside my wife Kate and 3 boys:
                             <ul>
                                 <li>Caleb 🏀 (8)</li>
@@ -44,7 +44,7 @@ items: [
                     </li>
                     <li class="mt-10">📣 <b>Volunteering</b>
                         <ul class="m-0 leading-snug list-disc list-inside">
-                            <li><a href="https://provenanceprecisionmedicine.org">The Provenance Foundation</a></li>
+                            <li><a href="https://provenanceprecisionmedicine.org">Provenance Precision Medicine Foundation</a></li>
                             <li><a href="https://www.patricesurley.com">Revitalized Health with Patrice</a></li>
                             <li><a href="https://drmaryjodimilia.com">Dr. Mary Jo Dimilia</a></li>
                         </ul>
