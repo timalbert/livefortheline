@@ -24,9 +24,9 @@ title: Tim's journey through brain cancer
                 <form method="POST" action="/success" name="subscribe" data-netlify="true">
                     <div class="max-w-md space-y-4">
                         <div>
-                            <label for="example-input-1" class="block text-zinc-300 text-base">Get updates from Tim</label>
+                            <label for="email-subscribe" class="block text-zinc-300 text-base">Get updates from Tim</label>
                             <div class="mt-1.5 flex items-stretch">
-                                <input id="example-input-1" type="email" class=" w-full px-5 py-2 bg-gray-200/90 text-zinc-900 border-transparent rounded-l" placeholder="email">
+                                <input id="email-subscribe" name="email-subscribe" type="email" class=" w-full px-5 py-2 bg-gray-200/90 text-zinc-900 border-transparent rounded-l" placeholder="email">
                                 <button class="btn px-3 text-white bg-gray-50/10 hover:bg-slate-950/10 border border-slate-100/10  rounded-r">Subscribe</button>
                             </div>
                         </div>
