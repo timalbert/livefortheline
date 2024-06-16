@@ -2,7 +2,7 @@
     <div class="w-2/3">
         <h3 class="text-xl text-slate-100 font-bold">
             <a href="{{ $card->getUrl() }}">
-                <span aria-hidden="true" class="absolute inset-0"></span>
+                <span aria-hidden="true" class="absolute inset-0 z-10"></span>
                 {{ $card->title }}
             </a>
         </h3>
