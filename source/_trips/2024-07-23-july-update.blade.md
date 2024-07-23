@@ -7,7 +7,7 @@ date: 7/23/24
 image: summer24.jpg
 ---
 
-The last few months have been fast-paced and  full of highs and lows for our family. As we transitioned into summer-mode.  Our 3 young boys are mostly at home. I traveled to London to receive the 4th and 5th doses of a Dendritic-cell vaccine in London. I returned home to a disappointing MRI which revealed tumor progression.
+The last few months have been fast-paced and  full of highs and lows for our family as we transitioned into summer-mode.  Our 3 young boys are mostly at home and I've traveled twice to London  the 4th and 5th doses of a Dendritic-cell vaccine. I returned home to a disappointing MRI which revealed tumor progression.
 
 While the scope of my treatment takes shape, the next steps are clear: I will start another cycle of chemotherapy coupled with an inhibitor to get the regrowth under control, Lord Willing.
 
