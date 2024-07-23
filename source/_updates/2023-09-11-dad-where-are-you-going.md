@@ -4,7 +4,6 @@ section: content
 title: Dad, Where Are You Going?
 subtitle: Lamenting the cancer discussion with our children. (Psalm 77)
 date: 9/15/23
-feature: true
 image: caleb-dfci.jpg
 ---
 

@@ -4,6 +4,7 @@ section: content
 title: My Hope Through Terminal Illness
 subtitle: Take heart - in the world you will have tribulation.
 date: 9/6/22
+feature: true
 image: boys-at-beach.jpg
 ---
 

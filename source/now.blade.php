@@ -4,14 +4,8 @@ section: content
 title: Now
 items: [
     ["book", "Introducing Covenant Theology", "Michael Horton", "https://amzn.to/4e9d6p2"],
-    ["book", "How to Tell the Truth: The Story of How God Saved Me to Win Hearts--Not Just Arguments", "Preston Perry", "https://amzn.to/3yREQON"],
-    ["book", "A Day's Journey", "Tim Keesee", "https://amzn.to/4c6kG1S"],
-    ["video", "Not Ashamed: Paul's Letter to the Romans", "W. Robert Godfrey", "https://connect.ligonier.org/library/not-ashamed-pauls-letter-to-the-romans-203855/608445/about/"],
     ["music", "All That I Ever Did", "Mike Cavanaugh", "https://open.spotify.com/album/5TWd2HKFNGORGEC7k1mzSt?si=6ip1Qr1oTZSTmIt0tjH0_g"],
-    ["money", "MyMojo Health Meter", "Keto Mojo", "https://keto-mojo.com"],
-    ["money", "Sencha Green Tea", "Sei Mee Tea", "https://groundgreentea.com"],
-    ["money", "Meat Delivery Service", "Good Ranchers", "https://www.gr0zpw2st.com/3XLJTL/3QQG7/"],
-    ["money", "Meal Planning", "Plan To Eat", "https://app.plantoeat.com/ref/7254107407"],
+    ["money", "H2 Water", "H2 Water For Life", "https://h2waterforlife.com/hydrogen-benefits/"],
 ]
 ---
 
