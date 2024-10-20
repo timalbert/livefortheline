@@ -3,8 +3,9 @@ extends: _layouts.main
 section: content
 title: Now
 items: [
-    ["book", "Introducing Covenant Theology", "Michael Horton", "https://amzn.to/4e9d6p2"],
+    ["book", "Depression: Finding Christ in the Darkness", "Ed Welch", "https://www.wtsbooks.com/collections/31-day-devotionals-for-life/products/depression-finding-christ-in-the-darkness-31-day-devotionals-for-life-9781629959641"],
     ["music", "All That I Ever Did", "Mike Cavanaugh", "https://open.spotify.com/album/5TWd2HKFNGORGEC7k1mzSt?si=6ip1Qr1oTZSTmIt0tjH0_g"],
+    ["music", "Practice", "Jackie Hill Perry", "https://open.spotify.com/album/12lqoAlRSEuk75PSe1xAmm?si=FAM3nz4LRSyY9LyrevKnxg"],
     ["money", "H2 Water", "H2 Water For Life", "https://h2waterforlife.com/hydrogen-benefits/"],
 ]
 ---

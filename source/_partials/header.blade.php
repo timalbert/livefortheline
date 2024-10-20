@@ -1,4 +1,4 @@
-<div class="flex justify-center lg:justify-end p-1 lg:p-2 bg-slate-50/5 lg:bg-transparent">
+<div class="flex justify-center lg:justify-end p-1 lg:p-2 bg-slate-50/5 lg:bg-transparent overflow-x-auto">
 
     <a href="/" class="p-2.5 text-sm uppercase text-slate-300 hover:text-yellow-500 font-semibold">Home</a>
    <a href="/#journey" class="p-2.5 text-sm uppercase text-slate-300 hover:text-yellow-500 font-semibold">Diagnosis</a>
