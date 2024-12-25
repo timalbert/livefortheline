@@ -26,7 +26,7 @@ title: Tim's journey through brain cancer
                         <div>
                             <label for="email-subscribe" class="block text-zinc-300 text-base">Get updates from Tim</label>
                             <div class="mt-1.5 flex items-stretch">
-                                <input id="email-subscribe" name="email-subscribe" type="email" class=" w-full px-5 py-2 bg-gray-200/90 text-zinc-900 border-transparent rounded-l" placeholder="email">
+                                <input id="email-subscribe" name="email-subscribe" required type="email" class=" w-full px-5 py-2 bg-gray-200/90 text-zinc-900 border-transparent rounded-l" placeholder="email">
                                 <button class="btn px-3 text-white bg-gray-50/10 hover:bg-slate-950/10 border border-slate-100/10  rounded-r">Subscribe</button>
                             </div>
                         </div>
