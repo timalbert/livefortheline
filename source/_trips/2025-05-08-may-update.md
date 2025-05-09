@@ -1,9 +1,10 @@
 ---
 extends: _layouts.post
 section: content
-title: May Update
-subtitle: 
+title: May Health Update
+subtitle: Faith, Family, and Gratitude 
 date: 5/8/25
+image: tim-and-family.jpg
 ---
 
 Dear Family and Friends,
