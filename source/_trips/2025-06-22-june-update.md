@@ -2,7 +2,7 @@
 extends: _layouts.post
 section: content
 title: June Health Update
-subtitle: 
+subtitle: Psalm 146:2
 date: 6/22/25
 image: june-2025-update.jpg
 ---
